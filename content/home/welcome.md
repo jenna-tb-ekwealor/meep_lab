@@ -9,7 +9,7 @@ weight: 10 # Order that this section will appear.
 title: |
   Wowchemy  
   Research Group
-hero_media: welcome.jpg
+hero_media: welcome.png
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
@@ -20,4 +20,4 @@ design:
 
 <br>
 
-The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+The **MEEP Lab** is opening at San Francisco State University in January 2024!
