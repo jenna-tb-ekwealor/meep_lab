@@ -5,3 +5,6 @@
 /resources/
 public/
 assets/jsconfig.json
+
+content/authors/admin/.DS_Store
+content/authors/.DS_Store
