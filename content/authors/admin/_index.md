@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Jenna
+title: Jenna Ekwealor
 
 # Is this the primary user of the site?
 superuser: true
