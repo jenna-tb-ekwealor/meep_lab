@@ -14,6 +14,9 @@ design:
   # Add custom styles
   css_style:
   css_class:
+  spacing:
+    # Customize the section spacing. Order is top, right, bottom, left.
+    padding: ["20px", "0", "20px", "0"]
 ---
 
 <br>
