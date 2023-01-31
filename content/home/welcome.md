@@ -12,7 +12,7 @@ hero_media: welcome.png
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
-  image_position: left
+  image_position: 'left'
   # Add custom styles
   css_style:
   css_class:
