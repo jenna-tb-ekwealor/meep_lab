@@ -15,6 +15,9 @@ name = "Minimal-edit"
   home_section_odd = "rgb(255, 255, 255)" # white
   home_section_even = "rgb(244, 240, 239)" # light beige
 
+  link = "#61512B" # medium brown green
+  link_hover = "#BFCB31" # bright green
+
 [dark]
   # Primary
   primary = "#61512A" # medium brown green
