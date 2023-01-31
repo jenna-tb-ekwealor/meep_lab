@@ -18,6 +18,10 @@ design:
   css_class:
 ---
 
+{{% callout warning %}}
+This site is under construction! Check back soon.
+{{% /callout %}}
+
 <br>
 
 The **MEEP Lab** is opening at San Francisco State University in January 2024!
