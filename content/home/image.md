@@ -19,7 +19,7 @@ design:
   columns: '1'
   background:
     image: cani.png
-    image_darken: 0.5
+    image_darken: 0
     image_parallax: false
     image_position: center
     image_size: cover
