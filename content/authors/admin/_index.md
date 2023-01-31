@@ -19,7 +19,14 @@ bio: Lab PI and moss evangelist.
 interests:
   - Physiological ecology
   - Evolution
+  - Bryophytes
   - Drylands
+
+hobbies:
+  - Painting
+  - Hiking & camping
+  
+
 
 education:
   courses:
