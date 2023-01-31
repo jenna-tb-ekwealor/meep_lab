@@ -15,9 +15,16 @@ weight: 100
 title:
 subtitle:
 widget: blank
-hero_media: welcome-dark.png
+hero_media: welcome-light.png
 design:
-  columns: '2'
+  # Choose how many columns the section has. Valid values: 1 or 2.
+  columns: '1'
+  # Add custom styles
+  css_style:
+  css_class:
+  spacing:
+    # Customize the section spacing. Order is top, right, bottom, left.
+    padding: ["30px", "0", "30px", "0"]
   background:
     # Choose a color such as from https://html-color-codes.info
     color: 'black'
