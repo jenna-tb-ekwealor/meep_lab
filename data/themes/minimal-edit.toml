@@ -3,7 +3,7 @@ name = "Minimal-edit"
 
 [light]
   # Primary
-  primary = "#BFCB31"
+  primary = "#61512A"
 
   # Menu
   menu_primary = "#fff"
@@ -17,7 +17,7 @@ name = "Minimal-edit"
 
 [dark]
   # Primary
-  primary = "#BFCB31"
+  primary = "#61512A"
 
   link = "#BFCB31"
   link_hover = "#BFCB31"
