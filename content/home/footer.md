@@ -1,20 +1,12 @@
 ---
-# An instance of the Blank widget.
-# Documentation: https://wowchemy.com/docs/page-builder/
-widget: hero
+# A Demo section created with the Blank widget.
+# Any elements can be added in the body: https://wowchemy.com/docs/writing-markdown-latex/
+# Add more sections by duplicating this file and customizing to your requirements.
 
-# Activate this widget? true/false
-active: true
-
-# This file represents a page section.
-headless: true
-
-# Order that this section appears on the page.
-weight: 100
-
-title:
-subtitle:
-widget: blank
+widget: hero # See https://wowchemy.com/docs/page-builder/
+headless: true # This file represents a page section.
+weight: 10 # Order that this section will appear.
+title: Coming soon!
 hero_media: welcome-light.png
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -31,4 +23,11 @@ design:
     # Text color (true=light, false=dark, or remove for the dynamic theme color). 
     text_color_light: true
 ---
+<br>
+{{% callout warning %}}
+This site is under construction! Check back soon.
+{{% /callout %}}
+
+**Moss Eco-Evo-Physio Lab** is opening at San Francisco State University in January 2024!
+
 
