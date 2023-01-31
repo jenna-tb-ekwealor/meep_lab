@@ -19,7 +19,6 @@ design:
     padding: ["20px", "0", "20px", "0"]
 ---
 
-<br>
 {{% callout warning %}}
 This site is under construction! Check back soon.
 {{% /callout %}}
