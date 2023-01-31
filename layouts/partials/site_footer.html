@@ -1,4 +1,3 @@
-<body bgcolor=”#000000">
 <footer class="site-footer">
   {{ if or (site.GetPage "terms.md") (site.GetPage "privacy.md") }}
   <p class="powered-by">
@@ -20,8 +19,8 @@
   {{ partial "site_footer_license" . }}
 
   <p class="powered-by">
-    Powered by the
-   <tiny> <a href="https://wowchemy.com" target="_blank" rel="noopener">Wowchemy</a> for
+  <body bgcolor=”#000000">
+    <tiny> Powered by the <a href="https://wowchemy.com" target="_blank" rel="noopener">Wowchemy</a> for
     <a href="https://gohugo.io" target="_blank" rel="noopener">Hugo</a>.   </tiny>
 
     {{ if not (in (slice "docs" "updates") .Type) }}
