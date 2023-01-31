@@ -1,3 +1,4 @@
+---
 widget: slider  # Use the Slider widget as this page section
 weight: 2  # Position of this section on the page
 active: true  # Publish this section?
@@ -46,3 +47,4 @@ content:
         icon_pack: fas
         text: Join Us
         url: ../contact/
+---
