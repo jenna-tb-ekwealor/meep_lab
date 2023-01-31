@@ -24,4 +24,3 @@ This site is under construction! Check back soon.
 
 The **MEEP Lab** is opening at San Francisco State University in January 2024!
 
-{{< figure src="welcome-light.png" caption="test" theme="light" >}}
