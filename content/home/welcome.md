@@ -8,11 +8,10 @@ headless: true # This file represents a page section.
 weight: 10 # Order that this section will appear.
 title: |
   Welcome!
-hero_media: welcome-light.png
+hero_media: 
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
-  image_position: 'left'
   # Add custom styles
   css_style:
   css_class:
@@ -24,3 +23,5 @@ This site is under construction! Check back soon.
 {{% /callout %}}
 
 The **MEEP Lab** is opening at San Francisco State University in January 2024!
+
+{{< figure src="welcome-light.png" caption="test" theme="light" >}}
