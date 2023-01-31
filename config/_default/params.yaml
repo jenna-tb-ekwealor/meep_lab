@@ -41,7 +41,7 @@ header:
 # Site footer
 
 footer:
-  block: minimal
+  bg: black
   copyright:
     notice: '© {year} Jenna T. B. Ekwealor. {license} license.'
     license:
