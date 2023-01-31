@@ -7,3 +7,5 @@ public/
 assets/jsconfig.json
 
 **/.DS_Store
+go.sum
+.hugo_build.lock
