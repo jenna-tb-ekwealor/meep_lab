@@ -3,21 +3,21 @@ name = "Minimal-edit"
 
 [light]
   # Primary
-  primary = "#61512A"
+  primary = "#61512A" # medium brown green
 
   # Menu
-  menu_primary = "#fff"
-  menu_text = "#61512B"
-  menu_text_active = "#BFCB31"
-  menu_title = "#33251F"
+  menu_primary = "#fff" # white
+  menu_text = "#61512B" # medium brown green
+  menu_text_active = "#BFCB31" # bright green
+  menu_title = "#33251F" # dark brown
 
   # Home sections
-  home_section_odd = "rgb(255, 255, 255)"
-  home_section_even = "rgb(244, 240, 239)"
+  home_section_odd = "rgb(255, 255, 255)" # white
+  home_section_even = "rgb(244, 240, 239)" # light beige
 
 [dark]
   # Primary
-  primary = "#61512A"
+  primary = "#61512A" # medium brown green
 
-  link = "#BFCB31"
-  link_hover = "#BFCB31"
+  link = "#BFCB31" # bright green
+  link_hover = "#BFCB31" # bright green
