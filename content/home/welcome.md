@@ -7,7 +7,7 @@ widget: hero # See https://wowchemy.com/docs/page-builder/
 headless: true # This file represents a page section.
 weight: 10 # Order that this section will appear.
 title: Welcome!
-hero_media: welcome.png
+hero_media: welcome-light.png
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '2'
