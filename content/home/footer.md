@@ -1,9 +1,21 @@
 ---
+# An instance of the Blank widget.
+# Documentation: https://wowchemy.com/docs/page-builder/
+widget: blank
+
+# Activate this widget? true/false
+active: true
+
+# This file represents a page section.
+headless: true
+
+# Order that this section appears on the page.
+weight: 100
+
 title:
 subtitle:
 widget: blank
-headless: true
-weight: 100
+hero_media: welcome-dark.png
 design:
   columns: '2'
   background:
