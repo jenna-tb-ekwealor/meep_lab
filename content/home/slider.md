@@ -35,7 +35,7 @@ content:
         icon: face-awesome
         icon_pack: fas
         text: Who we are
-        url ../people/
+        url: ../people/
     - title: Interested in our research?
       content: 'We are now recruiting undergraduate and masters students to start in Fall 2024.'
       align: left
@@ -48,7 +48,7 @@ content:
         icon: face-awesome
         icon_pack: fas
         text: Join the lab!
-        url ../contact/
+        url: ../contact/
         
         
 ---
