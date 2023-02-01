@@ -6,7 +6,8 @@ title: Research areas
 #   2 = Compact
 #   3 = Card
 #   4 = Citation
-view: List
+#   5 = Showcase
+view: Showcase
 
 # Optional banner image (relative to `assets/media/` folder).
 banner:
