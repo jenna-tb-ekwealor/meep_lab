@@ -51,7 +51,7 @@ content:
       captcha: false
 
 design:
-  columns: '1'
+  columns: '2'
 ---
 
 This page is under construction! Please check back later for updated contact details. 
