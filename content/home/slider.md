@@ -16,7 +16,7 @@ design:
 content:
   slides:
     - title: Welcome!
-      content: The SFSU MEEP Lab investigates moss adaptations to the desiccating and irradiating coniditions of life on land. 
+      content: The SFSU MEEP Lab investigates moss adaptations to the desiccating and irradiating coniditions of life on land
       align: center
       background:
         position: right
@@ -35,7 +35,7 @@ content:
         text: Who we are
         url: ../people/
     - title: Recent MEEP Lab paper
-      content: 'We present a technique to determine genotypic sex in the highly clonal <i>Syntrichia caninervis</i>, and the results of a case study examining genotypic and phenotypic sex ratios.'
+      content: 'A technique to determine genotypic sex in the highly clonal <i>Syntrichia caninervis</i>, and the results of a case study examining genotypic and phenotypic sex ratios'
       align: right
       background:
         position: center
@@ -46,7 +46,7 @@ content:
         text: Read more
         url: ../publication/2022_apps_rflp/
     - title: Interested in our research?
-      content: 'We are now recruiting undergraduate and masters students to start in Fall 2024.'
+      content: 'We are now recruiting undergraduate and masters students to start in Fall 2024'
       align: left
       background:
         position: right
