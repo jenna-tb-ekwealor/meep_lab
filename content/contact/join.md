@@ -16,7 +16,7 @@ design:
   columns: '1'
   background:
     image: bumblebee.JPG
-    image_darken: 50
+    image_darken: 0
     image_parallax: false
     image_position: center
     image_size: cover
@@ -27,4 +27,4 @@ advanced:
   css_class: fullscreen
 ---
 
-This page is under construction! Please check back later for updated contact details. 
+This page is under construction! Please check back later for updated details. 
