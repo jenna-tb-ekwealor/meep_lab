@@ -1,8 +1,12 @@
 ---
 title: Research areas
 
-# Listing view
-view: card
+# View.
+#   1 = List
+#   2 = Compact
+#   3 = Card
+#   4 = Citation
+view: Compact
 
 # Optional banner image (relative to `assets/media/` folder).
 banner:
