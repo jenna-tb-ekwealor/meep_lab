@@ -16,13 +16,13 @@ design:
 content:
   slides:
     - title: Welcome!
-      content: Take a look at what we're working on...
+      content: The SFSU MEEP Lab investigates moss adaptations to the desiccating and irradiating coniditions of life on land. 
       align: center
       background:
         position: right
         color: '#666'
         brightness: 0.7
-        media: cani.png
+        media: contact.jpg
     - title: MEEP Lab
       content: 'Current and past members'
       align: left
@@ -30,7 +30,7 @@ content:
         position: left
         color: '#555'
         brightness: 0.7
-        media: contact.jpg
+        media: cani.png
       link:
         icon: face-awesome
         icon_pack: fas
