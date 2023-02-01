@@ -32,8 +32,6 @@ content:
         brightness: 0.7
         media: cani.png
       link:
-        icon: face-awesome
-        icon_pack: fas
         text: Who we are
         url: ../people/
     - title: Interested in our research?
@@ -45,8 +43,6 @@ content:
         brightness: 0.7
         media: fieldwork_crop.jpg
       link:
-        icon: face-awesome
-        icon_pack: fas
         text: Join the lab!
         url: ../contact/
 
