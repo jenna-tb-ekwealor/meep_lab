@@ -10,12 +10,12 @@ headless: true
 weight: 10
 
 title: Contact
-subtitle:
+subtitle: 
 
 content:
   # Contact (edit or remove options as required)
 
-#  email: test@example.org
+email: jenna (dot) ekwealor (at) usu (dot) edu
 #  phone: 888 888 88 88
 #  address:
 #    street: 450 Serra Mall
@@ -42,13 +42,13 @@ content:
   autolink: true
 
   # Email form provider
-  form:
-    provider: netlify
-    formspree:
-      id:
-    netlify:
-      # Enable CAPTCHA challenge to reduce spam?
-      captcha: false
+#  form:
+#    provider: netlify
+#    formspree:
+#      id:
+#    netlify:
+#      # Enable CAPTCHA challenge to reduce spam?
+#      captcha: false
 
 design:
   columns: '2'
