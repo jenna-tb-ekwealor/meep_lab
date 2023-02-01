@@ -34,6 +34,17 @@ content:
       link:
         text: Who we are
         url: ../people/
+    - title: Recent MEEP Lab paper
+      content: 'The dryland moss <i>Syntrichia caninervis</i> (Pottiaceae) is notable for its low frequency of sex expression and strong phenotypic female bias. Here we present a technique to determine genotypic sex in a single shoot of S. caninervis, and report results of a case study examining genotypic and phenotypic sex ratios.'
+      align: right
+      background:
+        position: center
+        color: '#555'
+        brightness: 0.7
+        media: syntrichiasporos.JPG
+      link:
+        text: Read more
+        url: ../publication/2022_apps_rflp/
     - title: Interested in our research?
       content: 'We are now recruiting undergraduate and masters students to start in Fall 2024.'
       align: left
@@ -44,8 +55,5 @@ content:
         media: fieldwork_crop.jpg
       link:
         text: Join the lab!
-        url: ../contact/
-
-        
-        
+        url: ../contact/        
 ---
