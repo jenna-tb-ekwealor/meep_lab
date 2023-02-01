@@ -21,5 +21,5 @@ advanced:
 ---
 
 {{% callout warning %}}
-This site is under construction! Check back soon.
+This page is under construction! Check back soon.
 {{% /callout %}}
