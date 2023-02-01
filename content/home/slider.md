@@ -22,7 +22,7 @@ content:
         position: right
         color: '#666'
         brightness: 0.7
-        media: contact.jpg
+        media: lava.jpg
     - title: MEEP Lab
       content: 'Current and past members'
       align: left
@@ -43,12 +43,13 @@ content:
         position: right
         color: '#555'
         brightness: 0.7
-        media: contact.jpg
+        media: fieldwork_crop.jpg
       link:
         icon: face-awesome
         icon_pack: fas
         text: Join the lab!
         url: ../contact/
+
         
         
 ---
