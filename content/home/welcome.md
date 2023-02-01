@@ -19,9 +19,6 @@ design:
     padding: ["30px", "0", "30px", "0"]
 ---
 <br>
-{{% callout warning %}}
-This site is under construction! Check back soon.
-{{% /callout %}}
 
 **Moss Eco-Evo-Physio Lab** is opening at San Francisco State University in January 2024!
 

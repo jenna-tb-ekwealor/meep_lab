@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 10
 
-title: Join the lab
+title: Join the lab!
 subtitle:
 
 design:
@@ -20,4 +20,6 @@ advanced:
   css_class: fullscreen
 ---
 
-This page is under construction! Please check back later for updated details. 
+{{% callout warning %}}
+This site is under construction! Check back soon.
+{{% /callout %}}
