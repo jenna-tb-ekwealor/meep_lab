@@ -22,6 +22,6 @@ date_format = "Jan 2006"
   company = "Merritt College, Peralta Community College District"
   date_start = "2020-10-27"
   date_end = "2020-12-18"
-  description = "[(Syllabus)](https://drive.google.com/file/d/1A7dGYxRTLuyIe_QOVuEY-WOFt1iH87-N/view)"
+  description = "[Click here for syllabus](https://drive.google.com/file/d/1A7dGYxRTLuyIe_QOVuEY-WOFt1iH87-N/view)"
 
 +++
