@@ -37,7 +37,6 @@ email: jenna (dot) ekwealor (at) usu (dot) edu
   #    icon_pack: fas
   #    name: Discuss on Forum
   #    link: 'https://discourse.gohugo.io'
-
   # Automatically link email and phone or display as text?
   autolink: true
 
