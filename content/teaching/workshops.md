@@ -20,8 +20,8 @@ date_format = "2006"
 [[experience]]
   title = "The Unix Shell"
   organization = "Smithsonian Institution"
-  date_start = "2021-06-21"
-  date_end = ""
+  date_start = "2021"
+  date_end = "2021"
   description = "The Carpentries: Software Carpentry Workshop"
   
   
