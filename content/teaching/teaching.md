@@ -19,7 +19,7 @@ date_format = "2006"
 
 [[item]]
   title = "Natural History of the Bay Area: Bryophytes"
-  company = "Merritt College, Peralta Community College District"
+  organization = "Merritt College, Peralta Community College District"
   date_start = 2020-10-27
   date_end = ''
   description = "[Link to syllabus](https://drive.google.com/file/d/1A7dGYxRTLuyIe_QOVuEY-WOFt1iH87-N/view)"
