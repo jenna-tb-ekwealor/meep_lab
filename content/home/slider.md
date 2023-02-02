@@ -34,7 +34,7 @@ content:
       link:
         text: Who we are
         url: ../people/
-    - title: Recent MEEP Lab paper
+    - title: Our most recent publication
       content: 'A technique to determine genotypic sex in the highly clonal <i>Syntrichia caninervis</i>, and the results of a case study examining genotypic and phenotypic sex ratios'
       align: right
       background:
