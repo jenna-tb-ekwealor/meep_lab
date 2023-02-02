@@ -7,6 +7,8 @@ tags:
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
+weight: 1
+
 Image:
  caption: Male <i>Syntrichia caninervis</i> with antheridia (sperm-producing sex organs).  
  focal_point: Smart
