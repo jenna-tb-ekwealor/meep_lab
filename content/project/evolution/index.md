@@ -7,6 +7,8 @@ tags:
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
+weight: 30
+
 Image:
  caption: UV-reducing and UV-transmitting windows over <i>Syntrichia caninervis</i> cushions in the Mojave Desert.  
  focal_point: Smart

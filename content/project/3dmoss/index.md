@@ -10,6 +10,8 @@ tags:
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
+weight: 40
+
 image:
   caption: ""
   focal_point: Smart
