@@ -1,7 +1,7 @@
 ---
 title: "Natural ultraviolet radiation exposure alters photosynthetic biology and improves recovery from desiccation in a desert moss"
 authors:
-- Jenna T. B. Ekwealor*
+- admin
 - Theresa A. Clark
 - Oliver Dautermann
 - Alexander Russell

@@ -1,7 +1,7 @@
 ---
 title: "Life under quartz: Hypolithic mosses in the Mojave Desert"
 authors:
-- Jenna T. B. Ekwealor*
+- admin
 - Kirsten Fisher
 date: "2020-07-22T00:00:00Z"
 doi: "10.1371/journal.pone.0235928"
