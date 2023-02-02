@@ -9,7 +9,7 @@ subtitle = ""
 
 # Date format for experience
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
-date_format = "Jan 2006"
+date_format = "2006"
 
 # Teaching.
 #   Add/remove as many `[[experience]]` blocks below as you like.
@@ -21,7 +21,7 @@ date_format = "Jan 2006"
   title = "Natural History of the Bay Area: Bryophytes"
   company = "Merritt College, Peralta Community College District"
   date_start = "2020-10-27"
-  date_end = "2020-12-18"
-  description = "[Click here for syllabus](https://drive.google.com/file/d/1A7dGYxRTLuyIe_QOVuEY-WOFt1iH87-N/view)"
+  date_end = ""
+  description = "[Link to syllabus](https://drive.google.com/file/d/1A7dGYxRTLuyIe_QOVuEY-WOFt1iH87-N/view)"
 
 +++
