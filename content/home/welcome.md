@@ -18,7 +18,7 @@ design:
     # Customize the section spacing. Order is top, right, bottom, left.
     padding: ["30px", "0", "30px", "0"]
 ---
-<br>
+
 
 **Moss Eco-Evo-Physio Lab** is opening at San Francisco State University in January 2024!
 
