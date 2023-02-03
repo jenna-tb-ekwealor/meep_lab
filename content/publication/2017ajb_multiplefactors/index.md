@@ -4,7 +4,7 @@ authors:
 - admin
 - Adam Payton
 - Amber Paasch
-- Kirsten Fisher
+- Kirsten M. Fisher
 - Stuart McDaniel
 date: "2017-03-01T00:00:00Z"
 doi: "10.3732/ajb.1700045"
