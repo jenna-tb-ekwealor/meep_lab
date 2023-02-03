@@ -4,7 +4,7 @@ widget = "accomplishments"  # See https://sourcethemes.com/academic/docs/page-bu
 headless = true  # This file represents a page section.
 weight = 10  # Order that this section will appear.
 
-title = "Teaching"
+title = "Courses"
 subtitle = ""
 
 # Date format for experience
