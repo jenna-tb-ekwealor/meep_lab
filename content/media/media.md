@@ -50,9 +50,8 @@ Taylor, Christie. <b>“These Moss Are Living Their Best Life—Under Rocks.”<
 Hull, Julia. <b>“Episode 11: Living under a rock has its merits with Dr. Jenna Ekwealor.”</b> 19 May 2021. Accessed 5 February 2023.
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/1hR1q0fe4E8jn32YajKoGP?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe><br>
 <br>
+<br>
 
-
-https://podbay.fm/p/wtf-biology/e/1621476995
 <h2>Other</h2>
 <h3><a href="https://ben-goldberg--bag-production-records.bandcamp.com/track/august-1-2020-hypolithic-dedication-to-dr-kirsten-fisher-jenna-ekwealor" target="_blank"><i>Original Music</i></a></h3>
 Goldberg, Ben. <b>“Hypolithic.”</b> PLAGUE DIARY, 1 August 2020. Accessed 23 August 2020.
