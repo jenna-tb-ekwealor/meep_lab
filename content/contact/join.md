@@ -19,12 +19,7 @@ design:
 advanced:
   css_class: fullscreen
 ---
-
-{{% callout warning %}}
-This page is under construction! Check back soon.
-{{% /callout %}}
-
-I happy to speak with students interested in doing Undergraduate or Master's research in my lab. 
+I am happy to speak with students interested in doing Undergraduate or Master's research in my lab. 
 Please review one or two of my [publications](https://meep-lab.com/publication/) before getting in touch with me so that we can better discuss your research interests and possible projects.
 
 <h2>Undergraduate Opportunities</h2>
