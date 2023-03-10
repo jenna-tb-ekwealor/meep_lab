@@ -15,7 +15,7 @@ subtitle:
 design:
   columns: '1'
   spacing:
-    padding: ['30px', '0', '30px', '0']
+    padding: ['10px', '0', '10px', '0']
 advanced:
   css_class: fullscreen
 ---
@@ -28,4 +28,3 @@ If you are interested in moss ecology, physiology, or evolution and want to gain
 <h2>Graduate Students</h2>
 Accepting graduate students to begin in Fall of 2024.  
 Please send [me](https://meep-lab.com/author/jenna-t.-b.-ekwealor/) a statement of interest describing why you want to join the lab and a copy of your CV.
-
