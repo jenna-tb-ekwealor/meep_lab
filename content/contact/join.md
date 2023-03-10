@@ -25,6 +25,6 @@ Please review one or two of my [publications](https://meep-lab.com/publication/)
 ## Undergraduate Opportunities
 If you are interested in moss ecology, physiology, or evolution and want to gain research experience send [me](https://meep-lab.com/author/jenna-t.-b.-ekwealor/) an email and we can schedule a time to chat.
 
-##Graduate Students
+## Graduate Students
 Accepting graduate students to begin in Fall of 2024.  
 Please send [me](https://meep-lab.com/author/jenna-t.-b.-ekwealor/) a statement of interest describing why you want to join the lab and a copy of your CV.
