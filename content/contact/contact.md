@@ -15,7 +15,7 @@ subtitle:
 content:
   # Contact (edit or remove options as required)
 
-  email: 'jenna (dot) ekwealor (at) usu (dot) edu'
+  email: 'ekwealor (at) sfsu (dot) edu'
 #  phone: 888 888 88 88
 #  address:
 #    street: 450 Serra Mall
