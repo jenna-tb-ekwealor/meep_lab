@@ -21,7 +21,7 @@ gallery_item:
 
 - album: botany2019album
   image: snake.jpeg
-  caption: WESTERN. DIAMONDBACK. RATTLESNAKE. I fangirled so hard.
+  caption: WESTERN. DIAMONDBACK. RATTLESNAKE. I fangirled.
   
 - album: botany2019album
   image: elevatormariachi.JPG
