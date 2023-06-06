@@ -14,7 +14,6 @@ superuser: false
 
 # Organizations/Affiliations
 organizations:
-  - name: San Francisco State University
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
