@@ -22,7 +22,6 @@ education:
   courses:
     - course: None!
       institution: The School of Life
-      year: 2021
       
 # Highlight the author in author lists? (true/false)
 highlight_name: false
@@ -37,4 +36,4 @@ Leo is an honorary lab member.
 Mostly, he contributes distractions and entertainment, but he also has a curious and observant eye!
 
 <img src="Leo_Castilleja.jpg" alt="Leo inspecting desert paintbrush, <i>Castilleja chromosa</i>, which is parasitizing Great Basin sagebrush, <i>Artemisia tridentata</i>" width="250"/>
-<smaller>Leo inspecting desert paintbrush, <i>Castilleja chromosa</i>, which is parasitizing Great Basin sagebrush, <i>Artemisia tridentata</i>.</smaller>
+<small>Leo inspecting desert paintbrush, <i>Castilleja chromosa</i>, which is parasitizing Great Basin sagebrush, <i>Artemisia tridentata</i>.</small>
