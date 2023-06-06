@@ -29,6 +29,7 @@ education:
   courses:
     - course: None!
       institution: The School of Life
+      year: 2021
       
 # Highlight the author in author lists? (true/false)
 highlight_name: false
