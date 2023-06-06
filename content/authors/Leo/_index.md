@@ -9,6 +9,9 @@ authors:
 # Is this the primary user of the site?
 superuser: false
 
+# Role/position
+role: Affiliated Researchers
+
 # Organizations/Affiliations
 organizations:
   - name: San Francisco State University
