@@ -38,10 +38,6 @@ user_groups:
 Leo is an honorary lab member. 
 Mostly, he contributes distractions and entertainment, but he also has a curious and observant eye!
 
-<br>
-<br>
-<br>
-<br>
-<br>
+Leo inspecting desert paintbrush, <i>Castilleja chromosa</i>, which is parasitizing Great Basin sagebrush, <i>Artemisia tridentata</i>.
 
-<img src="Leo_Castilleja.jpg" alt="Leo inspecting desert paintbrush, <i>Castilleja chromosa</i>, which is parasitizing Great Basin sagebrush, <i>Artemisia tridentata</i>" width="400"/>
+<img src="Leo_Castilleja.jpg" alt="Leo inspecting desert paintbrush, <i>Castilleja chromosa</i>, which is parasitizing Great Basin sagebrush, <i>Artemisia tridentata</i>" width="100"/>
