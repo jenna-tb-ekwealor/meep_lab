@@ -9,6 +9,8 @@ authors:
 # Is this the primary user of the site?
 superuser: false
 
+# Role/position
+role: Affiliated Researchers
 
 # Organizations/Affiliations
 organizations:
@@ -35,5 +37,11 @@ user_groups:
 
 Leo is an honorary lab member. 
 Mostly, he contributes distractions and entertainment, but he also has a curious and observant eye!
+
+<br>
+<br>
+<br>
+<br>
+<br>
 
 <img src="Leo_Castilleja.jpg" alt="Leo inspecting desert paintbrush, <i>Castilleja chromosa</i>, which is parasitizing Great Basin sagebrush, <i>Artemisia tridentata</i>" width="400"/>
