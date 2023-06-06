@@ -1,0 +1,41 @@
+---
+# Display name
+title: Leo
+
+# Username (this should match the folder name)
+authors:
+  - Leo
+
+# Is this the primary user of the site?
+superuser: false
+
+# Role/position
+role: Affiliated Researchers
+
+# Organizations/Affiliations
+organizations:
+  - name: San Francisco State University
+    url: ''
+
+# Short bio (displayed in user profile at end of posts)
+bio: Outdoor enthusiast. 
+
+interests:
+  - Ants
+
+hobbies:
+  - Walks
+  - Naps
+  
+
+# Highlight the author in author lists? (true/false)
+highlight_name: false
+
+# Organizational groups that you belong to (for People widget)
+#   Set this to `[]` or comment out if you are not using People widget.
+user_groups:
+  - Affiliated Researchers
+---
+
+Leo is an honorary lab member. 
+Mostly, he contributes distractions and entertainment, but he also has a curious and observant eye!
