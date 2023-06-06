@@ -24,12 +24,7 @@ interests:
   - Physiological ecology
   - Evolution
   - Bryophytes
-  - Drylands
-
-hobbies:
-  - Painting
-  - Hiking & camping
-  
+  - Drylands  
 
 
 education:

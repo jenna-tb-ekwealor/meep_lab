@@ -22,8 +22,7 @@ bio: Outdoor enthusiast.
 
 interests:
   - Ants
-
-hobbies:
+  - Snacks
   - Walks
   - Naps
   
