@@ -18,6 +18,13 @@ date_format = "2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
+  title = " Collaborating and sharing using GitHub without command line"
+  organization = "National Museum of Natural History"
+  date_start = "2023-05-10"
+  date_end = ''
+  description = "The Carpentries: Data Carpentry Workshop"
+  
+[[item]]
   title = "The Unix Shell"
   organization = "Smithsonian Institution"
   date_start = "2021-06-21"
