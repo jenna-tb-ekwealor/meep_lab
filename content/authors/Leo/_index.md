@@ -9,13 +9,6 @@ authors:
 # Is this the primary user of the site?
 superuser: false
 
-# Role/position
-
-
-# Organizations/Affiliations
-organizations:
-    url: ''
-
 # Short bio (displayed in user profile at end of posts)
 bio: Outdoor enthusiast. 
 
