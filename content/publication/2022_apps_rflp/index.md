@@ -10,7 +10,7 @@ authors:
 - Brent D. Mishler
 - Kirsten M. Fisher
 date: "2022-04-17T00:00:00Z"
-doi: "doi.org/10.1002/aps3.11467"
+doi: "https://doi.org/10.1002/aps3.11467"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2021-09-17T00:00:00Z"
