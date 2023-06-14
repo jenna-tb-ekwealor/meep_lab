@@ -4,7 +4,7 @@ authors:
 - admin
 - Brent D. Mishler
 date: "2021-09-17T00:00:00Z"
-doi: "10.3389/fpls.2021.752913"
+doi: "https://doi.org/10.3389/fpls.2021.752913"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2021-09-17T00:00:00Z"
