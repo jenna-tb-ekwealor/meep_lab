@@ -18,7 +18,7 @@ authors:
 - Christelle Inema
 - Kayla Geronimo-Anctil
 date: "2023-05-12T00:00:00Z"
-doi: "https://doi.org/10.1086/724949"
+url: "https://doi.org/10.1086/724949"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2023-05-12T00:00:00Z"
