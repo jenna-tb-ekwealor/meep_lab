@@ -14,4 +14,4 @@ banner:
   image: syntrichia.jpg
 ---
 
-<img src="apps_cover.png" alt="My artwork made the cover of the <i> APPS </i> special issue <i> Methodologies in Gametophyte Biology</i>" width="250"/>
+<a href="2022_apps_rflp"><img src="apps_cover.png" alt="My artwork made the cover of the <i> APPS </i> special issue <i> Methodologies in Gametophyte Biology</i>" width="250"/>
