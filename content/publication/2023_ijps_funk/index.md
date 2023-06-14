@@ -73,6 +73,6 @@ projects: []
 #slides: example
 ---
 
-<img src="IJPS_VIcki_Funk_Cover.png" alt="The cover of the <i> IJPS </i> Tribute to Vicki A. Funk special issue." width="250"/>
+<img src="IJPS_VIcki_Funk_Cover.png" alt="The cover of the <i> IJPS </i> Tribute to Vicki A. Funk special issue." width="500"/>
 
 
