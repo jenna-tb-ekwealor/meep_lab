@@ -18,7 +18,7 @@ authors:
 - Christelle Inema
 - Kayla Geronimo-Anctil
 date: "2023-05-12T00:00:00Z"
-doi: "doi.org/10.1086/724949"
+doi: "https://doi.org/10.1086/724949"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2023-05-12T00:00:00Z"
@@ -72,4 +72,7 @@ projects: []
 #   Otherwise, set `slides: ""`.
 #slides: example
 ---
+
+<img src="IJPS_VIcki_Funk_Cover.png" alt="The cover of the <i> IJPS </i> Tribute to Vicki A. Funk special issue." width="250"/>
+
 
