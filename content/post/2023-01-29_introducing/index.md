@@ -1,6 +1,6 @@
 ---
 title: Introducing the MEEP Lab at San Francisco State University!
-date: 2023-08-29
+date: 2023-08-02
 ---
 
 The MEEP Lab will officially open it's doors at SF State in January of 2024! 

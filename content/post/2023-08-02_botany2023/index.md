@@ -1,6 +1,6 @@
 ---
 title: Conference rendezvous at BOTANY 2023
-date: 2023-08-02
+date: 2023-08-01
 ---
 
 This year the Botanical Society of America annual meeting, BOTANY, was held in Boise, Idaho, where I actually currently live!
