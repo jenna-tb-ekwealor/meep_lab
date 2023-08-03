@@ -2,6 +2,11 @@
 title: "Field work in SW Utah"
 date: 2023-05-29T18:15:21-07:00
 
+gallery_item:
+- album: utahalbum
+  image: Redsands.jpeg
+  caption: I was there just after Mardi Gras and decorations were still up.
+  
 ---
 
 The Rothfels and Rushworth Labs headed to SW Utah for 10 days of fieldwork in the deserts and the mountains. 
@@ -9,7 +14,11 @@ The Rothfels and Rushworth Labs headed to SW Utah for 10 days of fieldwork in th
 
 We camped at 5 different locations over 10+ days, collecting and documenting plants in desert and mountain habitats. 
 
+<br>
+
 {{< gallery album="utahalbum" >}}
+
+<br>
 
 We documented all plants we saw with iNaturalist. Check out our field trip iNat "project" here: 
 <style type="text/css" media="screen">
