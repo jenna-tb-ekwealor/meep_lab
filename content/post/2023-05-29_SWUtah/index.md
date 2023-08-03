@@ -11,6 +11,14 @@ gallery_item:
   image: Redsands2.jpeg
   caption: Beautiful landscape at Snow Canyon State Park in SW Utah.
   
+- album: utahalbum
+  image: LeoSomi.jpeg
+  caption: My trusty field crew.
+
+
+
+
+
 ---
 
 The Rothfels and Rushworth Labs headed to SW Utah for 10 days of fieldwork in the deserts and the mountains. 
