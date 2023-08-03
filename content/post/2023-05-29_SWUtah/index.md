@@ -1,6 +1,6 @@
 ---
 title: "Field work in SW Utah"
-date: 2023-05-29
+date: 2023-05-29T18:15:21-07:00
 
 ---
 
@@ -9,7 +9,6 @@ The Rothfels and Rushworths Labs headed to SW Utah for 10 days of fieldwork in t
 
 
 {{< gallery album="utahalbum" >}}
-
 
 <style type="text/css" media="screen">
 .inat-widget { font-family: Georgia, serif; padding: 10px; line-height: 1;}
@@ -32,7 +31,7 @@ The Rothfels and Rushworths Labs headed to SW Utah for 10 days of fieldwork in t
     <div class="inat-widget-header">
       <a href="https://www.inaturalist.org"><img alt="iNaturalist" src="https://www.inaturalist.org/assets/logo-small.png" /></a>  
     </div>
-  <script type="text/javascript" charset="utf-8" src="https://www.inaturalist.org/observations/jennaekwealor.widget?layout=small&limit=15&order=desc&order_by=observed_on"></script>
+  <script type="text/javascript" charset="utf-8" src="https://www.inaturalist.org/observations/jennaekwealor.widget?layout=small&limit=10&order=desc&order_by=observed_on"></script>
   <table class="inat-footer">
     <tr class="inat-user">
         <td class="inat-user-image">
@@ -46,4 +45,5 @@ The Rothfels and Rushworths Labs headed to SW Utah for 10 days of fieldwork in t
     </tr>
   </table>
 </div>
+
 
