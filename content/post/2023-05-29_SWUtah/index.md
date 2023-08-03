@@ -7,6 +7,10 @@ gallery_item:
   image: Redsands.jpeg
   caption: Look closely and you just may spot some botanists!
   
+- album: utahalbum
+  image: Redsands2.jpeg
+  caption: Beautiful landscape at Snow Canyon State Park in SW Utah.
+  
 ---
 
 The Rothfels and Rushworth Labs headed to SW Utah for 10 days of fieldwork in the deserts and the mountains. 
