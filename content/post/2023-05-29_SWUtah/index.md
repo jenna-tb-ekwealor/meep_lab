@@ -7,7 +7,6 @@ date: 2023-05-29T18:15:21-07:00
 The Rothfels and Rushworths Labs headed to SW Utah for 10 days of fieldwork in the deserts and the mountains. 
 <!--more-->
 
-
 {{< gallery album="utahalbum" >}}
 
 <style type="text/css" media="screen">
