@@ -3,41 +3,39 @@ title: "Field work in SW Utah"
 date: 2023-05-29T18:15:21-07:00
 
 gallery_item:
-- album: utahalbum
-  image: Red_sands_2.jpeg
-  caption: Beautiful landscape at Snow Canyon State Park in SW Utah.
-  
-- album: utahalbum
-  image: Red_sands.jpeg
-  caption: Look closely and you just may spot some botanists!
+- album: nicaralbum
+  image: mardigras.png
+  caption: I was there just after Mardi Gras and decorations were still up.
 
-- album: utahalbum
-  image: Syntrichia_caninervis_Dimorphocarpa_ _wislizeni.jpeg
-  caption: *Syntrichia* may act as a nurse cushion, helping seeds germinate and grow. Here you can see *Syntrichia caninervis* cushion with a touristplant, *Dimorphocarpa wislizeni* growing out of it.
+- album: nicaralbum
+  image: mule.JPG
+  caption: Mules pull carriages around the French Quarter.
 
-- album: utahalbum
-  image: crust.jpeg
-  caption: Here is a bit of pinnacled crust with *Syntrichia* and dark cyanobacteria. 
+- album: nicaralbum
+  image: coffee.JPG
+  caption: Beignets and coffee with chicory were a high priority.
 
-- album: utahalbum
-  image: Carl_Julia.jpeg
-  caption: Lab PI Carl and graduate student Julia are looking at a single-leaf ash, *Fraxinus anomala*, a genus which you may be surprise to come across in the Mojave Desert! 
+- album: nicaralbum
+  image: crawfish.JPG
+  caption: I was lucky enough to be invited to a local backyard crawfish boil. 
 
-- album: utahalbum
+- album: nicaralbum
+  image: local.png
+  caption: Fellow DS421 NRT alumn Sara Stoudt (@sastoudt on Twitter) and I made sure to hit up local favorite spots, too. 
+
+- album: nicaralbum
   image: alligator.JPG
   caption: I got to see alligators in the Pearl River on a boat ride to Honey Island. 
   
-- album: utahalbum
-  image: Leo_Somi.jpeg
-  caption: My trusty field crew.
+- album: nicaralbum
+  image: pig.JPG
+  caption: A very exciting moment running into this adorable (but damaging, I know) feral pig in the Honey Island swamp. 
   
-- album: utahalbum  
-  image: Penstemon_ambiguus.jpeg
-  caption: Just dreamy *Penstemon ambiguus*.
+- album: nicaralbum  
+  image: mangrove.JPG
+  caption: Not to be out done by the big, the black mangroves (*Avicennia germinans*) were also a sight to behold.
   
-- album: utahalbum  
-  image: Penstemon_ambiguus_2.jpeg
-  caption: Just dreamy *Penstemon ambiguus*.
+
 
 
 ---
@@ -45,7 +43,12 @@ gallery_item:
 The Rothfels and Rushworth Labs headed to SW Utah for 10 days of fieldwork in the deserts and the mountains. 
 <!--more-->
 
-{{< gallery album="utahalbum" >}}
+
+We camped at 5 different locations over 10+ days, collecting and documenting plants in deserts and mountain habitats. 
+
+{{< gallery album="nicaralbum" >}}
+
+
 
 <style type="text/css" media="screen">
 .inat-widget { font-family: Georgia, serif; padding: 10px; line-height: 1;}
