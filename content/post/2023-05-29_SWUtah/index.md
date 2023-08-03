@@ -32,7 +32,7 @@ The Rothfels and Rushworths Labs headed to SW Utah for 10 days of fieldwork in t
     <div class="inat-widget-header">
       <a href="https://www.inaturalist.org"><img alt="iNaturalist" src="https://www.inaturalist.org/assets/logo-small.png" /></a>  
     </div>
-  <script type="text/javascript" charset="utf-8" src="https://www.inaturalist.org/observations/widget?project_id=sw-utah-collections-project-may-2023.widget?layout=small&limit=5&order=desc&order_by=observed_on"></script>
+  <script type="text/javascript" charset="utf-8" src="https://www.inaturalist.org/observations/jennaekwealor.widget?layout=small&limit=20&order=desc&order_by=observed_on"></script>
   <table class="inat-footer">
     <tr class="inat-user">
         <td class="inat-user-image">
@@ -40,9 +40,10 @@ The Rothfels and Rushworths Labs headed to SW Utah for 10 days of fieldwork in t
         </td>
       <td class="inat-value">
         <strong>
-            <a href="https://www.inaturalist.org/observations/jennaekwealor">View jennaekwealor's observations »</a>
+            <a href="https://www.inaturalist.org/observations/widget?project_id=171005">View all observations from our field trip »</a>
         </strong>
       </td>
     </tr>
   </table>
 </div>
+
