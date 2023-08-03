@@ -3,40 +3,37 @@ title: "Field work in SW Utah"
 date: 2023-05-29T18:15:21-07:00
 
 gallery_item:
-- album: nicaralbum
-  image: mardigras.png
-  caption: I was there just after Mardi Gras and decorations were still up.
-
-- album: nicaralbum
-  image: mule.JPG
-  caption: Mules pull carriages around the French Quarter.
-
-- album: nicaralbum
-  image: coffee.JPG
-  caption: Beignets and coffee with chicory were a high priority.
-
-- album: nicaralbum
-  image: crawfish.JPG
-  caption: I was lucky enough to be invited to a local backyard crawfish boil. 
-
-- album: nicaralbum
-  image: local.png
-  caption: Fellow DS421 NRT alumn Sara Stoudt (@sastoudt on Twitter) and I made sure to hit up local favorite spots, too. 
-
-- album: nicaralbum
-  image: alligator.JPG
-  caption: I got to see alligators in the Pearl River on a boat ride to Honey Island. 
+- album: utahalbum
+  image: Redsands2.jpeg
+  caption: Beautiful landscape at Snow Canyon State Park in SW Utah.
   
-- album: nicaralbum
-  image: pig.JPG
-  caption: A very exciting moment running into this adorable (but damaging, I know) feral pig in the Honey Island swamp. 
-  
-- album: nicaralbum  
-  image: mangrove.JPG
-  caption: Not to be out done by the big, the black mangroves (*Avicennia germinans*) were also a sight to behold.
-  
+- album: utahalbum
+  image: Redsands.jpeg
+  caption: Look closely and you just may spot some botanists!
 
+- album: utahalbum
+  image: SyntrichiacaninervisDimorphocarpawislizeni.jpeg
+  caption: *Syntrichia* may act as a nurse cushion, helping seeds germinate and grow. Here you can see *Syntrichia caninervis* cushion with a touristplant, *Dimorphocarpa wislizeni* growing out of it.
 
+- album: utahalbum
+  image: crust.jpeg
+  caption: Here is a bit of pinnacled crust with *Syntrichia* and dark cyanobacteria. 
+
+- album: utahalbum
+  image: CarlJulia.jpeg
+  caption: Lab PI Carl and graduate student Julia are looking at a single-leaf ash, *Fraxinus anomala*, a genus which you may be surprise to come across in the Mojave Desert! 
+  
+- album: utahalbum
+  image: LeoSomi.jpeg
+  caption: My trusty field crew.
+  
+- album: utahalbum  
+  image: Penstemonambiguus.jpeg
+  caption: Just dreamy *Penstemon ambiguus*.
+  
+- album: utahalbum  
+  image: Penstemonambiguus2.jpeg
+  caption: Just dreamy *Penstemon ambiguus*.  
 
 ---
 
@@ -46,7 +43,7 @@ The Rothfels and Rushworth Labs headed to SW Utah for 10 days of fieldwork in th
 
 We camped at 5 different locations over 10+ days, collecting and documenting plants in deserts and mountain habitats. 
 
-{{< gallery album="nicaralbum" >}}
+{{< gallery album="utahalbum" >}}
 
 
 
