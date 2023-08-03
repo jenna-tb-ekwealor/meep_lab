@@ -2,12 +2,6 @@
 title: "Field work in SW Utah"
 date: 2023-05-29T18:15:21-07:00
 
-gallery_item:
-- album: utahalbum
-  image: Redsands2.jpeg
-  caption: Beautiful landscape at Snow Canyon State Park in SW Utah.
-  
-
 ---
 
 The Rothfels and Rushworth Labs headed to SW Utah for 10 days of fieldwork in the deserts and the mountains. 
@@ -22,7 +16,7 @@ We camped at 5 different locations over 10+ days, collecting and documenting pla
 
 <style type="text/css" media="screen">
 .inat-widget { font-family: Georgia, serif; padding: 10px; line-height: 1;}
-.inat-widget-header {margin-bottom: 10px;}
+.inat-widget-header {margin-bottom: 5px;}
 .inat-widget td {vertical-align: top; padding-bottom: 10px;}
 .inat-label { color: #888; }
 .inat-meta { font-size: smaller; margin-top: 3px; line-height: 1.2;}
