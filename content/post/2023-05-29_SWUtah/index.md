@@ -32,6 +32,8 @@ The Rothfels and Rushworths Labs headed to SW Utah for 10 days of fieldwork in t
     </div>
   <script type="text/javascript" charset="utf-8" src="https://www.inaturalist.org/observations/jennaekwealor.widget?layout=small&limit=10&order=desc&order_by=observed_on"></script>
   <table class="inat-footer">
+          <br>
+         <br>
     <tr class="inat-user">
         <td class="inat-user-image">
           <a border="0" href="https://www.inaturalist.org/observations/jennaekwealor"><img class="usericon" src="https://static.inaturalist.org/attachments/users/icons/70413/thumb.jpg?1537389449" /></a>
