@@ -1,44 +1,7 @@
 ---
-title: Field work in SW Utah
+title: "Field work in SW Utah"
 date: 2023-05-29
 
-gallery_item:
-- album: utahalbum
-  image: Red_sands_2.jpeg
-  caption: Beautiful landscape at Snow Canyon State Park in SW Utah.
-  
-- album: utahalbum
-  image: Red_sands.jpeg
-  caption: Look closely and you just may spot some botanists!
-
-- album: utahalbum
-  image: Syntrichia_caninervis_Dimorphocarpa_ _wislizeni.jpeg
-  caption: *Syntrichia* may act as a nurse cushion, helping seeds germinate and grow. Here you can see *Syntrichia caninervis* cushion with a touristplant, *Dimorphocarpa wislizeni* growing out of it.
-
-- album: utahalbum
-  image: crust.jpeg
-  caption: Here is a bit of pinnacled crust with *Syntrichia* and dark cyanobacteria. 
-
-- album: utahalbum
-  image: Carl_Julia.jpeg
-  caption: Lab PI Carl and graduate student Julia are looking at a single-leaf ash, *Fraxinus anomala*, a genus which you may be surprise to come across in the Mojave Desert! 
-
-- album: utahalbum
-  image: alligator.JPG
-  caption: I got to see alligators in the Pearl River on a boat ride to Honey Island. 
-  
-- album: utahalbum
-  image: Leo_Somi.jpeg
-  caption: My trusty field crew.
-  
-- album: utahalbum  
-  image: Penstemon_ambiguus.jpeg
-  caption: Just dreamy *Penstemon ambiguus*.
-  
-- album: utahalbum  
-  image: Penstemon_ambiguus_2.jpeg
-  caption: Just dreamy *Penstemon ambiguus*.
-  
 ---
 
 The Rothfels and Rushworths Labs headed to SW Utah for 10 days of fieldwork in the deserts and the mountains. 
