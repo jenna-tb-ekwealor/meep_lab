@@ -7,12 +7,9 @@ date: 2023-05-29T18:15:21-07:00
 The Rothfels and Rushworth Labs headed to SW Utah for 10 days of fieldwork in the deserts and the mountains. 
 <!--more-->
 
-
 We camped at 5 different locations over 10+ days, collecting and documenting plants in deserts and mountain habitats. 
 
 {{< gallery album="utahalbum" >}}
-
-
 
 <style type="text/css" media="screen">
 .inat-widget { font-family: Georgia, serif; padding: 10px; line-height: 1;}
