@@ -15,7 +15,7 @@ subtitle:
 design:
   columns: '1'
   spacing:
-  padding: ['10px', '0', '10px', '-5']
+  padding: ['10px', '0', '10px', '-15px']
 advanced:
   css_class: fullscreen
 ---
