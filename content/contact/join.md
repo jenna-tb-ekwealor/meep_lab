@@ -16,6 +16,7 @@ design:
   columns: '1'
   spacing:
   padding: ['10px', '0', '0px', '0px'] 
+  margin-bottom:-10px
 advanced:
   css_class: fullscreen
 ---
