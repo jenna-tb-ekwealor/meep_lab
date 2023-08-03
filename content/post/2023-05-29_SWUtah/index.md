@@ -15,7 +15,9 @@ gallery_item:
   image: LeoSomi.jpeg
   caption: My trusty field crew.
 
-
+- album: utahalbum  
+  image: Penstemonambiguus.jpeg
+  caption: Just dreamy *Penstemon ambiguus*.
 
 
 
