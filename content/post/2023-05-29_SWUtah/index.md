@@ -5,7 +5,7 @@ date: 2023-05-29T18:15:21-07:00
 gallery_item:
 - album: utahalbum
   image: Redsands.jpeg
-  caption: I was there just after Mardi Gras and decorations were still up.
+  caption: Look closely and you just may spot some botanists!
   
 ---
 
