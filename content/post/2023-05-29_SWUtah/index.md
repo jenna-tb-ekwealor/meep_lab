@@ -18,11 +18,7 @@ gallery_item:
 - album: utahalbum  
   image: Penstemonambiguus.jpeg
   caption: Just dreamy *Penstemon ambiguus*.
-
-- album: utahalbum
-  image: SyntrichiacaninervisDimorphocarpawislizeni.jpeg
-  caption: *Syntrichia* may act as a nurse cushion, helping seeds germinate and grow. Here you can see *Syntrichia caninervis* cushion with a touristplant, *Dimorphocarpa wislizeni* growing out of it.
-
+  
 - album: utahalbum
   image: crust.jpeg
   caption: Here is a bit of pinnacled crust with *Syntrichia* and dark cyanobacteria. 
