@@ -68,7 +68,7 @@ We documented all plants we saw with iNaturalist. Check out our field trip iNat 
         </td>
       <td class="inat-value">
         <strong>
-            <a href="https://www.inaturalist.org/observations/widget?project_id=171005">View all observations from our field trip »</a>
+            <a href="https://www.inaturalist.org/observations?project_id=171005">View all observations from our field trip »</a>
         </strong>
       </td>
     </tr>
