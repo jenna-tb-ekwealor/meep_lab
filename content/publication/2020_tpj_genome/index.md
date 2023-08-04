@@ -43,7 +43,7 @@ featured: false
 # - name: ""
 #   url: ""
 url_pdf: ''
-url_project: ''
+url_project: /project/3dmoss
 url_video: ''
 
 # Featured image
