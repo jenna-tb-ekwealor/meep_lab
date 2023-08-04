@@ -32,7 +32,7 @@ featured: true
 # - name: ""
 #   url: ""
 url_pdf: ''
-url_project: ''
+url_project: /project/stress
 url_video: ''
 
 # Featured image
