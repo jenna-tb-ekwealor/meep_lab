@@ -38,7 +38,7 @@ featured: false
 # - name: ""
 #   url: ""
 url_pdf: ''
-projects: /project/sexratios
+url_project: /project/sexratios
 url_video: ''
 
 # Featured image
