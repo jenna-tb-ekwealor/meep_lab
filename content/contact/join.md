@@ -24,8 +24,10 @@ I am happy to speak with students interested in doing Undergraduate or Master's 
 Please review one or two of my [publications](../publication/) before getting in touch with me so that we can better discuss your research interests and possible projects.
 
 ## Undergraduate Opportunities
-If you are interested in moss ecology, physiology, or evolution and want to gain research experience send [me](https://meep-lab.com/author/jenna-t.-b.-ekwealor/) an email and we can schedule a time to chat.
+If you are a new or existing SF State interested in moss ecology, physiology, or evolution and want to gain research experience send [me](https://meep-lab.com/author/jenna-t.-b.-ekwealor/) an email and we can schedule a time to chat.
 
 ##  Graduate Students
-Accepting graduate students to begin in Fall of 2024.
-Please send [me](https://meep-lab.com/author/jenna-t.-b.-ekwealor/) a statement of interest describing why you want to join the lab and a copy of your CV.
+*Accepting graduate students to begin in Fall of 2024.* 
+<br>
+If you're interested in earning a [Master if Science in Integrative Biology](https://biology.sfsu.edu/graduate/integrative) at SF State, apply [here](https://grad.sfsu.edu/content/apply/). 
+To join my lab group, send [me](https://meep-lab.com/author/jenna-t.-b.-ekwealor/) a statement of interest describing why you want to join the lab and a copy of your CV or a summary of your academic history.
