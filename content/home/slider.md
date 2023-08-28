@@ -16,7 +16,7 @@ design:
 content:
   slides:
     - title: Welcome!
-      content: The SFSU MEEP Lab investigates moss adaptations to the desiccating and irradiating coniditions of life on land
+      content: The SFSU MEEP Lab investigates moss adaptations to the desiccating and irradiating conditions of life on land
       align: center
       background:
         position: right
