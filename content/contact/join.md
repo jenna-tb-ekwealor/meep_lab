@@ -29,5 +29,5 @@ If you are a new or existing SF State interested in moss ecology, physiology, or
 ##  Graduate Students
 *Accepting graduate students to begin in Fall of 2024.* 
 <br>
-If you're interested in earning a [**Master if Science in Integrative Biology**](https://biology.sfsu.edu/graduate/integrative) at SF State, apply [**here**](https://grad.sfsu.edu/content/apply/). 
+If you're interested in earning a [**Master if Science in Integrative Biology**](https://biology.sfsu.edu/graduate/integrative) at SF State, apply [**here**](https://grad.sfsu.edu/content/apply/) by February 1, 2024. 
 To inquire about joining my lab group, send [**me**](https://meep-lab.com/author/jenna-t.-b.-ekwealor/) a statement of interest describing why you want to join the lab and a copy of your CV or a summary of your academic history.
