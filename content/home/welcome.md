@@ -20,5 +20,5 @@ design:
 ---
 <br>
 
-The **Moss Eco-Evo-Physio Lab** is officially open at San Francisco State University!
+Check out the Contact page for summer research opportunities!
 
