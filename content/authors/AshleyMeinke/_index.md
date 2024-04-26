@@ -29,8 +29,13 @@ user_groups:
   - Undergraduate Researchers
 ---
 
-Hi, my name is Ashley. 
+# Hi, my name is Ashley. 
+
 I joined the MEEP Lab in the Spring of 2024 and have been working on the evolution and physiology of stress tolerance in *Syntrichia*. 
 Specifically, my role focuses on coding and data analysis. 
 I am also very interested in ecology, evolution, herpetology, phylogenetics, collections, and traditional ecological knowledge/indigenous science. 
 Outside of school, my interests include going to museums, libraries, and concerts, exploring and traveling, long drives, puzzles, trains, learning about history and mythology, swimming, and historical cooking and fashion.
+
+# Projects 
+
+![San Francisco State University's College of Science and Engineering student showcase 2024.](static/files/COSEposter2024_Meinke.png)
