@@ -7,7 +7,7 @@ widget: blank
 headless: true
 
 # Order that this section appears on the page.
-weight: 20
+weight: 100
 
 title:
 subtitle:
@@ -32,3 +32,5 @@ advanced:
 # Projects 
 
 ![San Francisco State University's College of Science and Engineering student showcase 2024.](static/files/COSEposter2024_Meinke.png)
+
+test test test
