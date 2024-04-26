@@ -38,7 +38,7 @@ Specifically, my role focuses on coding and data analysis.
 I am also very interested in ecology, evolution, herpetology, phylogenetics, collections, and traditional ecological knowledge/indigenous science. 
 Outside of school, my interests include going to museums, libraries, and concerts, exploring and traveling, long drives, puzzles, trains, learning about history and mythology, swimming, and historical cooking and fashion.
 
-![<figure>
+[<figure>
   <img src="../../files/COSEposter2024_Meinke.png" width="200">
   <figcaption>Poster from San Francisco State University's College of Science and Engineering student showcase 2024. Click to see full size!
 </figcaption>
