@@ -40,8 +40,6 @@ Outside of school, my interests include going to museums, libraries, and concert
 
 <img src="Poster from San Francisco State University's College of Science and Engineering student showcase 2024." width="200">
 
-![]()
-
 [**Click here to to read more about this project.**](../../post/2024-05-03-cose2024/)
 
 
