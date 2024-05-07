@@ -37,7 +37,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'World map showing geographic distributions of specimen attributions binned into world regions by botanists Mary Agnes Chase, Velva Rudd, Cleofé Calderón, and Vicki Funk. For each researcher, the darker shade indicates collections, and the lighter shade indicates identifications. Photo of Funk taken by M. Bonifacino and published in Susanna et al. (2020). Other photos are from the Smithsonian Institution.'
+  caption: 'Temporary cover for the July 2024 issue when the Coulter Review is published.'
   focal_point: ""
   preview_only: false
 
