@@ -1,6 +1,7 @@
 ---
 title: College of Science and Engineering (COSE) Student Showcase 2024
 date: 2024-05-03
+summary: Ashley won 3rd place in the Environment category of the SFSU College of Science and Engineering 2024 Student Project Showcase!
 ---
 
 Undergraduate MEEP Lab researcher [Ashley Meinke](../../../author/ashley-meinke/) presented a poster in SFSU's College of Science and Engineering (CoSE) 2024 Student Project Showcase. 
