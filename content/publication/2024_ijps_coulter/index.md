@@ -1,9 +1,9 @@
 ---
-title: "Let the Records Show: Attribution of Scientific Credit in Natural History Collections"
+title: "Reproduction and population dynamics in autonomous gametophytes"
 authors:
 - admin
 - Kirsten M. Fisher
-date: "2025-07-01T00:00:00Z"
+date: "2024-07-01T00:00:00Z"
 doi: "https://doi.org/10.1086/729606"
 
 # Schedule page publish date (NOT publication's date).
