@@ -40,8 +40,7 @@ Outside of school, my interests include going to museums, libraries, and concert
 
 <figure>
 <a href="../../files/COSEposter2024_Meinke.png/"><img
-src="../../files/COSEposter2024_Meinke.png" alt="Ashley's poster from San Francisco State University's College of Science and Engineering student showcase 2024."></a>
-
+src="../../files/COSEposter2024_Meinke.png" alt="Ashley's poster from San Francisco State University's College of Science and Engineering student showcase 2024." style="width: 100px; height: 100px; "></a>
   <img src="" width="200">
   <figcaption>Ashley's poster from San Francisco State University's College of Science and Engineering student showcase 2024. Click to see full size!
 </figcaption>
