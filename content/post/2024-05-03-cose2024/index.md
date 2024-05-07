@@ -7,6 +7,7 @@ summary: Ashley won 3rd place in the Environment category of the SFSU College of
 Undergraduate MEEP Lab researcher [Ashley Meinke](../../../author/ashley-meinke/) presented a poster in SFSU's College of Science and Engineering (CoSE) 2024 Student Project Showcase. 
 This is a huge event with over 200 posters from schools and departments including: Biology (Ashley's department), Chemistry & Biochemistry, Computer Science, Engineering, Environment, Mathematics, Physics & Astronomy, and Psychology. 
 Poster and Project categories were further broken down by topic, and Ashley presented in the Environment category. 
+
 Each category awards 1st, 2nd, and 3rd prize awards, and each poster is visited by up to 3 judges who score the presentation based on a set of 10 questions on the appearance, presentation, and significance of the research.  
 Ashley won 3rd place! I (PI Jenna) was a judge in a different category so I know how fierce the competition was--the presentations were truly excellent, it was hard to narrow down to the 3 best, even with our scores tallied.
 I am sure the Environment category was the same. 
