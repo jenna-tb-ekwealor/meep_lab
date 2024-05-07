@@ -24,8 +24,8 @@ src="Ashley_poster.jpg" alt="Ashley standing with her poster at the CoSE showcas
 
 
 <figure>
-<a href="Ashley_Jenna.jpg/"><img
-src="Ashley_Jenna.jpg" alt="Ashley standing with her poster at the CoSE showcase." style="width: 300px; "></a>
+<a href="poster.png/"><img
+src="poster.png" alt="Ashley standing with her poster at the CoSE showcase." style="width: 300px; "></a>
   <img src="" width="200">
   <figcaption>Ashley and PI Jenna at the CoSE Student Project Showcase.
 </figcaption>
