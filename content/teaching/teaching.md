@@ -18,6 +18,20 @@ date_format = "2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
+  title = "BIOL 716 Skills for Scientific Proposal Writing"
+  organization = "San Francisco State University, Department of Biology"
+  date_start = 2024-01-27
+  date_end = ''
+  description = "Development of technical writing skills through the process of writing and editing research proposals based on the students' own research projects."
+  
+  [[item]]
+  title = "BIOL 710 Advanced Biometry"
+  organization = "San Francisco State University, Department of Biology"
+  date_start = 2024-01-27
+  date_end = ''
+  description = "[Link to syllabus](https://docs.google.com/document/d/1zW0qRF2vLT8w3NySu4IhFjDORPfYNfKl/edit?usp=sharing&ouid=108780207838976627617&rtpof=true&sd=truew)"
+
+[[item]]
   title = "Natural History of the Bay Area: Bryophytes"
   organization = "Merritt College, Peralta Community College District"
   date_start = 2020-10-27
