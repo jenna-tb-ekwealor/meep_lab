@@ -29,7 +29,7 @@ date_format = "2006"
   organization = "San Francisco State University, Department of Biology"
   date_start = 2024-01-27
   date_end = ''
-  description = "[Link to syllabus](https://docs.google.com/document/d/1zW0qRF2vLT8w3NySu4IhFjDORPfYNfKl/edit?usp=sharing&ouid=108780207838976627617&rtpof=true&sd=truew)"
+  description = "A survey of biological statistical data analysis in R. [Link to syllabus](https://docs.google.com/document/d/1zW0qRF2vLT8w3NySu4IhFjDORPfYNfKl/edit?usp=sharing&ouid=108780207838976627617&rtpof=true&sd=truew)"
 
 [[item]]
   title = "Natural History of the Bay Area: Bryophytes"
