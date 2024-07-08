@@ -35,7 +35,7 @@ src="poster.png" alt="Ashley standing with her poster at the CoSE showcase." sty
 
 <figure>
 <a href="ashley_certificate.png/"><img
-src="poster.png" alt="Ashley's 3rd place certificate with her photo and a green 3rd place ribbon." style="width: 300px; "></a>
+src="ashley_certificate.png" alt="Ashley's 3rd place certificate with her photo and a green 3rd place ribbon." style="width: 300px; "></a>
   <img src="" width="200">
   <figcaption>Ashley won 3rd place in the Environment category!
 </figcaption>
