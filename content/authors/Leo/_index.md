@@ -13,15 +13,17 @@ superuser: false
 bio: Outdoor enthusiast. 
 
 interests:
-  - Ants
-  - Walks
+  - Vehicles
+  - Planets
+  - Dinosaurs
+  - Mickey Mouse Clubhouse
   - Snacks
-  - Naps
+  - NOT Naps
   
 education:
   courses:
-    - course: None!
-      institution: The School of Life
+    - course: Learning through Play
+      institution: Pre-School
       
 # Highlight the author in author lists? (true/false)
 highlight_name: false
