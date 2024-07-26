@@ -26,13 +26,13 @@ Please review one or two of my [**publications**](../publication/) before gettin
 ## Undergraduate Opportunities
 If you are a new or existing SF State interested in moss ecology, physiology, or evolution and want to gain research experience send [**me**](https://meep-lab.com/author/jenna-t.-b.-ekwealor/) an email and we can schedule a time to chat.
 
-**SUMMER 2024!**
+<!---**SUMMER 2024!**
 <br>
 Interested in botany and population genetics? Apply to join my lab through [**SF State's Research Experience for Undergraduates (REU) program**](https://eoscenter.sfsu.edu/reu). Apply [**here**](https://etap.nsf.gov/award/444/opportunity/9514) by  May 7, 2024 at 11:59 PM EDT.
 <br>
 <br>
 Interested in coding and genomics? Apply to the [**Promoting Inclusivity in Computing (PINC) Summer Program**](https://live-sfsu-biology.pantheonsite.io/pincsummerprogram). Apply by May 3, 2024 at 11:59 PDT. 
-<br>
+<br> --->
 
 ##  Graduate Students
 *Accepting graduate students to begin in Fall of 2025.* 
