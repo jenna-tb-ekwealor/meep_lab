@@ -35,7 +35,7 @@ content:
         text: Who we are
         url: ../people/
     - title: Our most recent publication
-      content: 'A technique to determine genotypic sex in the highly clonal <i>Syntrichia caninervis</i>, and the results of a case study examining genotypic and phenotypic sex ratios'
+      content: 'The bryophyte life cycle, characterized by autonomous gametophytes (and dependent sporophytes), has profound impacts on reproductive biology. In this review, we summarize recent and foundational findings in bryophyte reproduction, and contextualize bryophyte reproduction within the reproductive patterns and processes of land plants at large.'
       align: right
       background:
         position: center
@@ -44,9 +44,9 @@ content:
         media: syntrichiasporos.JPG
       link:
         text: Read more
-        url: ../publication/2022_apps_rflp/
+        url: ../publication/2024_ijps_coulter/
     - title: Interested in our research?
-      content: 'We are now recruiting undergraduate and masters students to start in Fall 2024'
+      content: 'We are now recruiting undergraduate and masters students to start in Spring or Fall 2025'
       align: left
       background:
         position: right

@@ -37,7 +37,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Temporary cover for the July 2024 issue when the Coulter Review is published.'
+  caption: 'Our cover for the July 2024 issue.'
   focal_point: ""
   preview_only: false
 
