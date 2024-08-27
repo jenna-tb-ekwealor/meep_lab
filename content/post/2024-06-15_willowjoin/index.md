@@ -3,7 +3,7 @@ title: Willow joined the lab!
 date: 2024-06-15
 ---
 
-Welcome [Willow Larsen](https://meep-lab.com/author/WillowLarsen/) to the lab!
+Welcome [Willow Larsen](https://meep-lab.com/author/willow-larsen/) to the lab!
 
 *Round of applause!* 
 
