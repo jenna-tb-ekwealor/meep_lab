@@ -20,5 +20,5 @@ design:
 ---
 <br>
 
-Check out the Contact page for summer research opportunities!
+Check out the Contact page for to inquire about joining the lab. 
 
