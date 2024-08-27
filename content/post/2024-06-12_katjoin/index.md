@@ -3,7 +3,7 @@ title: Kat joined the lab!
 date: 2024-06-12
 ---
 
-Welcome [Kat McCullough](https://meep-lab.com/author/KatrinaMcCullough/) to the lab!
+Welcome [Kat McCullough](https://meep-lab.com/author/katrina-mccullough/) to the lab!
 
 *Round of applause!* 
 
