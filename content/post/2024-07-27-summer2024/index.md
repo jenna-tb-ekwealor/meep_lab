@@ -11,7 +11,7 @@ Congratulations, all!
 
 <figure>
 <a href="receiving_pointers.jpeg/"><img
-src="receiving_pointers.jpeg" alt="The members of the PINC Genomics receiving their pointer gift from Mentor Richard" style="width: 300px; "></a>
+src="receiving_pointers.jpeg" alt="The members of the PINC Genomics receiving their pointer gift from Mentor Richard" style="width: 600px; "></a>
   <img src="" width="200">
   <figcaption>Richard gifted the PINC Team their very own telescoping pointers before the presentation.
 </figcaption>
@@ -19,7 +19,7 @@ src="receiving_pointers.jpeg" alt="The members of the PINC Genomics receiving th
 
 <figure>
 <a href="Emory.jpeg/"><img
-src="Emory.jpeg" alt="Emory presenting with a pointer" style="width: 300px; "></a>
+src="Emory.jpeg" alt="Emory presenting with a pointer" style="width: 600px; "></a>
   <img src="" width="200">
   <figcaption>Emory putting that pointer to use while presenting!
 </figcaption>
@@ -27,7 +27,7 @@ src="Emory.jpeg" alt="Emory presenting with a pointer" style="width: 300px; "></
 
 <figure>
 <a href="Wendy.jpeg/"><img
-src="Wendy.jpeg" alt="Emory presenting with a pointer" style="width: 300px; "></a>
+src="Wendy.jpeg" alt="Emory presenting with a pointer" style="width: 600px; "></a>
   <img src="" width="200">
   <figcaption>Wendy presenting.
 </figcaption>
@@ -35,7 +35,7 @@ src="Wendy.jpeg" alt="Emory presenting with a pointer" style="width: 300px; "></
 
 <figure>
 <a href="Andre.jpeg/"><img
-src="Andre.jpeg" alt="Andre presenting" style="width: 300px; "></a>
+src="Andre.jpeg" alt="Andre presenting" style="width: 600px; "></a>
   <img src="" width="200">
   <figcaption>Andre presenting.
 </figcaption>
@@ -43,7 +43,7 @@ src="Andre.jpeg" alt="Andre presenting" style="width: 300px; "></a>
 
 <figure>
 <a href="Daniel.jpeg/"><img
-src="Daniel.jpeg" alt="Daniel presenting" style="width: 300px; "></a>
+src="Daniel.jpeg" alt="Daniel presenting" style="width: 600px; "></a>
   <img src="" width="200">
   <figcaption>Daniel presenting.
 </figcaption>
@@ -52,7 +52,7 @@ src="Daniel.jpeg" alt="Daniel presenting" style="width: 300px; "></a>
 
 <figure>
 <a href="Genomics_PINC.jpg/"><img
-src="Genomics_PINC.jpg" alt="The members of the PINC Genomics team smiling with their certificates" style="width: 300px; "></a>
+src="Genomics_PINC.jpg" alt="The members of the PINC Genomics team smiling with their certificates" style="width: 600px; "></a>
   <img src="" width="200">
   <figcaption>The MEEP Lab PINC Group AKA Team Genomics AKA Team Richard.
 </figcaption>
@@ -61,7 +61,7 @@ src="Genomics_PINC.jpg" alt="The members of the PINC Genomics team smiling with 
 
 <figure>
 <a href="Genomics_PINC_fun.jpg/"><img
-src="Genomics_PINC_fun.jpg" alt="The members of the PINC Genomics team doing silly poses with their certificates" style="width: 300px; "></a>
+src="Genomics_PINC_fun.jpg" alt="The members of the PINC Genomics team doing silly poses with their certificates" style="width: 600px; "></a>
   <img src="" width="200">
   <figcaption>Now silly this time!
 </figcaption>
@@ -69,7 +69,7 @@ src="Genomics_PINC_fun.jpg" alt="The members of the PINC Genomics team doing sil
 
 <figure>
 <a href="Ashley_PINC.jpeg/"><img
-src="Ashley_PINC.jpeg" alt="Ashley presenting with her PINC group." style="width: 300px; "></a>
+src="Ashley_PINC.jpeg" alt="Ashley presenting with her PINC group." style="width: 600px; "></a>
   <img src="" width="200">
   <figcaption>Ashley presenting with her PINC group. 
 </figcaption>
@@ -77,23 +77,23 @@ src="Ashley_PINC.jpeg" alt="Ashley presenting with her PINC group." style="width
 
 <figure>
 <a href="Jason.jpeg/"><img
-src="Jason.jpeg" alt="Jason presenting" style="width: 300px; "></a>
+src="Jason.jpeg" alt="Jason presenting" style="width: 600px; "></a>
   <img src="" width="200">
   <figcaption>Jason presenting.
 </figcaption>
 </figure>
 
 <figure>
-<a href="Frey.jpeg/"><img
-src="Frey.jpeg" alt="Frey presenting" style="width: 300px; "></a>
+<a href="Frey.JPG/"><img
+src="Frey.JPG" alt="Frey presenting" style="width: 600px; "></a>
   <img src="" width="200">
   <figcaption>Frey presenting.
 </figcaption>
 </figure>
 
 <figure>
-<a href="Ashley.jpeg/"><img
-src="Ashley.jpeg" alt="Ashley presenting" style="width: 300px; "></a>
+<a href="Ashley.JPG/"><img
+src="Ashley.JPG" alt="Ashley presenting" style="width: 600px; "></a>
   <img src="" width="200">
   <figcaption>Ashley presenting.
 </figcaption>
@@ -101,8 +101,8 @@ src="Ashley.jpeg" alt="Ashley presenting" style="width: 300px; "></a>
 
 
 <figure>
-<a href="after.jpeg/"><img
-src="after.jpeg" alt="Some MEEP Lab members enjoying lunch after the symposium" style="width: 300px; "></a>
+<a href="after.JPG/"><img
+src="after.JPG" alt="Some MEEP Lab members enjoying lunch after the symposium" style="width: 600px; "></a>
   <img src="" width="200">
   <figcaption>Some MEEP Lab members enjoying lunch after the symposium. Woohoo!
 </figcaption>
