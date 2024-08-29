@@ -15,9 +15,12 @@ superuser: false
 bio: Former summer intern. 
 
 interests:
-  - Ecology
-  - Evolution
-  - Microscopy
+  - Computational biology
+  - Molecular biology
+  - Genetic modification
+  - Organelles
+  - Bioinformatics
+  - Drug development
       
 # Highlight the author in author lists? (true/false)
 highlight_name: false

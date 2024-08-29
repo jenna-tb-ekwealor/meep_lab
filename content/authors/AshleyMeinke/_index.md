@@ -31,7 +31,7 @@ user_groups:
   - Undergraduate Researchers
 ---
 
-# Hi, my name is Ashley. 
+## Hi, my name is Ashley. 
 
 I joined the MEEP Lab in the Spring of 2024 and have been working on the evolution and physiology of stress tolerance in *Syntrichia*. 
 Specifically, my role focuses on coding and data analysis. 

@@ -31,6 +31,7 @@ user_groups:
 ---
 
 Katrina McCollough is a Senior in the Ecology, Evolution, and Conservation program at SF State. Mycology is her passion but that has recently expanded to include botany, bryology, and lichenology, with the goal of understanding microenvironments and their impacts on ecology. She is currently working on San Bruno Mountain, studying the composition of epiphytic lichen species as well as their functional traits and how they relate to the unique ecology of the mountain.
+
 <figure>
 <a href="mushrooms.JPEG/"><img
 src="mushrooms.JPEG" alt="Kat happy, arms spread, in the forest, with a mushroom shirt." style="width: 300px; "></a>
