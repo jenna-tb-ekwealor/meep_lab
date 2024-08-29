@@ -76,8 +76,8 @@ src="Ashley_PINC.jpeg" alt="Ashley presenting with her PINC group." style="width
 </figure>
 
 <figure>
-<a href="Jason.jpeg/"><img
-src="Jason.jpeg" alt="Jason presenting" style="width: 600px; "></a>
+<a href="Jason.JPG/"><img
+src="Jason.JPG" alt="Jason presenting" style="width: 600px; "></a>
   <img src="" width="200">
   <figcaption>Jason presenting.
 </figcaption>
@@ -101,8 +101,8 @@ src="Ashley.JPG" alt="Ashley presenting" style="width: 600px; "></a>
 
 
 <figure>
-<a href="after.JPG/"><img
-src="after.JPG" alt="Some MEEP Lab members enjoying lunch after the symposium" style="width: 600px; "></a>
+<a href="after.jpeg/"><img
+src="after.jpeg" alt="Some MEEP Lab members enjoying lunch after the symposium" style="width: 600px; "></a>
   <img src="" width="200">
   <figcaption>Some MEEP Lab members enjoying lunch after the symposium. Woohoo!
 </figcaption>
