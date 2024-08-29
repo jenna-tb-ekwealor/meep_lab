@@ -18,16 +18,8 @@ src="receiving_pointers.jpeg" alt="The members of the PINC Genomics receiving th
 </figure>
 
 <figure>
-<a href="receiving_pointers.jpeg/"><img
-src="receiving_pointers.jpeg" alt="The members of the PINC Genomics receiving their pointer gift from Mentor Richard" style="width: 300px; "></a>
-  <img src="" width="200">
-  <figcaption>Richard gifted the PINC Team their very own telescoping pointers before the presentation.
-</figcaption>
-</figure>
-
-<figure>
 <a href="Emory.jpeg/"><img
-src="receiving_pointers.jpeg" alt="Emory presenting with a pointer" style="width: 300px; "></a>
+src="Emory.jpeg" alt="Emory presenting with a pointer" style="width: 300px; "></a>
   <img src="" width="200">
   <figcaption>Emory putting that pointer to use while presenting!
 </figcaption>
@@ -35,7 +27,7 @@ src="receiving_pointers.jpeg" alt="Emory presenting with a pointer" style="width
 
 <figure>
 <a href="Wendy.jpeg/"><img
-src="receiving_pointers.jpeg" alt="Emory presenting with a pointer" style="width: 300px; "></a>
+src="Wendy.jpeg" alt="Emory presenting with a pointer" style="width: 300px; "></a>
   <img src="" width="200">
   <figcaption>Wendy presenting.
 </figcaption>
@@ -43,7 +35,7 @@ src="receiving_pointers.jpeg" alt="Emory presenting with a pointer" style="width
 
 <figure>
 <a href="Andre.jpeg/"><img
-src="receiving_pointers.jpeg" alt="Andre presenting" style="width: 300px; "></a>
+src="Andre.jpeg" alt="Andre presenting" style="width: 300px; "></a>
   <img src="" width="200">
   <figcaption>Andre presenting.
 </figcaption>
@@ -51,7 +43,7 @@ src="receiving_pointers.jpeg" alt="Andre presenting" style="width: 300px; "></a>
 
 <figure>
 <a href="Daniel.jpeg/"><img
-src="receiving_pointers.jpeg" alt="Daniel presenting" style="width: 300px; "></a>
+src="Daniel.jpeg" alt="Daniel presenting" style="width: 300px; "></a>
   <img src="" width="200">
   <figcaption>Daniel presenting.
 </figcaption>
