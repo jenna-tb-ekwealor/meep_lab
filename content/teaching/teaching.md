@@ -18,13 +18,20 @@ date_format = "2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
+  title = "BIOL 529 GWAR Plant Ecology"
+  organization = "San Francisco State University, Department of Biology"
+  date_start = 2024-08-26
+  date_end = ''
+  description = "Fundamentals of ecology through the study of plants, particularly in the Bay Area."
+
+[[item]]
   title = "BIOL 716 Skills for Scientific Proposal Writing"
   organization = "San Francisco State University, Department of Biology"
   date_start = 2024-01-27
   date_end = ''
   description = "Development of technical writing skills through the process of writing and editing research proposals based on the students' own research projects."
   
-  [[item]]
+[[item]]
   title = "BIOL 710 Advanced Biometry"
   organization = "San Francisco State University, Department of Biology"
   date_start = 2024-01-27
