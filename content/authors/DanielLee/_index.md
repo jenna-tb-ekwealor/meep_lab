@@ -6,7 +6,7 @@ title: Daniel Lee
 
 # Username (this should match the folder name)
 authors:
-  - Daniel Lee
+  - DanielLee
 
 # Is this the primary user of the site?
 superuser: false

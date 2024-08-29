@@ -6,7 +6,7 @@ title: Andre Tran
 
 # Username (this should match the folder name)
 authors:
-  - Andre Tran
+  - AndreTran
 
 # Is this the primary user of the site?
 superuser: false
