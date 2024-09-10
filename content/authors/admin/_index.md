@@ -78,4 +78,4 @@ user_groups:
   - Principal Investigator
 ---
 
-Jenna Ekwealor is an incoming Assistant Professor of biology at San Francisco State University. Lab opens in January 2024!
+Jenna Ekwealor is an Assistant Professor of biology at San Francisco State University.
