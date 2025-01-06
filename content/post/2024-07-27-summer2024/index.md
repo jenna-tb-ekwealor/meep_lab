@@ -9,60 +9,86 @@ Our group's presentations were all back-to-back in the morning; it was a total m
 
 Congratulations, all!
 
-<div class="photo-gallery">
-    <a href="receiving_pointers.jpeg" target="_blank">
-        <img src="receiving_pointers.jpeg" alt="The members of the PINC Genomics receiving their pointer gift from Mentor Richard">
-    </a>
-    <a href="Emory.jpeg" target="_blank">
-        <img src="Emory.jpeg" alt="Emory presenting with a pointer">
-    </a>
-    <a href="Wendy.jpeg" target="_blank">
-        <img src="Wendy.jpeg" alt="Wendy presenting">
-    </a>
-    <a href="Andre.jpeg" target="_blank">
-        <img src="Andre.jpeg" alt="Andre presenting">
-    </a>
-    <a href="Daniel.jpeg" target="_blank">
-        <img src="Daniel.jpeg" alt="Daniel presenting">
-    </a>
-    <a href="Genomics_PINC.jpg" target="_blank">
-        <img src="Genomics_PINC.jpg" alt="The members of the PINC Genomics team smiling with their certificates">
-    </a>
-    <a href="Genomics_PINC_fun.jpg" target="_blank">
-        <img src="Genomics_PINC_fun.jpg" alt="The members of the PINC Genomics team doing silly poses with their certificates">
-    </a>
-    <a href="Ashley_PINC.jpeg" target="_blank">
-        <img src="Ashley_PINC.jpeg" alt="Ashley presenting with her PINC group">
-    </a>
-    <a href="Jason.JPG" target="_blank">
-        <img src="Jason.JPG" alt="Jason presenting">
-    </a>
-    <a href="Frey.JPG" target="_blank">
-        <img src="Frey.JPG" alt="Frey presenting">
-    </a>
-    <a href="Ashley.JPG" target="_blank">
-        <img src="Ashley.JPG" alt="Ashley presenting">
-    </a>
-    <a href="after.jpeg" target="_blank">
-        <img src="after.jpeg" alt="Some MEEP Lab members enjoying lunch after the symposium">
-    </a>
+<div class="gallery">
+  <a target="_blank" href="receiving_pointers.jpeg">
+    <img src="receiving_pointers.jpeg" alt="The members of the PINC Genomics receiving their pointer gift from Mentor Richard">
+  </a>
+  <div class="desc">The members of the PINC Genomics receiving their pointer gift from Mentor Richard</div>
 </div>
 
-<style>
-  .photo-gallery {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
-    gap: 10px;
-  }
-  .photo-gallery img {
-    width: 100%;
-    height: auto;
-    border: 2px solid #ddd;
-    border-radius: 5px;
-    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
-    transition: transform 0.2s ease;
-  }
-  .photo-gallery img:hover {
-    transform: scale(1.05);
-  }
-</style>
+<div class="gallery">
+  <a target="_blank" href="Emory.jpeg">
+    <img src="Emory.jpeg" alt="Emory presenting with a pointer">
+  </a>
+  <div class="desc">Emory presenting with a pointer</div>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="Wendy.jpeg">
+    <img src="Wendy.jpeg" alt="Wendy presenting">
+  </a>
+  <div class="desc">Wendy presenting</div>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="Andre.jpeg">
+    <img src="Andre.jpeg" alt="Andre presenting">
+  </a>
+  <div class="desc">Andre presenting</div>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="Daniel.jpeg">
+    <img src="Daniel.jpeg" alt="Daniel presenting">
+  </a>
+  <div class="desc">Daniel presenting</div>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="Genomics_PINC.jpg">
+    <img src="Genomics_PINC.jpg" alt="The members of the PINC Genomics team smiling with their certificates">
+  </a>
+  <div class="desc">The members of the PINC Genomics team smiling with their certificates</div>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="Genomics_PINC_fun.jpg">
+    <img src="Genomics_PINC_fun.jpg" alt="The members of the PINC Genomics team doing silly poses with their certificates">
+  </a>
+  <div class="desc">The members of the PINC Genomics team doing silly poses with their certificates</div>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="Ashley_PINC.jpeg">
+    <img src="Ashley_PINC.jpeg" alt="Ashley presenting with her PINC group">
+  </a>
+  <div class="desc">Ashley presenting with her PINC group</div>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="Jason.JPG">
+    <img src="Jason.JPG" alt="Jason presenting">
+  </a>
+  <div class="desc">Jason presenting</div>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="Frey.JPG">
+    <img src="Frey.JPG" alt="Frey presenting">
+  </a>
+  <div class="desc">Frey presenting</div>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="Ashley.JPG">
+    <img src="Ashley.JPG" alt="Ashley presenting">
+  </a>
+  <div class="desc">Ashley presenting</div>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="after.jpeg">
+    <img src="after.jpeg" alt="Some MEEP Lab members enjoying lunch after the symposium">
+  </a>
+  <div class="desc">Some MEEP Lab members enjoying lunch after the symposium</div>
+</div>
