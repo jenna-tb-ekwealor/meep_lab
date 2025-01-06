@@ -1,10 +1,10 @@
 ---
-title: Moss Appreciation Week, Hosted by the Lewis & Clark Natural History Club
+title: Moss Appreciation Week at Lewis & Clark College
 date: 2024-02-20
 summary: I had the pleasure of being the keynote speaker at the 6th Annual Moss Appreciation Week at Lewis & Clark College, where I also led a moss walk and shared insights about mosses that grow under rocks.
 ---
 
-The Lewis & Clark Natural History Club invited me to be a part of their 6th Annual Moss Appreciation Week, and it was a fantastic experience! 
+The Natural History Club of Lewis & Clark College (Portland, OR) invited me to be a part of their 6th Annual Moss Appreciation Week, and it was a fantastic experience! 
 I kicked off my involvement by leading a moss walk on campus, where we explored the diversity of mosses in the Pacific Northwest habitat. 
 We had an enthusiastic group, and it was wonderful to see people connect with the mosses growing right under their feet on campus.
 
