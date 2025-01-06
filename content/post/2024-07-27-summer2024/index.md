@@ -9,42 +9,42 @@ Our group's presentations were all back-to-back in the morning; it was a total m
 
 Congratulations, all!
 
-<div class="gallery">
+<div class="photo-gallery">
     <a href="receiving_pointers.jpeg" target="_blank">
-        <img src="receiving_pointers.jpeg" alt="The members of the PINC Genomics receiving their pointer gift from Mentor Richard" style="width: 200px; margin: 5px;">
+        <img src="receiving_pointers.jpeg" alt="The members of the PINC Genomics receiving their pointer gift from Mentor Richard">
     </a>
     <a href="Emory.jpeg" target="_blank">
-        <img src="Emory.jpeg" alt="Emory presenting with a pointer" style="width: 200px; margin: 5px;">
+        <img src="Emory.jpeg" alt="Emory presenting with a pointer">
     </a>
     <a href="Wendy.jpeg" target="_blank">
-        <img src="Wendy.jpeg" alt="Wendy presenting" style="width: 200px; margin: 5px;">
+        <img src="Wendy.jpeg" alt="Wendy presenting">
     </a>
     <a href="Andre.jpeg" target="_blank">
-        <img src="Andre.jpeg" alt="Andre presenting" style="width: 200px; margin: 5px;">
+        <img src="Andre.jpeg" alt="Andre presenting">
     </a>
     <a href="Daniel.jpeg" target="_blank">
-        <img src="Daniel.jpeg" alt="Daniel presenting" style="width: 200px; margin: 5px;">
+        <img src="Daniel.jpeg" alt="Daniel presenting">
     </a>
     <a href="Genomics_PINC.jpg" target="_blank">
-        <img src="Genomics_PINC.jpg" alt="The members of the PINC Genomics team smiling with their certificates" style="width: 200px; margin: 5px;">
+        <img src="Genomics_PINC.jpg" alt="The members of the PINC Genomics team smiling with their certificates">
     </a>
     <a href="Genomics_PINC_fun.jpg" target="_blank">
-        <img src="Genomics_PINC_fun.jpg" alt="The members of the PINC Genomics team doing silly poses with their certificates" style="width: 200px; margin: 5px;">
+        <img src="Genomics_PINC_fun.jpg" alt="The members of the PINC Genomics team doing silly poses with their certificates">
     </a>
     <a href="Ashley_PINC.jpeg" target="_blank">
-        <img src="Ashley_PINC.jpeg" alt="Ashley presenting with her PINC group" style="width: 200px; margin: 5px;">
+        <img src="Ashley_PINC.jpeg" alt="Ashley presenting with her PINC group">
     </a>
     <a href="Jason.JPG" target="_blank">
-        <img src="Jason.JPG" alt="Jason presenting" style="width: 200px; margin: 5px;">
+        <img src="Jason.JPG" alt="Jason presenting">
     </a>
     <a href="Frey.JPG" target="_blank">
-        <img src="Frey.JPG" alt="Frey presenting" style="width: 200px; margin: 5px;">
+        <img src="Frey.JPG" alt="Frey presenting">
     </a>
     <a href="Ashley.JPG" target="_blank">
-        <img src="Ashley.JPG" alt="Ashley presenting" style="width: 200px; margin: 5px;">
+        <img src="Ashley.JPG" alt="Ashley presenting">
     </a>
     <a href="after.jpeg" target="_blank">
-        <img src="after.jpeg" alt="Some MEEP Lab members enjoying lunch after the symposium" style="width: 200px; margin: 5px;">
+        <img src="after.jpeg" alt="Some MEEP Lab members enjoying lunch after the symposium">
     </a>
 </div>
 
