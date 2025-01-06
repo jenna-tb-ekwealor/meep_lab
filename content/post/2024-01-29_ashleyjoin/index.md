@@ -1,6 +1,7 @@
 ---
 title: Ashley joined the lab!
 date: 2024-01-29
+published: false
 ---
 
 Welcome [Ashley Meinke](https://meep-lab.com/author/ashley-meinke/) to the lab!

@@ -1,6 +1,7 @@
 ---
 title: Kat joined the lab!
 date: 2024-06-12
+published: false
 ---
 
 Welcome [Kat McCullough](https://meep-lab.com/author/katrina-mccullough/) to the lab!
