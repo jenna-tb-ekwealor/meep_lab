@@ -16,7 +16,8 @@ Some highlights included:
 - Terrarium Workshop: Participants created their own mini moss habitats.
 
 I also saw some of the most beautiful moss art (in sticker form) and read some incredible moss poetry during this magnificent event. 
-The event wrapped up with the keynote lecture, which I also had the honor of giving, titled "Unlike a Rolling Stone: The Secret Life of Moss That Grows Under Rocks," where I shared the story of hypolithic moss. 
+The event wrapped up with the keynote lecture, which I also had the honor of giving, titled "A sedentary stone does gather moss: 
+The secret world of mosses under quartz crystals," where I shared the story of hypolithic moss. 
 
 It was truly a fantastic week celebrating moss in all its forms.
 Thank you to the Lewis & Clark Natural History Club and everyone who made this week memorable!
