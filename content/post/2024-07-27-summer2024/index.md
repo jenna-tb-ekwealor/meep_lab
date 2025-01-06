@@ -1,6 +1,6 @@
 ---
 title: SFSU Summer Research Symposium 2024
-date: 2024-07-03
+date: 2024-08-03
 summary: EIGHT MEEP Lab undergraduate researchers and summer interns presented their work at the 2024 SFSU Summer Symposium!
 ---
 
