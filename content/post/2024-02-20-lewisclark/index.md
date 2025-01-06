@@ -1,5 +1,5 @@
 ---
-title: Keynote Speaker at Moss Appreciation Week, Lewis & Clark, Hosted by the Lewis & Clark Natural History Club
+title: Moss Appreciation Week, Hosted by the Lewis & Clark Natural History Club
 date: 2024-02-20
 summary: I had the pleasure of being the keynote speaker at the 6th Annual Moss Appreciation Week at Lewis & Clark College, where I also led a moss walk and shared insights about mosses that grow under rocks.
 ---
