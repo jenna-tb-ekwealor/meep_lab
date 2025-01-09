@@ -46,7 +46,7 @@ content:
         text: Read more
         url: ../publication/2024_ijps_coulter/
     - title: Interested in our research?
-      content: 'We are now recruiting undergraduate and masters students to start in Spring or Fall 2025'
+      content: 'We are now recruiting masters students to start in Fall 2025'
       align: left
       background:
         position: right
