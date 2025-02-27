@@ -4,39 +4,39 @@ date: 2024-02-20
 summary: I had the pleasure of being the keynote speaker at the 6th Annual Moss Appreciation Week at Lewis & Clark College, where I also led a moss walk and shared insights about mosses that grow under rocks.
 
 gallery_item: 
-- album: mosseweekalbum
+- album: mossweekalbum
   image: moss_1.jpeg
   caption: 
   
-- album: mosseweekalbum
+- album: mossweekalbum
   image: moss_2.jpeg
   caption: 
   
-- album: mosseweekalbum
+- album: mossweekalbum
   image: moss_3.jpeg
   caption: 
 
-- album: mosseweekalbum
+- album: mossweekalbum
   image: moss_4.jpeg
   caption: 
   
-- album: mosseweekalbum
+- album: mossweekalbum
   image: moss_5.jpeg
   caption: 
 
-- album: mosseweekalbum
+- album: mossweekalbum
   image: moss_6.jpeg
   caption: 
   
-- album: mosseweekalbum
+- album: mossweekalbum
   image: snail_1.jpeg
   caption: 
   
-- album: mosseweekalbum
+- album: mossweekalbum
   image: snail_2.jpeg
   caption: 
   
-- album: mosseweekalbum
+- album: mossweekalbum
   image: lichen.jpeg
   caption: 
   
@@ -63,7 +63,7 @@ Thank you to the Lewis & Clark Natural History Club and everyone who made this w
 
 <br>
 
-{{< gallery album="mosseweekalbum" >}}
+{{< gallery album="mossweekalbum" >}}
 
 <br>
 
