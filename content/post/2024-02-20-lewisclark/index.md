@@ -2,6 +2,44 @@
 title: Moss Appreciation Week at Lewis & Clark College
 date: 2024-02-20
 summary: I had the pleasure of being the keynote speaker at the 6th Annual Moss Appreciation Week at Lewis & Clark College, where I also led a moss walk and shared insights about mosses that grow under rocks.
+
+gallery_item: 
+- album: mosseweekalbum
+  image: moss_1.jpeg
+  caption: 
+  
+- album: mosseweekalbum
+  image: moss_2.jpeg
+  caption: 
+  
+- album: mosseweekalbum
+  image: moss_3.jpeg
+  caption: 
+
+- album: mosseweekalbum
+  image: moss_4.jpeg
+  caption: 
+  
+- album: mosseweekalbum
+  image: moss_5.jpeg
+  caption: 
+
+- album: mosseweekalbum
+  image: moss_6.jpeg
+  caption: 
+  
+- album: mosseweekalbum
+  image: snail_1.jpeg
+  caption: 
+  
+- album: mosseweekalbum
+  image: snail_2.jpeg
+  caption: 
+  
+- album: mosseweekalbum
+  image: lichen.jpeg
+  caption: 
+  
 ---
 
 The Natural History Club of Lewis & Clark College (Portland, OR) invited me to be a part of their 6th Annual Moss Appreciation Week, and it was a fantastic experience! 
@@ -21,6 +59,14 @@ The secret world of mosses under quartz crystals," where I shared the story of h
 
 It was truly a fantastic week celebrating moss in all its forms.
 Thank you to the Lewis & Clark Natural History Club and everyone who made this week memorable!
+
+
+<br>
+
+{{< gallery album="mosseweekalbum" >}}
+
+<br>
+
 
 All photos and videos below via Lewis & Clark Natural History Club instagram @lc_nhn 
 
