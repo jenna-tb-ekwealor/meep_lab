@@ -15,10 +15,6 @@ gallery_item:
 - album: mossweekalbum
   image: moss_3.jpeg
   caption: 
-
-- album: mossweekalbum
-  image: moss_4.jpeg
-  caption: 
   
 - album: mossweekalbum
   image: moss_5.jpeg
