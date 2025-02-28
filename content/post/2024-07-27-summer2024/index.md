@@ -59,4 +59,10 @@ gallery_item:
 Undergraduate MEEP Lab researchers [Ashley](../../content/authors/AshleyMeinke/), NSF REU Scholars [Jason](../../../author/JasonTate/) and [Frey](../../../author/FreyRogers/), and the PINC Genomics Team ([Andre](../../../author/AndreTran/), [Daniel](../../../author/DanielLee/), [Emory](../../../author/EmoryAdelman/), [Nathalie](../../../author/NathalieAquino/), and [Wendy](../../../author/WendyKo/)) gave excellent research presentations at SFSU's Summer Research Symposium. 
 Our group's presentations were all back-to-back in the morning; it was a total moss takeover! It was *awesome.*
 
+<br>
+
+{{< gallery album="summer2024" >}}
+
+<br>
+
 Congratulations, all!
