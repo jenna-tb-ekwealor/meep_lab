@@ -5,6 +5,7 @@ title: "BOTANY 2022 in Anchorage, Alaska"
 summary: "I traveled to Anchorage, Alaska for BOTANY 2022."
 date: 2022-07-26T18:15:21-07:00
 
+gallery_item:
 - album: botany2022album
   image: train.jpg
   caption: On the Alaska Railroad with Leo. 
