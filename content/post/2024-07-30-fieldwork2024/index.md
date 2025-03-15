@@ -1,8 +1,7 @@
 ---
-title: Fieldwork on San Bruno Mountain
-date: 07-20-2024
-summary: A summer of hiking and surveying on San Bruno Mountain, surrounded by moss, lichen, and ever-changing weather.
-published: true
+title: "Fieldwork on San Bruno Mountain"
+summary: "A summer of hiking and surveying on San Bruno Mountain, surrounded by moss, lichen, and ever-changing weather."
+date: 2024-07-20T18:15:21-07:00
 ---
 
 This summer, several members of the MEEP Lab made multiple trips up to San Bruno Mountain for fieldwork, split between surveying Syntrichia moss populations and studying epiphytes on coyote brush (Baccharis pilularis).
