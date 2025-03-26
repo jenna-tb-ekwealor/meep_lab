@@ -43,10 +43,9 @@ In future semesters, I plan to assign pots directly to individual students and r
 As climate change challenges our agricultural systems, there is growing recognition that TEK offers insights for sustainable land management and resilience. Our experiment was a small-scale attempt to understand that wisdom not only through scientific methods, but through relationship with plants and with the teachings that have long sustained the land. The Three Sisters were our curriculum, our collaborators, and our teachers. And they reminded us, as Kimmerer says, that “all flourishing is mutual.”
 
 ### See It in Action
-The photos in the album below are from a single afternoon late in the semester, shortly before harvest day. 
+The photos in the album below are from a single afternoon late in the semester, shortly before harvest day. Photos are courtesy of San Francisco State University Strategic Marketing and Communications.
 
 {{< gallery album="threesisters2024" >}}
-Photos are courtesy of San Francisco State University Strategic Marketing and Communications.
 
 <br>
 
