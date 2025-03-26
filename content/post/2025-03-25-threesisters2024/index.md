@@ -86,7 +86,7 @@ src="nutrientdiffsquash.png" alt="Squash in nutrient-rich soil (top left) and nu
 
 <figure>
 <a href="flowers.png/"><img
-src="flowers.png" alt="Number of flowers by planting type." style="width: 400px; "></a>
+src="flowers.png" alt="Number of flowers by planting type." style="width: 600px; "></a>
   <img src="" width="600">
   <figcaption>Number of flowers by planting type.
 </figcaption>
