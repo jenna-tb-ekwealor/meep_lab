@@ -12,8 +12,8 @@ Between traditional ecological knowledge and modern science.
 At the heart of it all was a semester-long, class-wide experiment rooted in one of the most enduring examples of sustainable agriculture: the Three Sisters (corn, beans, and squash grown together in polyculture). This planting system is more than efficient agriculture, it’s a story of facilitation passed down through generations of Indigenous peoples across the Americas. We explored it not only through greenhouse experiments and data collection but through engagement with traditional ecological knowledge (TEK) that is place-based, relational, and rooted in observation and respect.
 
 <figure>
-<a href="happypoly.jpg/"><img
-src="happypoly.jpg" alt="A Three Sisters experimental pot. " style="width: 400px; "></a>
+<a href="happypoly.png/"><img
+src="happypoly.png" alt="A Three Sisters experimental pot. " style="width: 400px; "></a>
   <img src="" width="600">
   <figcaption>A Three Sisters experimental pot.  
 </figcaption>
