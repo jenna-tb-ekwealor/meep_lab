@@ -87,7 +87,7 @@ You'll see students gathering data, observing root systems, and working side by 
 
 <br>
 
-{{< gallery album="threesisters20244" >}}
+{{< gallery album="threesisters2024" >}}
 Photos are courtesy of San Francisco State University Strategic Marketing and Communications (SMC).
 
 <br>
