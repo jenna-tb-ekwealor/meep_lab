@@ -10,11 +10,51 @@ Between people and land.
 Between traditional ecological knowledge and modern science. 
 At the heart of it all was a semester-long, class-wide experiment rooted in one of the most enduring examples of sustainable agriculture: the Three Sisters (corn, beans, and squash grown together in polyculture). This planting system is more than efficient agriculture, it’s a story of collaboration passed down through generations of Indigenous peoples across the Americas. We explored it not only through greenhouse experiments and data collection but through engagement with traditional ecological knowledge (TEK) that is place-based, relational, and rooted in observation and respect.
 
+<figure>
+<a href="happypoly.jpg/"><img
+src="happypoly.jpg" alt="Corn seedlings in monoculture." style="width: 300px; "></a>
+  <img src="" width="600">
+  <figcaption>A Three Sisters experimental pot.  
+</figcaption>
+</figure>
+
 ### Bringing TEK into the Classroom
 Since the first day of class, I tried to make it clear that this wasn’t a course about plants in isolation, but about plants as part of ecological and cultural systems, and that humans are and always have been a part of both. Throughout the semester, we read and discussed *Braiding Sweetgrass* by Robin Wall Kimmerer. Kimmerer, a plant ecologist and Citizen Potawatomi Nation, bridges Western science and Indigenous knowledge with humility and insight. Her chapter on the Three Sisters became a cornerstone for our class. She writes not only about the biological facilitation of one another (corn offering structure, beans fixing nitrogen, squash shielding the soil), but also about their moral teachings: interdependence, generosity, and community. 
 
 ### The Experiment: Monocultures vs. Polycultures
 We asked: How does planting the Three Sisters together compare to growing each crop alone? What happens when we swap in different species of legumes; do they change the outcomes for corn and squash? And how do these relationships play out in different environmental contexts? 
+
+<figure>
+<a href="babycorn.jpg/"><img
+src="babycorn.jpg" alt="Corn seedlings in monoculture." style="width: 300px; "></a>
+  <img src="" width="600">
+  <figcaption>Corn seedlings in monoculture. 
+</figcaption>
+</figure>
+
+<figure>
+<a href="babybeans.jpg/"><img
+src="babybeans.jpg" alt="Bean seedlings in monoculture." style="width: 300px; "></a>
+  <img src="" width="600">
+  <figcaption>Bean seedlings in monoculture. 
+</figcaption>
+</figure>
+
+<figure>
+<a href="babysquash.jpg/"><img
+src="babysquash.jpg" alt="Squash seedlings in monoculture." style="width: 300px; "></a>
+  <img src="" width="600">
+  <figcaption>Squash seedlings in monoculture. 
+</figcaption>
+</figure>
+
+<figure>
+<a href="babypoly.jpg/"><img
+src="babypoly.jpg" alt="Three Sisters seedlings in polyculture." style="width: 300px; "></a>
+  <img src="" width="600">
+  <figcaption>Three Sisters seedlings in polyculture. 
+</figcaption>
+</figure>
 
 To explore these questions, we grew our crops in both nutrient-rich and nutrient-poor soils, hypothesizing that the polyculture would be especially necessary in the nutrient-poor treatment. We expected that the Three Sisters, with their complementary roles and particularly the nitrogen-fixation provided by legumes/legume symbionts, would perform better together in low-nutrient conditions than they would alone in the same conditions. 
 
@@ -23,13 +63,30 @@ Throughout the semester, we tracked plant height, biomass, number of flowers and
 ### What We Learned (Beyond the Data)
 We measured biomass, fruit yield, and growth rates, but the lessons went far beyond the numbers. We explored how facilitation and resource partitioning can lead to higher productivity in polycultures and how TEK systems like the Three Sisters reflect ecological principles long before they had names in Western science. Perhaps most importantly, we talked about what it means to honor TEK in academic spaces: not by appropriating, but by listening, acknowledging, and learning. *Braiding Sweetgrass* helped us think critically about what science gains when we make space for different ways of knowing. It reminded us that scientific inquiry doesn’t have to be extractive (and perhaps should not be), it can be a gift in return.
 
+<figure>
+<a href="mearuing.png/"><img
+src="measuring.png" alt="Students counting and measuring plants." style="width: 300px; "></a>
+  <img src="" width="600">
+  <figcaption>Students counting and measuring plants.
+</figcaption>
+</figure>
+
 ### Main Results
 Soil nutrient level had a significant effect on plant performance across all treatments and combinations. Nutrient-poor soil consistently reduced yield—plants were shorter, lighter, and produced fewer flowers and fruits, regardless of whether they were in monoculture or polyculture. 
 
 <figure>
+<a href="nutrientdiffsquash.png/"><img
+src="nutrientdiffsquash.png" alt="Squash in nutrient-rich soil (top left) and nutrient-poor soil (bottom right), demonstrating the marked difference in yield." style="width: 300px; "></a>
+  <img src="" width="600">
+  <figcaption>Squash in nutrient-rich soil (top left) and nutrient-poor soil (bottom right), demonstrating the marked difference in yield. 
+</figcaption>
+</figure>
+
+
+<figure>
 <a href="flowers.png/"><img
 src="flowers.png" alt="Number of flowers by planting type." style="width: 300px; "></a>
-  <img src="" width="200">
+  <img src="" width="600">
   <figcaption>Number of flowers by planting type.
 </figcaption>
 </figure>
@@ -39,7 +96,7 @@ Interestingly, we found that while corn grew taller in monoculture, the mass per
 <figure>
 <a href="cornheight.png/"><img
 src="cornheight.png" alt="Corn height by planting type." style="width: 300px; "></a>
-  <img src="" width="200">
+  <img src="" width="600">
   <figcaption>Corn height by planting type.
 </figcaption>
 </figure>
@@ -47,7 +104,7 @@ src="cornheight.png" alt="Corn height by planting type." style="width: 300px; ">
 <figure>
 <a href="mass.png/"><img
 src="mass.png" alt="Corn height by planting type." style="width: 300px; "></a>
-  <img src="" width="200">
+  <img src="" width="600">
   <figcaption>Mass by planting type.
 </figcaption>
 </figure>
@@ -56,10 +113,34 @@ Unfortunately, we were unable to analyze shoot mass for polyculture plants in nu
 
 We also made several qualitative observations that sparked future questions. Early in the experiment, monocultures (specially corn) appeared to do better in terms of initial height and vigor. This early advantage seemed to wane over time. We wondered whether there might be a benefit to germinating around members of the same species, particularly for corn, where monocultures seemed to gain physical stability from neighboring stalks. Their roots appeared to intertwine and hold each other up, especially in the taller monoculture pots. This led to broader questions about how seedling roots might behave—intertwining, avoiding, or supporting—depending on the species mix.
 
+<figure>
+<a href="cornroots.png/"><img
+src="cornroots.png" alt="Corn seedling from nutrient-rich (left) and nutrient-poor (right) soils, demonstrating difference in root architecture." style="width: 300px; "></a>
+  <img src="" width="600">
+  <figcaption>Corn seedling from nutrient-rich (left) and nutrient-poor (right) soils, demonstrating difference in root architecture. 
+</figcaption>
+</figure>
+
 Another striking observation came from our backup pots, which we eventually culled for space. When we uprooted them, we noticed a difference in root architecture by soil type. In nutrient-poor soil, especially for corn roots, were long, thin, and exploratory, as if searching for nutrients. In nutrient-rich soil, roots were much shorter and more compact, forming dense upside-down shrubs just beneath the surface. Though we didn’t measure these traits, they offered visual cues about how soil resources might shape plant behavior below ground.
 
 ### Course-Level Takeaways
 One unexpected but valuable takeaway had less to do with the plants and more to do with the logistics of collaboration. During the final harvest, we discovered that not only were sample sizes reduced, but entire treatment combinations were effectively lost due to missing data. Although the measurements were taken for polyculture plants grown in nutrient-poor soil, the persons responsible for recording the data never uploaded it, and we had no way of identifying who worked with those pots. 
+
+<figure>
+<a href="richardcorn.png/"><img
+src="mass.richardcorn" alt="Graduate Student Teaching Assistant Richard proudly presenting a particularly fruitful corn stalk." style="width: 300px; "></a>
+  <img src="" width="600">
+  <figcaption>Graduate Student Teaching Assistant Richard proudly presenting a particularly fruitful corn stalk.
+</figcaption>
+</figure>
+
+<figure>
+<a href="earofcorn.png/"><img
+src="mass.earofcorn" alt="A tiny ear of corn from one of our experimental plants." style="width: 300px; "></a>
+  <img src="" width="600">
+  <figcaption>A tiny ear of corn from one of our experimental plants.
+</figcaption>
+</figure>
 
 In future semesters, I plan to assign pots directly to individual students and require real-time data entry or direct upload to prevent these kinds of gaps. Overall, we need to establish a lot clearer protocols and ensure that the same people are performing the same measurements across treatment types to have more reliable results. This experience became a good teaching moment, not just about ecological research, but about accountability, communication, and the structure of collaborative work in science.
 
