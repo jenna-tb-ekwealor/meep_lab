@@ -102,17 +102,19 @@ src="cornheight.png" alt="Corn height by planting type." style="width: 600px; ">
 </figcaption>
 </figure>
 
+Unfortunately, we were unable to analyze shoot mass for polyculture plants in nutrient-poor soil, as the data for this treatment combination was never uploaded to the shared spreadsheet, despite the fact that the plants were harvested and measured. This limited our ability to fully evaluate one of the most important conditions in our experimental design.
+
 <figure>
 <a href="mass.png/"><img
-src="mass.png" alt="Corn height by planting type." style="width: 600px; "></a>
+src="mass.png" alt="Mass by planting type." style="width: 600px; "></a>
   <img src="" width="600">
   <figcaption>Mass by planting type.
 </figcaption>
 </figure>
 
-Unfortunately, we were unable to analyze shoot mass for polyculture plants in nutrient-poor soil, as the data for this treatment combination was never uploaded to the shared spreadsheet, despite the fact that the plants were harvested and measured. This limited our ability to fully evaluate one of the most important conditions in our experimental design.
-
 We also made several observations that sparked questions and hypotheses. Early in the experiment, monocultures (specially corn) appeared to do better in terms of initial height and vigor. This early advantage seemed to wane over time. We wondered whether there might be a benefit to germinating around members of the same species, particularly for corn, where monocultures seemed to gain physical stability from neighboring stalks. Their roots appeared to intertwine and hold each other up, especially in the taller monoculture pots. This led to broader questions about how seedling roots might behave—intertwining, avoiding, or supporting—depending on the species mix. Moreover, this observation made us wonder whether benefits of polyculture may play out more in a longer-term experiment. 
+
+Another striking observation came from our backup pots, which we eventually culled for space. When we uprooted them, we noticed a difference in root architecture by soil type. In nutrient-poor soil, especially for corn roots, were long, thin, and exploratory, as if searching for nutrients. In nutrient-rich soil, roots were much shorter and more compact, forming dense upside-down shrubs just beneath the surface. Though we didn’t measure these traits, they offered visual cues about how soil resources might shape plant behavior below ground.
 
 <figure>
 <a href="cornroots.png/"><img
@@ -121,8 +123,6 @@ src="cornroots.png" alt="Corn seedling from nutrient-rich (left) and nutrient-po
   <figcaption>Corn seedling from nutrient-rich (left) and nutrient-poor (right) soils, demonstrating difference in root architecture. 
 </figcaption>
 </figure>
-
-Another striking observation came from our backup pots, which we eventually culled for space. When we uprooted them, we noticed a difference in root architecture by soil type. In nutrient-poor soil, especially for corn roots, were long, thin, and exploratory, as if searching for nutrients. In nutrient-rich soil, roots were much shorter and more compact, forming dense upside-down shrubs just beneath the surface. Though we didn’t measure these traits, they offered visual cues about how soil resources might shape plant behavior below ground.
 
 ### Course-Level Takeaways
 One unexpected but valuable takeaway had less to do with the plants and more to do with the logistics of collaboration. During the final harvest, we discovered that not only were sample sizes reduced, but entire treatment combinations were effectively lost due to missing data. Although the measurements were taken for polyculture plants grown in nutrient-poor soil, the persons responsible for recording the data never uploaded it, and we had no way of identifying who worked with those pots. 
