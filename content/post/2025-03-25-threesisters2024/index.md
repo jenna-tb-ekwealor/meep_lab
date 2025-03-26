@@ -45,10 +45,8 @@ As climate change challenges our agricultural systems, there is growing recognit
 ### See It in Action
 The photos in the album below are from a single afternoon late in the semester, shortly before harvest day. 
 
-<br>
-
 {{< gallery album="threesisters2024" >}}
-Photos are courtesy of San Francisco State University Strategic Marketing and Communications (SMC).
+Photos are courtesy of San Francisco State University Strategic Marketing and Communications.
 
 <br>
 
