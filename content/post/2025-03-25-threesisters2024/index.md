@@ -13,7 +13,7 @@ At the heart of it all was a semester-long, class-wide experiment rooted in one 
 
 <figure>
 <a href="happypoly.jpg/"><img
-src="happypoly.jpg" alt="Corn seedlings in monoculture." style="width: 600px; "></a>
+src="happypoly.jpg" alt="A Three Sisters experimental pot. " style="width: 600px; "></a>
   <img src="" width="600">
   <figcaption>A Three Sisters experimental pot.  
 </figcaption>
