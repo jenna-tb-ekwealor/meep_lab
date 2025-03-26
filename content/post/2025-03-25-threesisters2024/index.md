@@ -26,7 +26,31 @@ We measured biomass, fruit yield, and growth rates, but the lessons went far bey
 ### Main Results
 Soil nutrient level had a significant effect on plant performance across all treatments and combinations. Nutrient-poor soil consistently reduced yield—plants were shorter, lighter, and produced fewer flowers and fruits, regardless of whether they were in monoculture or polyculture. 
 
+<figure>
+<a href="flowers.png/"><img
+src="flowers.png" alt="Number of flowers by planting type." style="width: 300px; "></a>
+  <img src="" width="200">
+  <figcaption>Number of flowers by planting type.
+</figcaption>
+</figure>
+
 Interestingly, we found that while corn grew taller in monoculture, the mass per shoot was higher in polyculture, suggesting more efficient biomass production when grown with companions. Pole bean mass was also higher in polyculture, further supporting our hypothesis that plant partnerships can boost performance, possibly through facilitation and nitrogen sharing. 
+
+<figure>
+<a href="cornheight.png/"><img
+src="cornheight.png" alt="Corn height by planting type." style="width: 300px; "></a>
+  <img src="" width="200">
+  <figcaption>Corn height by planting type.
+</figcaption>
+</figure>
+
+<figure>
+<a href="mass.png/"><img
+src="mass.png" alt="Corn height by planting type." style="width: 300px; "></a>
+  <img src="" width="200">
+  <figcaption>Mass by planting type.
+</figcaption>
+</figure>
 
 Unfortunately, we were unable to analyze shoot mass for polyculture plants in nutrient-poor soil, as the data for this treatment combination was never uploaded to the shared spreadsheet, despite the fact that the plants were harvested and measured. This limited our ability to fully evaluate one of the most important conditions in our experimental design.
 
@@ -37,7 +61,7 @@ Another striking observation came from our backup pots, which we eventually cull
 ### Course-Level Takeaways
 One unexpected but valuable takeaway had less to do with the plants and more to do with the logistics of collaboration. During the final harvest, we discovered that not only were sample sizes reduced, but entire treatment combinations were effectively lost due to missing data. Although the measurements were taken for polyculture plants grown in nutrient-poor soil, the persons responsible for recording the data never uploaded it, and we had no way of identifying who worked with those pots. 
 
-In future semesters, I plan to assign pots directly to individual students and require real-time data entry or direct upload to prevent these kinds of gaps. This experience became a good teaching moment, not just about ecological research, but about accountability, communication, and the structure of collaborative work in science.
+In future semesters, I plan to assign pots directly to individual students and require real-time data entry or direct upload to prevent these kinds of gaps. Overall, we need to establish a lot clearer protocols and ensure that the same people are performing the same measurements across treatment types to have more reliable results. This experience became a good teaching moment, not just about ecological research, but about accountability, communication, and the structure of collaborative work in science.
 
 ### Looking Forward
 As climate change challenges our agricultural systems, there is growing recognition that TEK offers insights for sustainable land management and resilience. Our experiment was a small-scale attempt to understand that wisdom not only through scientific methods, but through relationship with plants and with the teachings that have long sustained the land. The Three Sisters were our curriculum, our collaborators, and our teachers. And they reminded us, as Kimmerer says, that “all flourishing is mutual.”
