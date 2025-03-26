@@ -96,7 +96,7 @@ Interestingly, we found that while corn grew taller in monoculture, the mass per
 
 <figure>
 <a href="cornheight.png/"><img
-src="cornheight.png" alt="Corn height by planting type." style="width: 400px; "></a>
+src="cornheight.png" alt="Corn height by planting type." style="width: 600px; "></a>
   <img src="" width="600">
   <figcaption>Corn height by planting type.
 </figcaption>
@@ -104,7 +104,7 @@ src="cornheight.png" alt="Corn height by planting type." style="width: 400px; ">
 
 <figure>
 <a href="mass.png/"><img
-src="mass.png" alt="Corn height by planting type." style="width: 400px; "></a>
+src="mass.png" alt="Corn height by planting type." style="width: 600px; "></a>
   <img src="" width="600">
   <figcaption>Mass by planting type.
 </figcaption>
