@@ -73,7 +73,7 @@ src="measuring.png" alt="Students counting and measuring plants." style="width: 
 </figure>
 
 ### Main Results
-Soil nutrient level had a significant effect on plant performance across all treatments and combinations. Nutrient-poor soil consistently reduced yield—plants were shorter, lighter, and produced fewer flowers and fruits, regardless of whether they were in monoculture or polyculture. 
+Soil nutrient level had a significant effect on plant performance across all treatments and combinations. Nutrient-poor soil consistently reduced yield: plants were shorter, lighter, and produced fewer flowers and fruits, regardless of whether they were in monoculture or polyculture. 
 
 <figure>
 <a href="nutrientdiffsquash.png/"><img
