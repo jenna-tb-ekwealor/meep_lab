@@ -13,7 +13,7 @@ At the heart of it all was a semester-long, class-wide experiment rooted in one 
 
 <figure>
 <a href="happypoly.jpg/"><img
-src="happypoly.jpg" alt="A Three Sisters experimental pot. " style="width: 600px; "></a>
+src="happypoly.jpg" alt="A Three Sisters experimental pot. " style="width: 400px; "></a>
   <img src="" width="600">
   <figcaption>A Three Sisters experimental pot.  
 </figcaption>
@@ -27,7 +27,7 @@ We asked: How does planting the Three Sisters together compare to growing each c
 
 <figure>
 <a href="babycorn.jpg/"><img
-src="babycorn.jpg" alt="Corn seedlings in monoculture." style="width: 600px; "></a>
+src="babycorn.jpg" alt="Corn seedlings in monoculture." style="width: 400px; "></a>
   <img src="" width="600">
   <figcaption>Corn seedlings in monoculture. 
 </figcaption>
@@ -35,7 +35,7 @@ src="babycorn.jpg" alt="Corn seedlings in monoculture." style="width: 600px; "><
 
 <figure>
 <a href="babybeans.jpg/"><img
-src="babybeans.jpg" alt="Bean seedlings in monoculture." style="width: 600px; "></a>
+src="babybeans.jpg" alt="Bean seedlings in monoculture." style="width: 400px; "></a>
   <img src="" width="600">
   <figcaption>Bean seedlings in monoculture. 
 </figcaption>
@@ -43,7 +43,7 @@ src="babybeans.jpg" alt="Bean seedlings in monoculture." style="width: 600px; ">
 
 <figure>
 <a href="babysquash.jpg/"><img
-src="babysquash.jpg" alt="Squash seedlings in monoculture." style="width: 600px; "></a>
+src="babysquash.jpg" alt="Squash seedlings in monoculture." style="width: 400px; "></a>
   <img src="" width="600">
   <figcaption>Squash seedlings in monoculture. 
 </figcaption>
@@ -51,7 +51,7 @@ src="babysquash.jpg" alt="Squash seedlings in monoculture." style="width: 600px;
 
 <figure>
 <a href="babypoly.jpg/"><img
-src="babypoly.jpg" alt="Three Sisters seedlings in polyculture." style="width: 600px; "></a>
+src="babypoly.jpg" alt="Three Sisters seedlings in polyculture." style="width: 400px; "></a>
   <img src="" width="600">
   <figcaption>Three Sisters seedlings in polyculture. 
 </figcaption>
@@ -66,7 +66,7 @@ We measured biomass, fruit yield, and growth rates, but the lessons went far bey
 
 <figure>
 <a href="mearuing.png/"><img
-src="measuring.png" alt="Students counting and measuring plants." style="width: 600px; "></a>
+src="measuring.png" alt="Students counting and measuring plants." style="width: 400px; "></a>
   <img src="" width="600">
   <figcaption>Students counting and measuring plants.
 </figcaption>
@@ -77,7 +77,7 @@ Soil nutrient level had a significant effect on plant performance across all tre
 
 <figure>
 <a href="nutrientdiffsquash.png/"><img
-src="nutrientdiffsquash.png" alt="Squash in nutrient-rich soil (top left) and nutrient-poor soil (bottom right), demonstrating the marked difference in yield." style="width: 600px; "></a>
+src="nutrientdiffsquash.png" alt="Squash in nutrient-rich soil (top left) and nutrient-poor soil (bottom right), demonstrating the marked difference in yield." style="width: 400px; "></a>
   <img src="" width="600">
   <figcaption>Squash in nutrient-rich soil (top left) and nutrient-poor soil (bottom right), demonstrating the marked difference in yield. 
 </figcaption>
@@ -86,7 +86,7 @@ src="nutrientdiffsquash.png" alt="Squash in nutrient-rich soil (top left) and nu
 
 <figure>
 <a href="flowers.png/"><img
-src="flowers.png" alt="Number of flowers by planting type." style="width: 600px; "></a>
+src="flowers.png" alt="Number of flowers by planting type." style="width: 400px; "></a>
   <img src="" width="600">
   <figcaption>Number of flowers by planting type.
 </figcaption>
@@ -96,7 +96,7 @@ Interestingly, we found that while corn grew taller in monoculture, the mass per
 
 <figure>
 <a href="cornheight.png/"><img
-src="cornheight.png" alt="Corn height by planting type." style="width: 600px; "></a>
+src="cornheight.png" alt="Corn height by planting type." style="width: 400px; "></a>
   <img src="" width="600">
   <figcaption>Corn height by planting type.
 </figcaption>
@@ -104,7 +104,7 @@ src="cornheight.png" alt="Corn height by planting type." style="width: 600px; ">
 
 <figure>
 <a href="mass.png/"><img
-src="mass.png" alt="Corn height by planting type." style="width: 600px; "></a>
+src="mass.png" alt="Corn height by planting type." style="width: 400px; "></a>
   <img src="" width="600">
   <figcaption>Mass by planting type.
 </figcaption>
@@ -116,7 +116,7 @@ We also made several qualitative observations that sparked future questions. Ear
 
 <figure>
 <a href="cornroots.png/"><img
-src="cornroots.png" alt="Corn seedling from nutrient-rich (left) and nutrient-poor (right) soils, demonstrating difference in root architecture." style="width: 600px; "></a>
+src="cornroots.png" alt="Corn seedling from nutrient-rich (left) and nutrient-poor (right) soils, demonstrating difference in root architecture." style="width: 400px; "></a>
   <img src="" width="600">
   <figcaption>Corn seedling from nutrient-rich (left) and nutrient-poor (right) soils, demonstrating difference in root architecture. 
 </figcaption>
@@ -129,7 +129,7 @@ One unexpected but valuable takeaway had less to do with the plants and more to 
 
 <figure>
 <a href="richardcorn.png/"><img
-src="mass.richardcorn" alt="Graduate Student Teaching Assistant Richard proudly presenting a particularly fruitful corn stalk." style="width: 600px; "></a>
+src="mass.richardcorn" alt="Graduate Student Teaching Assistant Richard proudly presenting a particularly fruitful corn stalk." style="width: 400px; "></a>
   <img src="" width="600">
   <figcaption>Graduate Student Teaching Assistant Richard proudly presenting a particularly fruitful corn stalk.
 </figcaption>
@@ -137,7 +137,7 @@ src="mass.richardcorn" alt="Graduate Student Teaching Assistant Richard proudly 
 
 <figure>
 <a href="earofcorn.png/"><img
-src="mass.earofcorn" alt="A tiny ear of corn from one of our experimental plants." style="width: 600px; "></a>
+src="mass.earofcorn" alt="A tiny ear of corn from one of our experimental plants." style="width: 400px; "></a>
   <img src="" width="600">
   <figcaption>A tiny ear of corn from one of our experimental plants.
 </figcaption>
