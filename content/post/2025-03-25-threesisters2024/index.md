@@ -19,10 +19,10 @@ src="happypoly.png" alt="A Three Sisters experimental pot. " style="width: 400px
 </figcaption>
 </figure>
 
-### Bringing TEK into the Classroom
+### Bringing TEK into the classroom
 Since the first day of class, I have tried to make it clear that this wasn’t a course about plants in isolation, but about plants as part of ecological and cultural systems, and that humans are and always have been a part of both. Throughout the semester, we read and discussed *Braiding Sweetgrass* by Robin Wall Kimmerer. Kimmerer, a plant ecologist and Citizen of Potawatomi Nation, bridges Western science and Indigenous knowledge. Her chapter on the Three Sisters was a cornerstone for our class. She writes not only about the biological facilitation among the sisters (corn offering structure, beans fixing nitrogen, squash shielding the soil), but also about their moral teachings: interdependence, generosity, and community. 
 
-### The Experiment: Monocultures vs. Polycultures
+### The experiment: Monocultures vs. polycultures
 We asked: How does planting the Three Sisters together compare to growing each plant alone? What happens when we swap in different species of legumes; do they change the outcomes for corn and squash? And how do these relationships play out in different environmental contexts (i.e., different nutrient availability)? 
 
 <figure>
@@ -61,7 +61,7 @@ We grew each species alone (monoculture) and as the three sisters (polyculture) 
 
 Throughout the semester, we observed plant height and flower/fruit production, and formally measured height and wet biomass at the final harvest. This project was a collaborative effort, with all students contributing to the experiment and to a shared dataset.
 
-### What We Learned (Beyond the Data)
+### What we learned (beyond the data)
 We measured biomass, flower/fruit yield, and corn height, but the biggest lessons were not about our particular results. We explored how facilitation and resource partitioning can lead to higher productivity in polycultures and how TEK systems like the Three Sisters reflect ecological principles long before they had names in Western science. *Braiding Sweetgrass* helped us think critically about what science gains when we make space for different ways of knowing. It reminded us that scientific inquiry doesn’t have to be extractive (and perhaps should not be).
 
 <figure>
@@ -114,7 +114,7 @@ src="mass.png" alt="Mass by planting type." style="width: 600px; "></a>
 
 We also made several observations that sparked questions and hypotheses. Early in the experiment, monocultures (specially corn) appeared to do better in terms of initial height and vigor. This early advantage seemed to wane over time. We wondered whether there might be a benefit to germinating around members of the same species, particularly for corn, where monocultures seemed to gain physical stability from neighboring stalks. Their roots appeared to intertwine and hold each other up, especially in the taller monoculture pots. This led to broader questions about how seedling roots might behave—intertwining, avoiding, or supporting—depending on the species mix. Moreover, this observation made us wonder whether benefits of polyculture may play out more in a longer-term experiment. 
 
-Another striking observation came from our backup plants, which we eventually culled for space. When we uprooted them, we noticed a difference in root architecture by soil type. In nutrient-poor soil, especially for corn roots, were long, thin, and exploratory, as if searching for nutrients. In nutrient-rich soil, roots were much shorter and more compact, forming dense upside-down shrubs just beneath the surface. Though we didn’t measure these traits, they offered visual cues about how soil resources might shape plant behavior below ground.
+Another striking observation came from our backup plants, which we had culled for space. When we uprooted them, we noticed a difference in root architecture by soil type. In nutrient-poor soil, roots were long, thin, and exploratory, as if searching for nutrients (this was especially true for corn roots). In nutrient-rich soil, roots were much shorter and more compact, forming dense upside-down shrubs just beneath the surface. Though we didn’t measure these traits, they offered visual cues about how soil resources might shape plant behavior below ground.
 
 <figure>
 <a href="cornroots.png/"><img
@@ -124,7 +124,7 @@ src="cornroots.png" alt="Corn seedling from nutrient-rich (left) and nutrient-po
 </figcaption>
 </figure>
 
-### Course-Level Takeaways
+### Course-level takeaways
 One unexpected but valuable takeaway had less to do with the plants and more to do with the logistics of a large group collaboration. During the final harvest, we discovered that not only were sample sizes reduced, but entire treatment combinations were effectively lost due to missing data. Although the measurements were taken for polyculture plants grown in nutrient-poor soil, for example, the persons responsible for recording those data never uploaded it, and we had no way of identifying who worked with those pots. 
 
 <figure>
@@ -145,10 +145,10 @@ src="earofcorn.png" alt="A tiny ear of corn from one of our experimental plants.
 
 In future semesters, I plan to assign pots directly to individual students and require real-time data entry or direct upload to prevent these kinds of gaps. Overall, we need to establish a lot clearer protocols and ensure that the same people are performing the same measurements across treatment types to have more reliable results. This experience became a good teaching moment, not just about ecological research, but about accountability, communication, and the structure of collaborative work in science.
 
-### Looking Forward
+### Looking forward
 As climate change continues to put strain on our ecosystems and agricultural systems, there is growing recognition that TEK offers insights for sustainable land management and resilience. Our experiment was a small-scale attempt to understand that wisdom not only through scientific methods, but through relationship with plants and with the teachings that have long sustained the land. The Three Sisters were our curriculum, our collaborators, and our teachers. And they reminded us, as Kimmerer says, that “all flourishing is mutual.”
 
-### See It in Action
+### See it in action
 The photos in the album below are from a single greenhouse session late in the semester, shortly before harvest day, and are courtesy of San Francisco State University Strategic Marketing and Communications.
 
 {{< gallery album="threesisters2024" >}}
