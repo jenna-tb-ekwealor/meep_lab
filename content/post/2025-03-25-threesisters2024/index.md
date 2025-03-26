@@ -20,10 +20,10 @@ src="happypoly.png" alt="A Three Sisters experimental pot. " style="width: 400px
 </figure>
 
 ### Bringing TEK into the Classroom
-Since the first day of class, I have tried to make it clear that this wasn’t a course about plants in isolation, but about plants as part of ecological and cultural systems, and that humans are and always have been a part of both. Throughout the semester, we read and discussed *Braiding Sweetgrass* by Robin Wall Kimmerer. Kimmerer, a plant ecologist and Citizen of Potawatomi Nation, bridges Western science and Indigenous knowledge with humility and insight. Her chapter on the Three Sisters became a cornerstone for our class. She writes not only about the biological facilitation of one another (corn offering structure, beans fixing nitrogen, squash shielding the soil), but also about their moral teachings: interdependence, generosity, and community. 
+Since the first day of class, I have tried to make it clear that this wasn’t a course about plants in isolation, but about plants as part of ecological and cultural systems, and that humans are and always have been a part of both. Throughout the semester, we read and discussed *Braiding Sweetgrass* by Robin Wall Kimmerer. Kimmerer, a plant ecologist and Citizen of Potawatomi Nation, bridges Western science and Indigenous knowledge. Her chapter on the Three Sisters was a cornerstone for our class. She writes not only about the biological facilitation among the sisters (corn offering structure, beans fixing nitrogen, squash shielding the soil), but also about their moral teachings: interdependence, generosity, and community. 
 
 ### The Experiment: Monocultures vs. Polycultures
-We asked: How does planting the Three Sisters together compare to growing each crop alone? What happens when we swap in different species of legumes; do they change the outcomes for corn and squash? And how do these relationships play out in different environmental contexts? 
+We asked: How does planting the Three Sisters together compare to growing each plant alone? What happens when we swap in different species of legumes; do they change the outcomes for corn and squash? And how do these relationships play out in different environmental contexts (i.e., different nutrient availability)? 
 
 <figure>
 <a href="babycorn.jpg/"><img
