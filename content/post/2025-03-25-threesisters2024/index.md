@@ -9,7 +9,7 @@ Between plants and environment.
 Between species. 
 Between people and land. 
 Between traditional ecological knowledge and modern science. 
-At the heart of it all was a semester-long, class-wide experiment rooted in one of the most enduring examples of sustainable agriculture: the Three Sisters (corn, beans, and squash grown together in polyculture). This planting system is more than efficient agriculture, it’s a story of collaboration passed down through generations of Indigenous peoples across the Americas. We explored it not only through greenhouse experiments and data collection but through engagement with traditional ecological knowledge (TEK) that is place-based, relational, and rooted in observation and respect.
+At the heart of it all was a semester-long, class-wide experiment rooted in one of the most enduring examples of sustainable agriculture: the Three Sisters (corn, beans, and squash grown together in polyculture). This planting system is more than efficient agriculture, it’s a story of facilitation passed down through generations of Indigenous peoples across the Americas. We explored it not only through greenhouse experiments and data collection but through engagement with traditional ecological knowledge (TEK) that is place-based, relational, and rooted in observation and respect.
 
 <figure>
 <a href="happypoly.jpg/"><img
@@ -20,7 +20,7 @@ src="happypoly.jpg" alt="Corn seedlings in monoculture." style="width: 600px; ">
 </figure>
 
 ### Bringing TEK into the Classroom
-Since the first day of class, I tried to make it clear that this wasn’t a course about plants in isolation, but about plants as part of ecological and cultural systems, and that humans are and always have been a part of both. Throughout the semester, we read and discussed *Braiding Sweetgrass* by Robin Wall Kimmerer. Kimmerer, a plant ecologist and Citizen Potawatomi Nation, bridges Western science and Indigenous knowledge with humility and insight. Her chapter on the Three Sisters became a cornerstone for our class. She writes not only about the biological facilitation of one another (corn offering structure, beans fixing nitrogen, squash shielding the soil), but also about their moral teachings: interdependence, generosity, and community. 
+Since the first day of class, I have tried to make it clear that this wasn’t a course about plants in isolation, but about plants as part of ecological and cultural systems, and that humans are and always have been a part of both. Throughout the semester, we read and discussed *Braiding Sweetgrass* by Robin Wall Kimmerer. Kimmerer, a plant ecologist and Citizen Potawatomi Nation, bridges Western science and Indigenous knowledge with humility and insight. Her chapter on the Three Sisters became a cornerstone for our class. She writes not only about the biological facilitation of one another (corn offering structure, beans fixing nitrogen, squash shielding the soil), but also about their moral teachings: interdependence, generosity, and community. 
 
 ### The Experiment: Monocultures vs. Polycultures
 We asked: How does planting the Three Sisters together compare to growing each crop alone? What happens when we swap in different species of legumes; do they change the outcomes for corn and squash? And how do these relationships play out in different environmental contexts? 
