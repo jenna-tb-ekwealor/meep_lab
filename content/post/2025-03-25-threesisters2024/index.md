@@ -66,7 +66,7 @@ We measured biomass, fruit yield, and growth rates, but the biggest lessons were
 
 <figure>
 <a href="mearuing.png/"><img
-src="measuring.png" alt="Students counting and measuring plants." style="width: 400px; "></a>
+src="measuring.png" alt="Students counting and measuring plants." style="width: 600px; "></a>
   <img src="" width="600">
   <figcaption>Students counting and measuring plants.
 </figcaption>
@@ -129,7 +129,7 @@ One unexpected but valuable takeaway had less to do with the plants and more to 
 
 <figure>
 <a href="richardcorn.png/"><img
-src="mass.richardcorn" alt="Graduate Student Teaching Assistant Richard proudly presenting a particularly fruitful corn stalk." style="width: 400px; "></a>
+src="richardcorn.png" alt="Graduate Student Teaching Assistant Richard proudly presenting a particularly fruitful corn stalk." style="width: 400px; "></a>
   <img src="" width="600">
   <figcaption>Graduate Student Teaching Assistant Richard proudly presenting a particularly fruitful corn stalk.
 </figcaption>
@@ -137,7 +137,7 @@ src="mass.richardcorn" alt="Graduate Student Teaching Assistant Richard proudly 
 
 <figure>
 <a href="earofcorn.png/"><img
-src="mass.earofcorn" alt="A tiny ear of corn from one of our experimental plants." style="width: 400px; "></a>
+src="earofcorn.png" alt="A tiny ear of corn from one of our experimental plants." style="width: 400px; "></a>
   <img src="" width="600">
   <figcaption>A tiny ear of corn from one of our experimental plants.
 </figcaption>
