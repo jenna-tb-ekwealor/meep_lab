@@ -5,6 +5,7 @@ date: 2025-03-25T18:15:21-07:00
 ---
 
 ### In our Plant Ecology course this semester, we didn’t just study plants, we studied relationships.
+Between plants and environment. 
 Between species. 
 Between people and land. 
 Between traditional ecological knowledge and modern science. 
