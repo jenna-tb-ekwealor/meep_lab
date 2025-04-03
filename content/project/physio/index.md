@@ -1,7 +1,7 @@
 ---
 title: Plant Physiology & Climate Adaptation
-summary: How mosses physiologically respond to drought, cold, light, and other environmental stressors.
-Image:
- caption: "*Syntrichia ruralis*"
- focal_point: Smart
+summary: How mosses respond to environmental stress like drought, cold, and light.
+view: card
+type: section
 ---
+{{< project_list categories="Physiology" >}}

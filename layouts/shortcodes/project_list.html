@@ -1,0 +1,8 @@
+{{ $cat := .Get "categories" }}
+<ul class="project-list">
+  {{ range where (site.RegularPages) "Section" "project/all" }}
+    {{ if in .Params.categories $cat }}
+      <li><a href="{{ .RelPermalink }}">{{ .Title }}</a>: {{ .Params.summary }}</li>
+    {{ end }}
+  {{ end }}
+</ul>
