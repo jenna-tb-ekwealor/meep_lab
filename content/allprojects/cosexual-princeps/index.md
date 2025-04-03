@@ -1,6 +1,7 @@
 ---
 title: "Cosexuality in Syntrichia princeps"
 summary: *Syntrichia princeps* is a cosexual moss species, meaning it produces both male and female reproductive structures on the same individual. This project investigates the genomic basis and reproductive biology of cosexuality.
+show_date: false
 categories:
   - molecbio
   - ecoevo

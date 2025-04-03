@@ -1,6 +1,7 @@
 ---
 title: "Intragenomic conflict in mosses"
 summary: This project explores intragenomic conflict, competition between genes within the same genome, in moss reproductive biology and sex chromosome evolution.
+show_date: false
 categories:
   - molecbio
   - ecoevo

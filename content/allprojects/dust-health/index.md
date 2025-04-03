@@ -1,6 +1,7 @@
 ---
 title: "Dust and environmental health in the Central Valley"
 summary: This interdisciplinary project addresses the environmental justice implications of airborne dust in California’s Central Valley, focusing on microbial and fungal content.
+show_date: false
 categories:
   - environhealth
 image:

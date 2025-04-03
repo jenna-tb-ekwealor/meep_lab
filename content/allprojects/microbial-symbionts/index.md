@@ -1,6 +1,7 @@
 ---
 title: "Microbial symbionts in mosses"
 summary: This project investigates microbial communities associated with Syntrichia mosses and their potential functional roles in host physiology.
+show_date: false
 categories:
   - microbio
 image:
