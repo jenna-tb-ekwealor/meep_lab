@@ -20,8 +20,8 @@ content:
     - Masters Researchers 
     - Undergraduate Researchers
     - Summer Interns
-    - Affiliated Researchers
     - Lab Alumni
+    - Affiliated Researchers
 design:
   show_interests: false
   show_role: true

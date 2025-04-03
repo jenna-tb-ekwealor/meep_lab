@@ -15,8 +15,9 @@ superuser: false
 bio: Undergraduate researcher. 
 
 interests:
-  - Ecology
-  - Evolution
+  - Information Systems
+  - Business
+  - Horticulture
       
 # Highlight the author in author lists? (true/false)
 highlight_name: false
@@ -24,7 +25,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Lab Alumni
+  - Undergraduate Researchers
 ---
 
 # 
