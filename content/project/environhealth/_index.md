@@ -1,8 +1,8 @@
 ---
 title: Environmental Health, Climate Justice & Public Science
 summary: Linking environmental biology with public health, policy, and equity in collaboration with communities impacted by ecological change.
-image:
-  caption: ""
-  focal_point: Smart
+type: section
+view: card
 weight: 5
 ---
+{{< project_list categories="Environmental Health, Climate Justice & Public Science" >}}

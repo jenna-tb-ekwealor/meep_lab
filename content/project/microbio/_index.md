@@ -1,8 +1,8 @@
 ---
 title: Microbial Ecology & Symbiosis
 summary: Studying microbial communities and symbiotic interactions that shape moss function and ecosystem processes in drylands.
-image:
-  caption: ""
-  focal_point: Smart
+type: section
+view: card
 weight: 4
 ---
+{{< project_list categories="Microbial Ecology & Symbiosis" >}}
