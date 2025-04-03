@@ -1,6 +1,6 @@
 ---
 title: Reproductive Ecology & Evolution
-summary: What ecological and evolutionary forces shape reproductive systems in mosses?
+summary: What ecological and evolutionary forces shape reproduction in mosses?
 type: section
 view: card
 weight: 3

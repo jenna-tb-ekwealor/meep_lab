@@ -1,6 +1,6 @@
 ---
 title: Molecular Biology, Genomics & Gene Regulation
-summary: What happens inside moss genomes as they adapt to stress and change?
+summary: What genomic changes underlie adaptation, life history variation, and stress tolerance?
 type: section
 view: card
 weight: 2
