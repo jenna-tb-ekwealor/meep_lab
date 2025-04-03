@@ -4,5 +4,6 @@ summary: Investigating the evolution of reproductive systems, competition, and e
 type: section
 view: card
 weight: 1
+show_date: false
 ---
 {{< project_list categories="ecoevo" >}}

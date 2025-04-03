@@ -4,5 +4,6 @@ summary: How mosses and biocrust organisms physiologically respond to drought, c
 type: section
 view: card
 weight: 3
+show_date: false
 ---
 {{< project_list categories="physio" >}}

@@ -4,5 +4,6 @@ summary: Studying microbial communities and symbiotic interactions that shape mo
 type: section
 view: card
 weight: 4
+show_date: false
 ---
 {{< project_list categories="microbio" >}}

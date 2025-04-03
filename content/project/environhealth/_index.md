@@ -4,5 +4,6 @@ summary: Linking environmental biology with public health, policy, and equity in
 type: section
 view: card
 weight: 5
+show_date: false
 ---
 {{< project_list categories="environhealth" >}}
