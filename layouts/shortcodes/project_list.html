@@ -2,9 +2,7 @@
 <ul class="project-list">
   {{ range where .Site.Pages "Type" "allprojects" }}
     {{ if in .Params.categories $cat }}
-      <li>
-        <a href="{{ .RelPermalink }}">{{ .Title }}</a>: {{ .Params.summary }}
-      </li>
+      <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
     {{ end }}
   {{ end }}
 </ul>
