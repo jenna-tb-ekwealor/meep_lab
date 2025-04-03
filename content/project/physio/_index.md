@@ -1,8 +1,19 @@
 ---
 title: Plant Physiology & Climate Adaptation
-summary: How mosses and biocrust organisms physiologically respond to drought, cold, light, and other environmental stressors.
+summary: How do mosses survive in environments that push life to its limits?
 type: section
 view: card
-weight: 3
+weight: 1
+image:
+  caption: ""
+  focal_point: Smart
 ---
-{{< project_list categories="Plant Physiology & Climate Adaptation" >}}
+
+We investigate the physiological strategies that allow mosses and biocrust organisms to endure extreme drought, freezing temperatures, and intense solar radiation. From desiccation tolerance to photoprotection and seasonal plasticity, these projects explore how plants manage water, light, and energy across time and space. Our work integrates field monitoring, lab experiments, and physiological modeling to understand resilience and vulnerability in the face of climate change.
+
+
+**Projects in this theme:**
+
+- [{{< ref "/project/all/freeze-tolerance/" >}}]({{< ref "/project/all/freeze-tolerance/" >}})
+- [{{< ref "/project/all/fog/" >}}]({{< ref "/project/all/fog/" >}})
+- [{{< ref "/project/all/uv-sunscreen/" >}}]({{< ref "/project/all/uv-sunscreen/" >}})
