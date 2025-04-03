@@ -12,6 +12,4 @@ image:
 We use transcriptomics, genomics, and bioinformatics to study gene expression, genome structure, and regulatory dynamics in mosses. Our research focuses on topics like sex chromosome evolution, intragenomic conflict, and stress response pathways—revealing how molecular mechanisms shape trait evolution and ecological function in non-model plants.
 
 
-**Projects in this theme:**
-
-- [UV “sunscreen” in desert *Syntrichia caninervis*](/allprojects/uv-sunscreen/)
+{{< project_list categories="molecbio" >}}

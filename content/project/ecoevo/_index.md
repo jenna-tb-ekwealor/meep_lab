@@ -1,17 +1,8 @@
 ---
-title: Reproductive Ecology & Evolution
-summary: What ecological and evolutionary forces shape reproduction in mosses?
+title: Ecology, Evolution & Reproductive Strategy
+summary: Investigating the evolution of reproductive systems, competition, and ecological dynamics in mosses and biocrust ecosystems.
 type: section
 view: card
-weight: 3
-image:
-  caption: ""
-  focal_point: Smart
+weight: 1
 ---
-
-We study how reproductive traits evolve and persist in dryland mosses, where sex is often infrequent, biased, or expressed in unexpected ways. Our research focuses on sex ratio variation, mating system diversity, and trait differences between male and female individuals. By combining ecological experiments, population genetics, and molecular analyses, we uncover how reproductive strategies influence survival, fitness, and the maintenance of diversity under environmental stress.
-
-
-**Projects in this theme:**
-
-- [Freeze tolerance and winter photosynthesis in *Syntrichia norvegica*](/allprojects/freeze-tolerance/)
+{{< project_list categories="ecoevo" >}}
