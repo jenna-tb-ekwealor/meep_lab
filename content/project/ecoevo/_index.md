@@ -14,4 +14,4 @@ We study how reproductive traits evolve and persist in dryland mosses, where sex
 
 **Projects in this theme:**
 
-- [{{< ref "/project/all/freeze-tolerance/" >}}]({{< ref "/project/all/freeze-tolerance/" >}})
+- [Freeze tolerance and winter photosynthesis in *Syntrichia norvegica*](/project/all/freeze-tolerance/)

@@ -14,6 +14,6 @@ We investigate the physiological strategies that allow mosses and biocrust organ
 
 **Projects in this theme:**
 
-- [{{< ref "/project/all/freeze-tolerance/" >}}]({{< ref "/project/all/freeze-tolerance/" >}})
-- [{{< ref "/project/all/fog/" >}}]({{< ref "/project/all/fog/" >}})
-- [{{< ref "/project/all/uv-sunscreen/" >}}]({{< ref "/project/all/uv-sunscreen/" >}})
+- [Freeze tolerance and winter photosynthesis in *Syntrichia norvegica*](/project/all/freeze-tolerance/)
+- [Fog as a water source for bryophytes and lichens](/project/all/fog/)
+- [UV “sunscreen” in desert *Syntrichia caninervis*](/project/all/uv-sunscreen/)
