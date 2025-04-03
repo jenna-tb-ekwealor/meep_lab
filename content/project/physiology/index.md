@@ -1,7 +1,6 @@
 ---
-title: Research Projects
-summary: Explore the core themes that guide our research, from plant physiology to environmental justice.
-view: showcase
-type: section
-weight: 1
+title: Plant Physiology & Climate Adaptation
+summary: How mosses physiologically respond to drought, cold, light, and other environmental stressors.
+Image:
+ caption: "*Syntrichia ruralis*"
 ---
