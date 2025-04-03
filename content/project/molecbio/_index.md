@@ -14,4 +14,4 @@ We use transcriptomics, genomics, and bioinformatics to study gene expression, g
 
 **Projects in this theme:**
 
-- [UV “sunscreen” in desert *Syntrichia caninervis*](/project/all/uv-sunscreen/)
+- [UV “sunscreen” in desert *Syntrichia caninervis*](/allprojects/uv-sunscreen/)
