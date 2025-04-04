@@ -6,3 +6,10 @@
     {{ end }}
   {{ end }}
 </ul>
+
+{{ $category_names := dict "physio" "Plant Physiology" "molecbio" "Molecular Biology" "ecoevo" "Reproduction" "microbio" "Microbiology" "environhealth" "Environmental Justice" }}
+
+{{ range .Params.categories }}
+  {{ $full_name := index $category_names . }}
+  <span>{{ $full_name }}</span>
+{{ end }}
