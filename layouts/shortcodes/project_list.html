@@ -9,9 +9,3 @@
   {{ end }}
 </ul>
 
-{{ $category_names := dict "physio" "Plant Physiology & Climate Adaptation" "molecbio" "Molecular Biology, Genomics & Gene Regulation" "ecoevo" "Reproductive Ecology & Evolution" "microbio" "Microbial Ecology & Symbiosis" "environhealth" "Environmental Health, Climate Justice & Public Science" }}
-
-{{ range .Params.categories }}
-  {{ $full_name := index $category_names . }}
-  <span>{{ $full_name }}</span>
-{{ end }}
