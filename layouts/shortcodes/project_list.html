@@ -1,28 +1,10 @@
-{{ $cat := .Get "categories" }}
+{{ $cat := .Get "categories" }} <!-- Get category passed to shortcode -->
 <ul class="project-list">
-  {{ range .Site.Pages }}
-    {{ if and (in .Params.categories $cat) (eq .Type "allprojects") }}
+  {{ range where .Site.Pages "Section" "allprojects" }} <!-- Filter only allprojects type -->
+    {{ if in .Params.categories $cat }} <!-- Check if the project belongs to the specified category -->
       <li>
         <a href="{{ .RelPermalink }}">{{ .Title }}</a>
       </li>
-    {{ else }}
-      <!-- If no category match, skip rendering -->
     {{ end }}
   {{ end }}
 </ul>
-
-{{ $category_names := dict 
-    "physio" "Plant Physiology & Climate Adaptation" 
-    "molecbio" "Molecular Biology, Genomics & Gene Regulation" 
-    "ecoevo" "Reproductive Ecology & Evolution" 
-    "microbio" "Microbial Ecology & Symbiosis" 
-    "environhealth" "Environmental Health, Climate Justice & Public Science" }}
-
-{{ range .Params.categories }}
-  {{ $full_name := index $category_names . }}
-  {{ if $full_name }}
-    <span>{{ $full_name }}</span>
-  {{ else }}
-    <span>{{ . }}</span> <!-- fallback if full name isn't found -->
-  {{ end }}
-{{ end }}
