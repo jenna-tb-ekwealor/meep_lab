@@ -1,0 +1,8 @@
+{{ if eq .Type "project" }}
+  <!-- No categories shown on the project page -->
+{{ else }}
+  <!-- Display categories here for category pages -->
+  <p class="categories">
+    {{ .Params.categories }}
+  </p>
+{{ end }}
