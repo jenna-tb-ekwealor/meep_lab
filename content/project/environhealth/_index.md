@@ -6,4 +6,5 @@ view: card
 weight: 5
 show_date: false
 ---
+
 {{< project_list categories="environhealth" >}}
