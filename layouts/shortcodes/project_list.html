@@ -1,10 +1,12 @@
 {{ $cat := .Get "categories" }}
 <ul class="project-list">
-  {{ range where .Site.Pages "Type" "allprojects" }}
-    {{ if in .Params.categories $cat }}
+  {{ range .Site.Pages }}
+    {{ if and (in .Params.categories $cat) (eq .Type "allprojects") }}
       <li>
         <a href="{{ .RelPermalink }}">{{ .Title }}</a>
       </li>
+    {{ else }}
+      <!-- If no category match, skip rendering -->
     {{ end }}
   {{ end }}
 </ul>
@@ -21,6 +23,6 @@
   {{ if $full_name }}
     <span>{{ $full_name }}</span>
   {{ else }}
-    <span>{{ . }}</span> <!-- Fallback to the short category name if not found -->
+    <span>{{ . }}</span> <!-- fallback if full name isn't found -->
   {{ end }}
 {{ end }}
