@@ -1,6 +1,5 @@
 ---
-title: "Sex ratio competition in Syntrichia"
-summary: This project investigates whether physiological or ecological differences between sexes in Syntrichia caninervis underlie skewed sex ratios in the wild.
+title: "Sex ratio variation"
 show_date: false
 categories:
   - ecoevo

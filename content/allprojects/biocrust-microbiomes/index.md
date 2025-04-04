@@ -1,6 +1,5 @@
 ---
 title: "Microbiomes of biocrusts"
-summary: This project compares microbial community composition and function in biological soil crusts across environmental gradients, including arid, temperate, and urban ecosystems.
 show_date: false
 categories:
   - microbio
