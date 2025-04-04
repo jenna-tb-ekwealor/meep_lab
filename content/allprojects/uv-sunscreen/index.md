@@ -1,6 +1,5 @@
 ---
-title: "UV radiation sunscreen in Syntrichia"
-summary: In arid habitats, Syntrichia caninervis must endure long periods of intense UV radiation while dry and inactive. This project explores the physiological and molecular mechanisms behind UV-induced pigmentation.
+title: "UV radiation tolerance and sunscreen in desert mosses"
 show_date: false
 categories:
   - physio

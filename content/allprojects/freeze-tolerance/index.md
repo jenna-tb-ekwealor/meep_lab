@@ -1,6 +1,5 @@
 ---
-title: "Cold tolerance"
-summary: This project investigates cold and freeze tolerance in Syntrichia norvegica, a high-elevation moss potentially capable of photosynthesizing under snow.
+title: "Cold tolerance in high-elevation mosses"
 show_date: false
 categories:
   - physio

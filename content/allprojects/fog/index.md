@@ -1,6 +1,5 @@
 ---
-title: "Fog as a water source"
-summary: San Bruno Mountain presents a rare opportunity to study moss ecology in a coastal environment shaped by fog and non-rainfall water sources. This project explores how fog and dew influence the distribution, morphology, and physiology of epiphytic mosses growing on Baccharis pilularis.
+title: "Fog as a water source for cryptograms"
 show_date: false
 categories:
   - physio

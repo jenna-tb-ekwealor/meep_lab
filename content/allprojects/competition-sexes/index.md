@@ -1,5 +1,5 @@
 ---
-title: "Sex ratio variation"
+title: "Sex ratio variation in mosses"
 show_date: false
 categories:
   - ecoevo

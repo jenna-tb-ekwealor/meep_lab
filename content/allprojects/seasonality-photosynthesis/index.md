@@ -1,6 +1,5 @@
 ---
-title: "Seasonal photosynthesis in Syntrichia"
-summary: This project examines how seasonal changes in precipitation and temperature affect photosynthetic performance and photoprotection in Syntrichia caninervis.
+title: "Seasonal photosynthesis in desert mosses"
 show_date: false
 categories:
   - physio
