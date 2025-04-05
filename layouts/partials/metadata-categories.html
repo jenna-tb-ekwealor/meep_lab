@@ -1,4 +1,4 @@
-{{ $category_names := dict
+{{ $tag_names := dict
   "physio" "Plant Physiology & Climate Adaptation"
   "molecbio" "Molecular Biology, Genomics & Gene Regulation"
   "ecoevo" "Reproductive Ecology & Evolution"
@@ -6,11 +6,11 @@
   "environhealth" "Environmental Health, Climate Justice & Public Science"
 }}
 
-{{ with .Params.categories }}
-  <div class="article-categories">
+{{ with .Params.tags }}
+  <div class="article-tags">
     {{ range . }}
-      {{ $name := index $category_names . | default . }}
-      <a class="badge badge-light" href="{{ "/category/" | relLangURL }}{{ . | urlize }}">{{ $name }}</a>
+      {{ $full_name := index $tag_names . | default . }}
+      <a href="{{ "/tag/" | relLangURL }}{{ . | urlize }}">{{ $full_name }}</a>
     {{ end }}
   </div>
 {{ end }}
