@@ -6,18 +6,18 @@
   "molecbio" "Molecular Biology, Genomics & Gene Regulation" 
   "ecoevo" "Reproductive Ecology & Evolution" 
   "microbio" "Microbial Ecology & Symbiosis" 
-  "environhealth" "Environmental Health, Climate Justice & Public Science" }}
+  "environhealth" "Environmental Health, Climate Justice & Public Science" 
+}}
 
 <!-- Display full category name at the top -->
 <h2>{{ index $category_names $cat }}</h2>
 
-<ul class="project-list">
-  {{ range where .Site.Pages "Section" "allprojects" }} <!-- Filter only allprojects type -->
-    {{ if in .Params.categories $cat }} <!-- Check if the project belongs to the specified category -->
-      <li>
-        <a href="{{ .RelPermalink }}">{{ .Title }}</a>
-        <!-- Do NOT show the category name in the project listing -->
-      </li>
+<h3>Projects in this research area:</h3>
+
+<div class="project-list no-bullets">
+  {{ range where .Site.Pages "Section" "allprojects" }}
+    {{ if in .Params.categories $cat }}
+      <div><a href="{{ .RelPermalink }}">{{ .Title }}</a></div>
     {{ end }}
   {{ end }}
-</ul>
+</div>
