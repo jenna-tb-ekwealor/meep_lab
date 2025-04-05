@@ -1,0 +1,16 @@
+{{ $category_names := dict
+  "physio" "Plant Physiology & Climate Adaptation"
+  "molecbio" "Molecular Biology, Genomics & Gene Regulation"
+  "ecoevo" "Reproductive Ecology & Evolution"
+  "microbio" "Microbial Ecology & Symbiosis"
+  "environhealth" "Environmental Health, Climate Justice & Public Science"
+}}
+
+{{ with .Params.categories }}
+  <div class="article-categories">
+    {{ range . }}
+      {{ $name := index $category_names . | default . }}
+      <a class="badge badge-light" href="{{ "/category/" | relLangURL }}{{ . | urlize }}">{{ $name }}</a>
+    {{ end }}
+  </div>
+{{ end }}
