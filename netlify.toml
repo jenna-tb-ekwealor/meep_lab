@@ -26,3 +26,27 @@
   to = "/project/physio"
   status = 301
   force = true
+
+[[redirects]]
+  from = "/category/molecbio"
+  to = "/project/molecbio"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/category/ecoevo"
+  to = "/project/ecoevo"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/category/microbio"
+  to = "/project/microbio"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/category/environhealth"
+  to = "/project/environhealth"
+  status = 301
+  force = true
