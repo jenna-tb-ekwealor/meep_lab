@@ -3,9 +3,6 @@ title: "Microbiomes of biocrusts"
 show_date: false
 categories:
   - microbio
-image:
-  caption: ""
-  focal_point: Smart
 ---
 
 ### Comparative and functional microbiomes of biological soil crusts

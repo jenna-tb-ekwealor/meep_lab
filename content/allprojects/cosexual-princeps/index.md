@@ -4,9 +4,6 @@ show_date: false
 categories:
   - molecbio
   - ecoevo
-image:
-  caption: ""
-  focal_point: Smart
 ---
 
 ### Reproductive biology of cosexual *Syntrichia princeps*
