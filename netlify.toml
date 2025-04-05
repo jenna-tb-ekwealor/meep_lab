@@ -19,3 +19,10 @@
   package = "netlify-plugin-hugo-cache-resources"
   [plugins.inputs]
     debug = true
+
+# Redirect section
+[[redirects]]
+  from = "/category/physio"
+  to = "/project/physio"
+  status = 301
+  force = true
