@@ -1,0 +1,17 @@
+{{ $tag_names := dict
+  "physio" "Plant Physiology & Climate Adaptation"
+  "molecbio" "Molecular Biology, Genomics & Gene Regulation"
+  "ecoevo" "Reproductive Ecology & Evolution"
+  "microbio" "Microbial Ecology & Symbiosis"
+  "environhealth" "Environmental Health, Climate Justice & Public Science"
+}}
+
+{{ with .Params.tags }}
+  <div class="article-tags" style="margin-top: 2rem;">
+    <strong>Tags:</strong>
+    {{ range . }}
+      {{ $full := index $tag_names . | default . }}
+      <a class="badge badge-light" href="{{ "/tag/" | relLangURL }}{{ . | urlize }}">{{ $full }}</a>
+    {{ end }}
+  </div>
+{{ end }}
