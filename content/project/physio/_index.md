@@ -1,6 +1,6 @@
 ---
 title: Plant Physiology & Climate Adaptation
-summary: How mosses physiologically respond to drought, cold, light, and other environmental stressors.
+summary: How do mosses physiologically respond to drought, cold, light, and other environmental stressors?
 type: section
 view: card
 weight: 1

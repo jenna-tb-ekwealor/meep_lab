@@ -1,6 +1,6 @@
 ---
 title: Molecular Biology, Genomics & Gene Regulation
-summary: What genomic changes underlie adaptation, life history variation, and stress tolerance?
+summary: What genomic changes underlie adaptation, reproductive mode variation, and stress tolerance?
 type: section
 view: card
 weight: 2

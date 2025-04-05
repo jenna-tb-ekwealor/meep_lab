@@ -1,6 +1,6 @@
 ---
 title: Ecology, Evolution & Reproductive Strategy
-summary: Investigating the evolution of reproductive systems, competition, and ecological dynamics in mosses.
+summary: What ecological and evolutionary forces shape the structure and function of reproductive systems in mosses?
 view: card
 weight: 3
 show_date: false
