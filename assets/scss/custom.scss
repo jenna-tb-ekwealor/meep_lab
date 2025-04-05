@@ -10,3 +10,13 @@ footer {
   height: 11px;
   vertical-align: text-bottom;
 }
+
+.project-list.no-bullets {
+  list-style: none;
+  padding-left: 0;
+  margin: 1rem 0;
+}
+
+.project-list.no-bullets div {
+  margin: 0.25rem 0;
+}
