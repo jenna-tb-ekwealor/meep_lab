@@ -26,7 +26,9 @@ user_groups:
   - Undergraduate Researchers
 ---
 
-Hello Bryophyte buddies!! My name is Emory Adelman, and I am a Cell and Molecular Biology Major with a Minor in Computing Applications (thank you PINC!)
+## Hello bryophyte buddies! 
+
+My name is Emory Adelman, and I am a Cell and Molecular Biology Major with a Minor in Computing Applications (thank you PINC!)
 I started College as a Nursing major, and have two Associate’s Degrees (in Public Health and Pre-Nursing) from Cuesta College in San Luis Obispo. 
 Being from SLO, I love the outdoors. 
 I cannot choose between the beach and the mountains, especially since learning about how important all organisms are in those areas, with learning more about moss ecology! 
