@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Richard Baker
+title: Richard Baker-Strader
 
 # Username (this should match the folder name)
 authors:
@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Short bio (displayed in user profile at end of posts)
-bio: Outdoor enthusiast. 
+bio: Honorary bryologist.
 
 interests:
   - Ecology and evolution
@@ -28,8 +28,8 @@ education:
       year: 2023
     - course: AS in Business Administration
       institution: San Diego City College
-    - course: AA Economics
-      institution: ISan Diego City College
+    - course: AA in Economics
+      institution: San Diego City College
       
 # Highlight the author in author lists? (true/false)
 highlight_name: false
