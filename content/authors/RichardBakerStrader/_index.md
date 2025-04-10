@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Richard Baker-Strader
+title: Richard Baker
 
 # Username (this should match the folder name)
 authors:
