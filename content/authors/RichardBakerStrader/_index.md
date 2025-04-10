@@ -19,10 +19,15 @@ interests:
   - Bioinformatics
   
 education:
-  - MS Candidate, Integrative Biology, San Francisco State University
-  - BS, Environmental Science & Health, Wrigley Institute for Environment & Sustainability, University of Southern California
-  - AS, Business Administration, San Diego City College
-  - AA, Economics, San Diego City College
+  courses:
+    - course: MS Candidate in Integrative Biology
+      institution: San Francisco State University
+    - course: BS in Environmental Science & Health
+      institution: Wrigley Institute for Environment & Sustainability, University of Southern California
+    - course: AS in Business Administration
+      institution: San Diego City College
+    - course: AA Economics
+      institution: ISan Diego City College
       
 # Highlight the author in author lists? (true/false)
 highlight_name: false
