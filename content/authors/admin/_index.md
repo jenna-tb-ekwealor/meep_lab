@@ -38,7 +38,7 @@ education:
     - course: BS in Biology
       institution: Purdue University, Indianapolis
       year: 2012
-    - course: BA Religious Studies
+    - course: BA in Religious Studies
       institution: Indiana University, Indianapolis
       year: 2012
 
