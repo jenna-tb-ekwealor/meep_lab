@@ -24,8 +24,9 @@ abstract: 'Several species of dryland cyanobacteria are known to occur as hypoli
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- niche partitioning
+- field work
 - Syntrichia
+- microclimate
 featured: true
 
 # links:

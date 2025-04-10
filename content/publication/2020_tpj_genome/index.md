@@ -37,6 +37,7 @@ tags:
 - genomics
 - transcriptomics
 - Syntrichia
+- desiccation tolerance
 featured: false
 
 # links:

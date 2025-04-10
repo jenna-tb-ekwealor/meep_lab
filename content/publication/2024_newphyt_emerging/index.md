@@ -33,7 +33,10 @@ The new genomic resources from this emerging model moss offer novel insights int
 summary: 'We sequenced the genome of S. ruralis, conducted transcriptomic analyses, and performed comparative genomic and transcriptomic analyses with existing genomes and transcriptomes, including with the close relative S. caninervis. We took a genetic approach to characterize the role of an S. ruralis transcription factor, identified in transcriptomic analyses, in Arabidopsis thaliana. The new genomic resources from this emerging model moss offer novel insights into how plants regulate their responses to water deprivation.'
 
 tags:
-- natural history
+- genomics
+- transcriptomics
+- Syntrichia
+- desiccation tolerance
 featured: true
 
 # links:

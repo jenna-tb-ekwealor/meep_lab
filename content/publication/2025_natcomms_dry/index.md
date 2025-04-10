@@ -67,7 +67,7 @@ abstract: 'To thrive in extreme conditions, organisms have evolved a diverse ars
 summary: 'Here, we synthesize current knowledge on desiccation tolerance across evolutionary, ecological, physiological, and cellular scales to provide a roadmap for advancing desiccation tolerance research. We also address critical gaps and technical roadblocks, highlighting the need for standardized experimental practices, improved taxonomic sampling, and the development of new tools for studying biology in a dry state. We hope that this perspective can serve as a roadmap to accelerating research breakthroughs and unlocking the potential of desiccation tolerance to address global challenges related to climate change, food security, and health.'
 
 tags:
-- natural history
+- desiccation tolerance
 featured: true
 
 # links:

@@ -24,7 +24,8 @@ abstract: 'Bryophytes (hornworts, liverworts, and mosses) have a life cycle simi
 summary: 'The bryophyte life cycle has profound impacts on reproductive biology. In this review, we summarize recent and foundational findings in these focal areas, and contextualize bryophyte reproduction within the reproductive patterns and processes of land plants at large.'
 
 tags:
-- natural history
+- reproduction
+- bryophyte
 featured: true
 
 # links:
