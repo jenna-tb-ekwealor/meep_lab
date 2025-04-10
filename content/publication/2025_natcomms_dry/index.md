@@ -1,5 +1,5 @@
 ---
-title: "Syntrichia ruralis: emerging model moss genome reveals a conserved and previously unknown regulator of desiccation in flowering plants"
+title: "Life on the dry side: a roadmap to understanding desiccation tolerance and accelerating translational applications"
 authors:
 - Rose A. Marks
 - admin
