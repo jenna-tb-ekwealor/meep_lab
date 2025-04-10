@@ -50,9 +50,9 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:ekwealor@sfsu.edu'
-  - icon: twitter
+  - icon: bluesky
     icon_pack: fab
-    link: https://twitter.com/bryophyter
+    link: https://bsky.app/profile/bryophyter.bsky.social
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=kfZjYxYAAAAJ&hl=en
