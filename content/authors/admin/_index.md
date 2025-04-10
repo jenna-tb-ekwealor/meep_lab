@@ -21,11 +21,12 @@ organizations:
 bio: Lab PI and moss evangelist. 
 
 interests:
-  - Physiological ecology
-  - Evolution
-  - Bryophytes
-  - Drylands  
-
+  - Ecology
+  - Plant Physiology
+  - Botany
+  - Bryology
+  - Desert Ecosystems
+  - Environmental Justice  
 
 education:
   courses:
