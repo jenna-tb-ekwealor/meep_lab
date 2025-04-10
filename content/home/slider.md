@@ -35,18 +35,18 @@ content:
         text: Who we are
         url: ../people/
     - title: Our most recent publication
-      content: 'The bryophyte life cycle, characterized by autonomous gametophytes (and dependent sporophytes), has profound impacts on reproductive biology. In this review, we summarize recent and foundational findings in bryophyte reproduction, and contextualize bryophyte reproduction within the reproductive patterns and processes of land plants at large.'
+      content: 'We synthesize current knowledge on desiccation tolerance and outline a roadmap to accelerate research and unlock its potential for climate resilience, agriculture, and health.'
       align: right
       background:
         position: center
         color: '#555'
         brightness: 0.7
-        media: syntrichiasporos.JPG
+        media: canespring.JPG
       link:
         text: Read more
-        url: ../publication/2024_ijps_coulter/
+        url: ../publication/2025_natcomms_dry/
     - title: Interested in our research?
-      content: 'We are now recruiting masters students to start in Fall 2025'
+      content: 'Now recruiting masters students to start in Fall 2025'
       align: left
       background:
         position: right
