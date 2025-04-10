@@ -1,5 +1,5 @@
 ---
-title: "Let the Records Show: Attribution of Scientific Credit in Natural History Collections"
+title: "Let the records show: Attribution of scientific credit in natural history collections"
 authors:
 - Rebecca B. Dikow
 - admin
