@@ -22,8 +22,10 @@ education:
   courses:
     - course: MS Candidate in Integrative Biology
       institution: San Francisco State University
+      year: 2025
     - course: BS in Environmental Science & Health
       institution: Wrigley Institute for Environment & Sustainability, University of Southern California
+      year: 2023
     - course: AS in Business Administration
       institution: San Diego City College
     - course: AA Economics
