@@ -34,7 +34,7 @@ content:
       link:
         text: Who we are
         url: ../people/
-    - title: Our most recent publication
+    - title: New publication!
       content: 'We synthesize current knowledge on desiccation tolerance and outline a roadmap to accelerate research and unlock its potential for climate resilience, agriculture, and health.'
       align: right
       background:
