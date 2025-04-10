@@ -22,6 +22,7 @@ bio: Lab PI and moss evangelist.
 
 interests:
   - Ecology
+  - Evolution
   - Plant Physiology
   - Botany
   - Bryology

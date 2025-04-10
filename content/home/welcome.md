@@ -20,5 +20,5 @@ design:
 ---
 <br>
 
-Check out the Contact page for to inquire about joining the lab. 
+Check out the Contact page for information about joining the lab. 
 
