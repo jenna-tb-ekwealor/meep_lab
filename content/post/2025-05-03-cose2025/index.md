@@ -10,7 +10,7 @@ This is a major campus-wide event featuring over 200 posters from departments in
 Posters are judged within topic-based categories, and Katrina presented in the Environment category.
 
 Each category awards 1st, 2nd, and 3rd place prizes. 
-Posters are evaluated by faculty and graduate student judges based on clarity, design, presentation, and research significance. 
+Posters are evaluated by faculty and industry volunteer judges based on clarity, design, presentation, and research significance. 
 Katrina won **3rd place**!
 
 Her project focuses on the ecology of epiphytic lichens on coyote brush (*Baccharis pilularis*) at San Bruno Mountain, looking at species distribution, morphology, and reproductive strategies across microhabitats.
