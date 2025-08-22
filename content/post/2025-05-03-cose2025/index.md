@@ -10,14 +10,14 @@ This is a major campus-wide event featuring over 200 posters from departments in
 Posters are judged within topic-based categories, and Katrina presented in the Environment category.
 
 Each category awards 1st, 2nd, and 3rd place prizes. 
-Posters are evaluated by faculty and industry volunteer judges based on clarity, design, presentation, and research significance. 
+Posters are evaluated by faculty and industry volunteer judges based on clarity, design, presentation, and effectiveness of research significance. 
 Katrina won **3rd place**!
 
 Her project focuses on the ecology of epiphytic lichens on coyote brush (*Baccharis pilularis*) at San Bruno Mountain, looking at species distribution, morphology, and reproductive strategies across microhabitats.
 
 Congratulations, Katrina!
 
-MEEP Lab senior **Emory Adelman** also presented a poster based on a class research project. 
+MEEP Lab senior [**Emory Adelman**](../../../author/EmoryAdelman/) also presented a poster based on her work in the Promoting Inclusivity in Computing (PINC) program.
 In addition, **former MEEP Lab undergrads** from the [2024 PSP summer research group](../../../post/2024-07-27-summer2024/) presented new work from other classes and labs. 
 It was great to see so many familiar faces and projects throughout the showcase.
 
