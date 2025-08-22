@@ -27,7 +27,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Graduate Student
+  - Graduate Students
 ---
 
 Hey y’all, I’m Kanika K. and I’m a masters student majoring in Biology with a concentration in Molecular and Cellular Biology. I did my undergraduate degree at San Jose State University in Forensic Science with a concentration in Biology and a minor in Chemistry. 
