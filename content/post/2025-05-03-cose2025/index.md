@@ -4,7 +4,7 @@ date: 2025-05-06
 summary: Katrina won 3rd place in the Environment category of the 2025 CoSE Student Showcase!
 ---
 
-Senior MEEP Lab researcher and LSAMP scholar [Katrina McCullough](../../../author/KatrinaMccullough/) presented her research project *Lichens of San Bruno Mountain: Distribution, morphology, and reproductive strategies of epiphytic lichens on Baccharis pilularis* at the 2025 SFSU CoSE Student Project Showcase.  
+Senior MEEP Lab researcher and LSAMP scholar [Katrina McCullough](../../../author/KatrinaMccullough/) presented her research project "*Lichens of San Bruno Mountain: Distribution, morphology, and reproductive strategies of epiphytic lichens on* Baccharis pilularis" at the 2025 SFSU CoSE Student Project Showcase.  
 
 This is a major campus-wide event featuring over 200 posters from departments including Biology, Chemistry & Biochemistry, Computer Science, Engineering, Earth & Climate Sciences, Mathematics, Physics & Astronomy, and Psychology. 
 Posters are judged within topic-based categories, and Katrina presented in the Environment category.
