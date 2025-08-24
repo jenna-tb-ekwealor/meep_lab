@@ -28,7 +28,7 @@ tags:
 - desiccation tolerance
 - bryophyte ecology
 - prehydration
-- *Syntrichia caninervis*
+- Syntrichia caninervis
 featured: true
 
 # links:
