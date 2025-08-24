@@ -21,7 +21,7 @@ date_format = "2006"
   title = "BIOL 529 GWAR Plant Ecology"
   organization = "San Francisco State University, Department of Biology"
   date_start = 2024-08-26
-  date_end = ''
+  date_end = '2025-12-19'
   description = "Fundamentals of ecology through the study of plants, particularly in the Bay Area."
 
 [[item]]
