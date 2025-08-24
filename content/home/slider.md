@@ -25,13 +25,13 @@ content:
         media: lava.jpg
 
     - title: New publication!
-      content: 'We synthesize current knowledge on desiccation tolerance and outline a roadmap to accelerate research and unlock its potential for climate resilience, agriculture, and health.'
+      content: 'The desert moss *Syntrichia caninervis* can revive even after 17 years of desiccation. Exposure to moderate humidity improves survival and speeds regeneration.'
       align: right
       background:
         position: center
         color: '#555'
         brightness: 0.7
-        media: canespring.JPG
+        media: cani.png
       link:
         text: Read more
         url: ../publication/2025_natcomms_dry/
@@ -57,7 +57,7 @@ content:
         position: left
         color: '#555'
         brightness: 0.7
-        media: cani.png
+        media: cani.png or canespring.JPG
       link:
         text: Who we are
         url: ../people/
