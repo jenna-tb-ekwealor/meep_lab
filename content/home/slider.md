@@ -23,6 +23,7 @@ content:
         color: '#666'
         brightness: 0.7
         media: lava.jpg
+<!-- 
     - title: MEEP Lab
       content: 'Current and past members'
       align: left
@@ -34,6 +35,7 @@ content:
       link:
         text: Who we are
         url: ../people/
+ -->
     - title: New publication!
       content: 'We synthesize current knowledge on desiccation tolerance and outline a roadmap to accelerate research and unlock its potential for climate resilience, agriculture, and health.'
       align: right
@@ -45,7 +47,7 @@ content:
       link:
         text: Read more
         url: ../publication/2025_natcomms_dry/
-    - title: Interested in our research?
+    - title: Welcome new lab members!
       content: '5 new graduate students and 1 post-bac researcher joining Fall 2025!'
       align: left
       background:
