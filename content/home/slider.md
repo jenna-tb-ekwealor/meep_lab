@@ -34,7 +34,7 @@ content:
         media: cani.png
       link:
         text: Read more
-        url: ../publication/2025_natcomms_dry/
+        url: ../publication/2025_bryologist_prehy/
     - title: Welcome new lab members!
       content: '5 new graduate students and 1 post-bac researcher joining Fall 2025!'
       align: left
