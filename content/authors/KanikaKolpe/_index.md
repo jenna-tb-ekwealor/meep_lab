@@ -20,6 +20,11 @@ interests:
   - Cats
   - Anything sweet
 
+education:
+  courses:
+    - course: BS in Forensic Science, Concentration in Biology, Minor in Chemistry
+      institution: San Jose State University
+      year: 2025
   
 # Highlight the author in author lists? (true/false)
 highlight_name: false
@@ -30,4 +35,5 @@ user_groups:
   - Graduate Students
 ---
 
-Hey y’all, I’m Kanika K. and I’m a masters student majoring in Biology with a concentration in Molecular and Cellular Biology. I did my undergraduate degree at San Jose State University in Forensic Science with a concentration in Biology and a minor in Chemistry. 
+Hey y’all, I’m Kanika K. and I’m a masters student majoring in Biology with a concentration in Molecular and Cellular Biology. 
+I did my undergraduate degree at San Jose State University in Forensic Science with a concentration in Biology and a minor in Chemistry. 
