@@ -41,7 +41,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Summaries of a evolutionary, b ecological, c morphological, d cellular, and e molecular aspects of desiccation tolerance. f timeline of major natural and research milestones in desiccation tolerance. Colors represent the biological scale of each discovery: purple for discoveries in evolution, blue for discoveries in geography, green for organismal-scale discoveries, yellow for cellular-scale discoveries, and red for discoveries on the molecular scale. Orange represents a historical biological event. For a brief history of the modern discovery of desiccation tolerance, see Alpert (2000). Illustrations in (c–e) by Rachel Torrez.'
+  caption: '(A) Relative humidity and (B) water content over 7 days of pre-hydration, plus at full turgor.'
   focal_point: ""
   preview_only: false
 
