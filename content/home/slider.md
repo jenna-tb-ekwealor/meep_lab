@@ -46,7 +46,7 @@ content:
         text: Read more
         url: ../publication/2025_natcomms_dry/
     - title: Interested in our research?
-      content: 'Now recruiting masters students to start in Fall 2025'
+      content: '5 new graduate students and 1 post-bac researcher joining Fall 2025!'
       align: left
       background:
         position: right
@@ -54,6 +54,6 @@ content:
         brightness: 0.7
         media: fieldwork_crop.jpg
       link:
-        text: Join the lab!
-        url: ../contact/        
+        text: See lab members
+        url: ../people/        
 ---
