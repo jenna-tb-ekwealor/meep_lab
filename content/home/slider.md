@@ -23,19 +23,7 @@ content:
         color: '#666'
         brightness: 0.7
         media: lava.jpg
-<!-- 
-    - title: MEEP Lab
-      content: 'Current and past members'
-      align: left
-      background:
-        position: left
-        color: '#555'
-        brightness: 0.7
-        media: cani.png
-      link:
-        text: Who we are
-        url: ../people/
- -->
+
     - title: New publication!
       content: 'We synthesize current knowledge on desiccation tolerance and outline a roadmap to accelerate research and unlock its potential for climate resilience, agriculture, and health.'
       align: right
@@ -59,3 +47,18 @@ content:
         text: See lab members
         url: ../people/        
 ---
+
+
+<!-- 
+    - title: MEEP Lab
+      content: 'Current and past members'
+      align: left
+      background:
+        position: left
+        color: '#555'
+        brightness: 0.7
+        media: cani.png
+      link:
+        text: Who we are
+        url: ../people/
+ -->
