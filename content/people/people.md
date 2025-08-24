@@ -18,6 +18,7 @@ content:
   user_groups:
     - Principal Investigator
     - Graduate Students
+    - Post-Baccalaureate Researchers
     - Undergraduate Researchers
     - Summer Interns
     - Affiliated Researchers
