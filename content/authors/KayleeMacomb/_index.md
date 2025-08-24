@@ -15,7 +15,10 @@ superuser: false
 bio: Undergraduate researcher. 
 
 interests:
-  - 
+  - Public Health
+  - Environmental Health
+  - Community Health
+  - Bioinformatics
       
 # Highlight the author in author lists? (true/false)
 highlight_name: false
@@ -26,4 +29,7 @@ user_groups:
   - Undergraduate Researchers
 ---
 
-# 
+Hi my name is Kaylee and I am a fourth year studying Biology with a concentration in Ecology. 
+I am from San Mateo here in the Bay Area. 
+I am a current URISE scholar and participated in the PINC summer program in the MEEP lab as well! 
+My project/research interests include public, environmental, and community health, data analysis, and bioinformatics.
