@@ -20,6 +20,12 @@ interests:
   - Mycology
   - Lichenology
   - Botany
+
+education:
+  courses:
+    - course: BS in Biology, Concentration in Ecology, Evolution, and Conservation
+      institution: San Francisco State University
+      year: 2025
       
 # Highlight the author in author lists? (true/false)
 highlight_name: false
