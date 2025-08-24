@@ -24,7 +24,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Affiliated Researchers
+  - Post-Baccalaureate Researchers 
 ---
 
 Hey y’all! I’m Abbey and I’m a post-bac scholar in the MEEP lab as part of the Bay Area RaMP for Microbiome Sciences at UC Berkeley. 
