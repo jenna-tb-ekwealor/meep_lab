@@ -25,7 +25,7 @@ tags:
   - *Syntrichia caninervis*
   
 featured: true
-url_pdf: ""
+url_pdf: "https://bioone.org/journals/the-bryologist/volume-128/issue-3/0007-2745-128.3.487/Influence-of-prehydration-events-on-revival-of-the-dryland-moss/10.1639/0007-2745-128.3.487.short"
 url_project: ""
 url_video: ""
 i
