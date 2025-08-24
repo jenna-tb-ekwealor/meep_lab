@@ -20,6 +20,12 @@ interests:
   -  Conservation
   -  Infectious diseases
   
+education:
+  courses:
+    - course: BS in Biology
+      institution: University of California, Santa Cruz
+      year: 2025
+  
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 
@@ -30,13 +36,9 @@ user_groups:
 ---
 
 Hello! 
-My name is Paris Hendershot and I am a first year Cell and Molecular Biology masters 
-student. 
-I am originally from Huntington Beach California, but I studied and received my B.S. in 
-Biology at UC Santa Cruz. 
-Additionally, I interned  with the Treehouse Undergraduate Bioinformatics Immersion (TUBI) to analyze pediatric cancer genomes. I am passionate about 
-many subjects in biology such as genetics, microbiology, conservation, infectious diseases just 
-to name a few! Outside of academics I love to read, go thrifting with friends, take naps, and 
-hike.  
+My name is Paris Hendershot and I am a first year Cell and Molecular Biology masters student. 
+I am originally from Huntington Beach California, but I studied and received my B.S. in Biology at UC Santa Cruz. 
+Additionally, I interned  with the Treehouse Undergraduate Bioinformatics Immersion (TUBI) to analyze pediatric cancer genomes. 
+I am passionate about many subjects in biology such as genetics, microbiology, conservation, infectious diseases just to name a few! Outside of academics I love to read, go thrifting with friends, take naps, and hike.  
  
  
