@@ -1,5 +1,5 @@
 ---
-title: "Influence of prehydration events on revival of the dryland moss *Syntrichia caninervis* desiccated for 17 years: does water content matter?"
+title: "Influence of prehydration events on revival of the dryland moss Syntrichia caninervis desiccated for 17 years: does water content matter?"
 authors:
 - Kirsten K. Coe
 - Lloyd R. Stark
