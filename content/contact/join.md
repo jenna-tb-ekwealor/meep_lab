@@ -39,5 +39,8 @@ Interested in coding and genomics? Apply to the [**Promoting Inclusivity in Comp
 ##  Graduate Students
 *Fall of 2026* 
 <br>
-If you're interested in earning a [**Master if Science in Integrative Biology**](https://biology.sfsu.edu/graduate/integrative) at SF State in Fall 2026, apply [**here**](https://biology.sfsu.edu/graduate-programs-1) by January 31, 2026. 
-To inquire about joining my lab group, send [**me**](https://meep-lab.com/author/jenna-t.-b.-ekwealor/) a statement of interest describing why you want to join the lab and a copy of your CV or a summary of your academic history.
+Check out the [**Fall 2025 Grad Preview at SFSU**](https://grad.sfsu.edu/GradPreview) from October 20-24! This event showcases the graduate programs at SFSU with application workshops, panels from students and faculty, and more helpful information about becoming a graduate student at SFSU. In person and virtual options available.
+
+If you're interested in earning a [**Master of Science in Integrative Biology**](https://biology.sfsu.edu/graduate/integrative) at SF State in Fall 2026, apply [**here**](https://biology.sfsu.edu/graduate-programs-1) by January 31, 2026. 
+
+We may be able to accept 1–2 graduate students to start in Fall 2026. Contact [**me**](https://meep-lab.com/author/jenna-t.-b.-ekwealor/) for updates about potential opportunities for graduate students in my lab.
