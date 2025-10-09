@@ -18,7 +18,7 @@ The new MEEP team enjoyed a field trip to San Bruno Mountain last week!
 
 <figure>
 <a href="group.jpg/"><img
-src="group.jpg" alt="New members of the MEEP Lab explore San Bruno Mountain. " style="width: 400px; "></a>
+src="group.jpg" alt="Michael, Kelley, Joshua, Kat, Kaylee and Nio on San Bruno Mountain!" style="width: 400px; "></a>
   <img src="" width="600">
   <figcaption>Michael, Kelley, Joshua, Kat, Kaylee and Nio on San Bruno Mountain!  
 </figcaption>
