@@ -12,7 +12,7 @@ authors:
 superuser: false
 
 # Short bio (displayed in user profile at end of posts)
-bio: Hey! I’m a Cell and Molecular Biology master’s student. I did my undergrad at UC Santa Cruz, receiving a B.S. in  Bioinformatics with a minor in Applied Math. I’m interested in how statistical analysis can be applied to genomic data to better understand biological functions. In my free time I enjoy hiking, swimming and playing guitar.
+bio: MEEP Lab Graduate Student.
 
 interests:
 
