@@ -1,5 +1,5 @@
 ---
-title: "The MEEP Lab Visits the California Academy of Sciences"
+title: "The MEEP Lab Visits the California Academy of Sciences!"
 summary: "Holy Herbarium!"
 date: 2025-12-01T18:15:21-07:00
 ---
