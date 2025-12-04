@@ -17,8 +17,8 @@ src="jenna_selfie.jpg" alt="Candids on the Living Roof" style="width: 400px; "><
 The MEEP Lab enjoyed meeting the botany staff at CAS; [**Ricardo Kriebel**](https://www.calacademy.org/staff/ibss/botany/ricardo-kriebel) shared his beautifully crafted botanical posters and was kind enough to give each member of the lab a copy to take home, thank you Ricardo! Read more about Isaac and Ricardo [**here.**](https://www.calacademy.org/press/releases/the-california-academy-of-sciences-welcomes-two-new-botany-curators)
 
 <figure>
-<a href="group_CAS.jpg/"><img
-src="group_CAS.jpg" alt="The MEEP Lab with CAS Botanist Isaac Lichter-Marck" style="width: 400px; "></a>
+<a href="featured.jpg/"><img
+src="featured.jpg" alt="The MEEP Lab with CAS Botanist Isaac Lichter-Marck" style="width: 400px; "></a>
   <img src="" width="600">
   <figcaption>The MEEP Lab with CAS Botanist Isaac Lichter-Marck! (left to right: Michael, Emma, Abbey, Isaac, Kaylee, Kanika, Paris, Josh)
 </figcaption>
