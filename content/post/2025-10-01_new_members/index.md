@@ -6,7 +6,7 @@ authors:
 date: 2025-10-07T18:15:21-07:00
 ---
 
-The MEEP lab has seen some serious growth in August 2025, we have seven new members to welcome! [**Kanika**](../../authors/Kanika-Kolpe/), [**Michael**](../../authors/Michael-Collins/), [**Kelley**](../../authors/Kelley-Brown/), [**Paris**](../../authors/Paris-Hendershot/), and [**Joshua**](../../authors/Joshua-Harris/) are first year grad students, [**Abbey**](../../authors/Abbey-Schedler/) is a post-baccalaureate scholar with the NSF Bay Area RaMP for Microbiome Sciences, and [**Nio**](../../authors/Nio-Gonzalez/) is an undergrad at SFSU. Read below about what our new researchers are up to!
+The MEEP lab has seen some serious growth in August 2025, we have seven new members to welcome! [**Kanika**](../../author/kanika-kolpe/), [**Michael**](../../author/michael-collins/), [**Kelley**](../../author/kelley-brown/), [**Paris**](../../author/paris-hendershot/), and [**Joshua**](../../authors/joshua-harris/) are first year grad students, [**Abbey**](../../author/abbey-schedler/) is a post-baccalaureate scholar with the NSF Bay Area RaMP for Microbiome Sciences, and [**Nio**](../../author/nio-gonzalez/) is an undergrad at SFSU. Read below about what our new researchers are up to!
 
 Paris and Kanika are tackling a project investigating desiccation tolerance of mosses in California Deserts. Paris studied biology at UCSC and Kanika got her BS in Forensic Science from San Jose State. 
 
