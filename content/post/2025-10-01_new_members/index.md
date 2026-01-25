@@ -1,10 +1,12 @@
 ---
 title: "Newest members of the MEEP Lab!"
 summary: "Welcoming our new members!"
+authors:
+  - "AbbeySchedler"
 date: 2025-10-07T18:15:21-07:00
 ---
 
-The MEEP lab has seen some serious growth in August 2025, we have seven new members to welcome! **Kanika**, **Michael**, **Kelley**, **Paris** and **Joshua** are first year grad students, **Abbey** is a post-baccalaureate scholar with the NSF Bay Area RaMP for Microbiome Sciences, and **Nio** is an undergrad at SFSU. Read below about what our new researchers are up to!
+The MEEP lab has seen some serious growth in August 2025, we have seven new members to welcome! [**Kanika**](../authors/Kanika-Kolpe/), [**Michael**](../authors/Michael-Collins/), [**Kelley**](../authors/Kelley-Brown/), [**Paris**](../authors/Paris-Hendershot/), and [**Joshua**](../authors/Joshua-Harris/) are first year grad students, [**Abbey**](../authors/Abbey-Schedler/) is a post-baccalaureate scholar with the NSF Bay Area RaMP for Microbiome Sciences, and [**Nio**](../authors/Nio-Gonzalez/) is an undergrad at SFSU. Read below about what our new researchers are up to!
 
 Paris and Kanika are tackling a project investigating desiccation tolerance of mosses in California Deserts. Paris studied biology at UCSC and Kanika got her BS in Forensic Science from San Jose State. 
 
@@ -13,6 +15,7 @@ Abbey is teaming up with Nio and MEEP veteran Kaylee Macomb to work on a project
 Michael is diving into a genomics project looking at high elevation Syntrichia, and he received his BS in bioinformatics at UCSC. 
 
 Joshua and Kelley are tackling the dust project which investigates dust and environmental health in the Central Valley. Kelley and Joshua both graduated from SFSU, Joshua with a BS in biology and Kelley with a BS in ecology, evolution and conservation biology. 
+
 
 The new MEEP team enjoyed a field trip to San Bruno Mountain last week! 
 
