@@ -13,7 +13,7 @@ gallery_item:
   caption: The team with their poster at the symposium!
 ---
 
-MEEP Lab undergraduates **Kaylee Macomb**, **David Marczak**, **Vinusha Bandara**, and **Faizaan Shaikh** presented a research poster at the 2025 SFSU Summer Research Symposium, mentored by graduate student .[**Richard Baker-Strader**](../authors/EmoryAdelman/). 
+MEEP Lab undergraduates **Kaylee Macomb**, **David Marczak**, **Vinusha Bandara**, and **Faizaan Shaikh** presented a research poster at the 2025 SFSU Summer Research Symposium, mentored by graduate student .[**Richard Baker-Strader**](../authors/richard-baker-strader/). 
 
 The group worked on a comparative genomics project investigating the genomic structure of the moss *Syntrichia princeps*, using synteny analysis to test whether both male and female sex chromosomes are retained in the genome.
 
