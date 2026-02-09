@@ -16,7 +16,8 @@ src="04field.JPG" alt="" style="width: 400px; "></a>
 </figure>
 The deserts team (Abbey, Jenna, Kanika and Paris) was hosted by the incredible folks at [**Deep Springs College**](https://www.deepsprings.edu/mission/). Thank you to president Andrew Zink for the hospitality! They were able to sample at three locations within the Great Basin Desert including just outside the Deep Springs Campus. 
 
-The samples collected from this trip contribute to the larger deserts project, where the deserts team will be investigating physiological processes of 𝘚𝘺𝘯𝘵𝘳𝘪𝘤𝘩𝘪𝘢 mosses in desert ecosystems across an environmental gradient. Abbey is adding a microbiome component to the project by investigating the microbial communities in desert biological soil crusts (BSCs). See below for some fieldwork photos!
+
+The samples collected from this trip contribute to the larger deserts project, where the deserts team will be investigating physiological processes of mosses in desert ecosystems across an environmental gradient. Abbey is adding a microbiome component to the project by investigating the microbial communities in desert biological soil crusts (BSCs). See below for some fieldwork photos!
 <figure>
 <a href="labinfield.JPG/"><img
 src="labinfield.JPG" alt="" style="width: 400px; "></a>
@@ -69,7 +70,7 @@ We documented all plants we saw with iNaturalist. Check out our field trip iNat 
     <div class="inat-widget-header">
       <a href="https://www.inaturalist.org"><img alt="iNaturalist" src="https://www.inaturalist.org/assets/logo-small.png" /></a>  
     </div>
-  <script type="text/javascript" charset="utf-8" src="https://www.inaturalist.org/observations?place_id=any&user_id=abb3ykate&verifiable=any"></script>
+  <script type="text/javascript" charset="utf-8" src="https://www.inaturalist.org/observations/abb3ykate.widget?layout=small&limit=39&order=desc&order_by=observed_on"></script>
   <table class="inat-footer">
          <br>
          <br>
