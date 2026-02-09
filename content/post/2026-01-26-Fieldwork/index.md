@@ -11,14 +11,12 @@ Four members of the MEEP lab took a trip to the Great Basin Desert just outside 
 <a href="04field.JPG/"><img
 src="04field.JPG" alt="" style="width: 400px; "></a>
   <img src="" width="600">
-  <figcaption>Sampling site #1 at [**Deep Springs College**](https://www.deepsprings.edu/mission/) 
+  <figcaption>Sampling site #1 at Deep Springs College
 </figcaption>
 </figure>
+The deserts team (Abbey, Jenna, Kanika and Paris) was hosted by the incredible folks at [**Deep Springs College**](https://www.deepsprings.edu/mission/). Thank you to president Andrew Zink for the hospitality! They were able to sample at three locations within the Great Basin Desert including just outside the Deep Springs Campus. 
 
-The deserts team (Abbey, Jenna, Kanika and Paris) was hosted by the incredible folks at Deep Springs College. Thank you to president Andrew Zink for the hospitality! They were able to sample at three locations within the Great Basin Desert including just outside the Deep Springs Campus. 
-
-The samples collected from this trip contribute to the larger deserts project, where the deserts team will be investigating physiological processes of Syntrichia mosses in desert ecosystems across an environmental gradient. Abbey is adding a microbiome component to the project by investigating the microbial communities in desert biological soil crusts (BSCs). See below for some fieldwork photos!
-
+The samples collected from this trip contribute to the larger deserts project, where the deserts team will be investigating physiological processes of 𝘚𝘺𝘯𝘵𝘳𝘪𝘤𝘩𝘪𝘢 mosses in desert ecosystems across an environmental gradient. Abbey is adding a microbiome component to the project by investigating the microbial communities in desert biological soil crusts (BSCs). See below for some fieldwork photos!
 <figure>
 <a href="labinfield.JPG/"><img
 src="labinfield.JPG" alt="" style="width: 400px; "></a>
@@ -26,7 +24,6 @@ src="labinfield.JPG" alt="" style="width: 400px; "></a>
   <figcaption>Jenna, Kanika and Paris collecting a moss sample at the first site near Deep Springs College 
 </figcaption>
 </figure>
-
 <figure>
 <a href="abbey.jpeg/"><img
 src="abbey.jpeg" alt="" style="width: 400px; "></a>
@@ -34,10 +31,7 @@ src="abbey.jpeg" alt="" style="width: 400px; "></a>
   <figcaption>Abbey holding up a biological soil crust sample
 </figcaption>
 </figure>
-
-On the last day of fieldwork, the desert team joined forces with local Bishop Bryologist [**Ben Carter**](https://scholar.google.com/citations?hl=en&user=lizqMmEAAAAJ&view_op=list_works&sortby=pubdate)to look for some final samples among the Joshua Tree lined roads outside of Big Pine, CA. The crew took in the beautiful scenery while collecting some bonus samples. Thank you Ben for offering your expertise to our group!
-
-
+On the last day of fieldwork, the desert team joined forces with local Bishop Bryologist [**Ben Carter**](https://scholar.google.com/citations?hl=en&user=lizqMmEAAAAJ&view_op=list_works&sortby=pubdate) to look for some final samples among the Joshua Tree lined roads outside of Big Pine, CA. The crew took in the beautiful scenery while collecting some bonus samples. Thank you Ben for offering your expertise to our group!
 <figure>
 <a href="02ben.jpeg/"><img
 src="02ben.jpeg" alt="" style="width: 400px; "></a>
@@ -45,7 +39,6 @@ src="02ben.jpeg" alt="" style="width: 400px; "></a>
   <figcaption>Kanika, Paris, Abbey and Ben Carter in Big Pine, CA after collecting samples.
 </figcaption>
 </figure>
-
 <figure>
 <a href="mountain.jpeg/"><img
 src="mountain.jpeg" alt="" style="width: 400px; "></a>
@@ -53,9 +46,7 @@ src="mountain.jpeg" alt="" style="width: 400px; "></a>
   <figcaption>Taking in the view as the desert team drives towards the Sierra Nevada Mountains.
 </figcaption>
 </figure>
-
 <br>
-
 We documented all plants we saw with iNaturalist. Check out our field trip iNat project!
 <style type="text/css" media="screen">
 .inat-widget { font-family: Georgia, serif; padding: 10px; line-height: 1;}
@@ -86,7 +77,7 @@ We documented all plants we saw with iNaturalist. Check out our field trip iNat 
          <br>
     <tr class="inat-user">
         <td class="inat-user-image">
-          <a border="0" href="https://www.inaturalist.org/observations/jennaekwealor"><img class="usericon" src="https://static.inaturalist.org/projects/171005-icon-span2.jpg?1687368599" /></a>
+          <a border="0" href="https://inaturalist-open-data.s3.amazonaws.com/photos/611014570/large.jpg"><img class="usericon" src="https://inaturalist-open-data.s3.amazonaws.com/photos/611008826/large.jpg" /></a>
         </td>
       <td class="inat-value">
         <strong>
