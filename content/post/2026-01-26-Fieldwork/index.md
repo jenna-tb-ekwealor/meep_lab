@@ -4,7 +4,7 @@ summary: "First desert trip of the season!"
 authors:
   - "AbbeySchedler"
 date: 2026-01-27T18:15:21-07:00
-
+---
 Four members of the MEEP lab took a trip to the Great Basin Desert just outside Bishop, CA to get moss samples for the deserts project. This project spans field sites acros the Great Basin, Mojave and Sonoran Deserts; stay tuned for our upcoming field trips!
  
 gallery_item:
@@ -35,7 +35,7 @@ gallery_item:
 - album: 2026updates
   image: mountain.jpeg
   caption: Taking in the view as the desert team drives towards the Sierra Nevada Mountains.
----
+
 <br>
 
 We documented all plants we saw with iNaturalist. Check out our field trip iNat project!
