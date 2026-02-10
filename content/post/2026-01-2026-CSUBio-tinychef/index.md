@@ -44,7 +44,7 @@ The MEEP lab was invited to attend the "Tiny Nightlife" event at the California 
 
 <figure>
 <a href="03tinychef.jpg/"><img
-src="03tinychef.jpg.jpeg" alt="" style="width: 400px; "></a>
+src="03tinychef.jpg" alt="" style="width: 400px; "></a>
   <img src="" width="600">
   <figcaption>Joshua, Frey and Katrina representing the herbarium table!
 </figcaption>
