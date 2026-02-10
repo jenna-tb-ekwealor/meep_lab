@@ -5,7 +5,7 @@ authors:
   - "AbbeySchedler"
 date: 2026-01-27T18:15:21-07:00
 ---
-Four members of the MEEP lab took a trip to the Great Basin Desert just outside Bishop, CA to get moss samples for the deserts project. This project spans field sites acros the Great Basin, Mojave and Sonoran Deserts; stay tuned for our upcoming field trips!
+Four members of the MEEP lab took a trip to the Great Basin Desert just outside Bishop, CA to get moss samples for the deserts project. This project spans field sites across the Great Basin, Mojave and Sonoran Deserts; stay tuned for our upcoming field trips!
   
 <figure>
 <a href="04field.JPG/"><img
@@ -15,7 +15,7 @@ src="04field.JPG" alt="" style="width: 400px; "></a>
 </figcaption>
 </figure>
 
-The deserts team (Abbey, Jenna, Kanika and Paris) was hosted by the incredible folks at [**Deep Springs College**](https://www.deepsprings.edu/mission/). Thank you to president Andrew Zink for the hospitality! They were able to sample at three locations within the Great Basin Desert including just outside the Deep Springs Campus. 
+The desert project team (Abbey, Jenna, Kanika and Paris) was hosted by the incredible folks at [**Deep Springs College**](https://www.deepsprings.edu/mission/). Thank you to president Andrew Zink for the hospitality! They were able to sample at three locations within the Great Basin Desert including just outside the Deep Springs Campus. 
 
 
 The samples collected from this trip contribute to the larger deserts project, where the deserts team will be investigating physiological processes of mosses in desert ecosystems across an environmental gradient. Abbey is adding a microbiome component to the project by investigating the microbial communities in desert biological soil crusts (BSCs). See below for some fieldwork photos!
