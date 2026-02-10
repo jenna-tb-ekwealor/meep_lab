@@ -21,14 +21,6 @@ src="CSU_biotech.jpg" alt="" style="width: 400px; "></a>
 The lab took home multiple wins at CSU Biotech, including -
   Raffle winner Nio Gonzalez completed the tabling passport - networking champion!
   Abbey and Katrina's poster won the Best Graphic Design Poster Award!
-  
-  <figure>
-<a href="CSU_biotech.jpg/"><img
-src="CSU_biotech.jpg" alt="" style="width: 400px; "></a>
-  <img src="" width="600">
-  <figcaption>The MEEP lab at the CSU Biotech Conference in Sacramento, CA.
-</figcaption>
-</figure>
 
 <figure>
 <a href="Nio_Kat.jpg/"><img
