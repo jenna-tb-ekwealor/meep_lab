@@ -5,6 +5,14 @@ authors:
   - "AbbeySchedler"
 date: 2026-01-27T18:15:21-07:00
 ---
+<figure>
+<a href="syntrichia.jpg/"><img
+src="syntrichia.jpg" alt="" style="width: 400px; "></a>
+  <img src="" width="600">
+  <figcaption>*Syntrichia caninervis* from Deep Springs College
+</figcaption>
+</figure>
+
 Four members of the MEEP lab took a trip to the Great Basin Desert just outside Bishop, CA to get moss samples for the deserts project. This project spans field sites across the Great Basin, Mojave and Sonoran Deserts; stay tuned for our upcoming field trips!
   
 <figure>
