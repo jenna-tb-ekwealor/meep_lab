@@ -25,6 +25,11 @@ highlight_name: false
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
   - Post-Baccalaureate Researchers 
+  
+social:
+  - icon: envelope
+    icon_pack: fas
+    link: 'mailto:aschedler@sfsu.edu'
 ---
 
 Hey y’all! I’m Abbey and I’m a post-bac scholar in the MEEP lab as part of the Bay Area RaMP for Microbiome Sciences at UC Berkeley. 
