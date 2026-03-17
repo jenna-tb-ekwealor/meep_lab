@@ -6,7 +6,7 @@ authors:
 - Ariana Besik
 - Nurulain Ibrahim
 - Ingo Ensminger
-- Sa{\v{s}}a Stefanovi{\'c}
+- Saša Stefanović
 
 date: "2025-04-06T00:00:00Z"
 doi: "https://doi.org/10.1093/aob/mcaf145"
@@ -68,6 +68,5 @@ projects: []
 #   Otherwise, set `slides: ""`.
 #slides: example
 ---
-
 
 
