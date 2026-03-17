@@ -6,6 +6,8 @@ authors:
 date: 2026-03-13T18:15:21-07:00
 ---
 Five members of the MEEP lab took a trip to the Mojave and Colorado (Sonoran) Deserts to collect moss samples for the deserts project. This project spans field sites across the Great Basin, Mojave and Sonoran Deserts; stay tuned for updates on the research!
+
+**See the bottom of this post for our iNaturalist project; help us out with identifying!**
   
 This fieldwork supports the masters theses of Paris Hendershot and Kanika Kolpe, and the final project of post-bacc reseracher Abbey Schedler. Paris and Kanika are investigating physiological responses of *Syntrichia* mosses in extreme environments, read more about their projects [**here!**](https://meep-lab.com/project/physio/) Abbey is researching the microbiome of desert biocrusts, learn more [**here!**](https://meep-lab.com/project/microbio/)
 
@@ -25,7 +27,7 @@ Grad students Paris Hendershot and Kanika Kolpe both enjoyed surveying an impres
 <a href="kmoss.JPG/"><img
 src="kmoss.JPG" alt="" style="width: 400px; "></a>
   <img src="" width="600">
-  <figcaption> Kanika K - " This is a photo of moss on a boulder. This type of moss which could be *Syntrichia*, does not grow on rocks; they grow on soil. While it is not apparent on this picture, there is a very thin patch of soil on this rock in which the moss is growing on. A *Syntrichia* spore could have landed on this small patch of soil and started growing. I find it fascinating that moss can thrive under such unusual circumstances that most plants would not be able to. My research is about how moss adapts to its environment and thrives. The ability to thrive on a thin patch of soil on a boulder in the middle of a desert is simply remarkable. I cannot wait to do more research on these moss and figure out exactly how they are able to survive in the deserts of California. "
+  <figcaption> Kanika K - 'This is a photo of moss on a boulder. This type of moss which could be *Syntrichia*, does not grow on rocks; they grow on soil. While it is not apparent on this picture, there is a very thin patch of soil on this rock in which the moss is growing on. A *Syntrichia* spore could have landed on this small patch of soil and started growing. I find it fascinating that moss can thrive under such unusual circumstances that most plants would not be able to. My research is about how moss adapts to its environment and thrives. The ability to thrive on a thin patch of soil on a boulder in the middle of a desert is simply remarkable. I cannot wait to do more research on these moss and figure out exactly how they are able to survive in the deserts of California.'
 </figcaption>
 </figure>
 
@@ -44,6 +46,16 @@ Abbey and MEEP undergrad Nio Gonzalez rode the ultimate moss high when coming ac
 src="climb.jpeg" alt="" style="width: 400px; "></a>
   <img src="" width="600">
   <figcaption>Abbey and Nio scaling the side of this gorgeous moss wall. Abbey - "The element of verticality is not blatantly obvious from this photo, but the risk justified the reward to become one with the moss in this moment."
+</figcaption>
+</figure>
+<figure>
+
+Nio had a particular power for finding *Syntrichia* in unassuming places, see one example below!
+<figure>
+<a href="niomoss.jpg/"><img
+src="niomoss.jpg" alt="" style="width: 400px; "></a>
+  <img src="" width="600">
+  <figcaption> Nio sampling target species *Syntrichia ruralis* with the team. Nio - "There is something really special about noticing the little things in a place as vast as the desert."
 </figcaption>
 </figure>
 <figure>
