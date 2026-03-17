@@ -1,5 +1,5 @@
 ---
-title: "To dry perchance to live: insights from the genome of the desiccation-tolerant biocrust moss 𝙎𝙮𝙣𝙩𝙧𝙞𝙘𝙝𝙞𝙖 𝙘𝙖𝙣𝙞𝙣𝙚𝙧𝙫𝙞𝙨"
+title: "To dry perchance to live: insights from the genome of the desiccation-tolerant biocrust moss Syntrichia caninervis"
 authors:
 - Anderson T. Silva
 - Bei Gao
@@ -29,7 +29,7 @@ publication_types: ["2"]
 publication: "*The Plant Journal*"
 publication_short: ""
 
-abstract: 'With global climate change, water scarcity threatens whole agro/ecosystems. The desert moss Syntrichia caninervis, an extremophile, offers novel insights into surviving desiccation and heat. The sequenced Syntrichia caninervis genome consists of 13 chromosomes containing 16,545 protein-coding genes and 2,666 unplaced scaffolds. Syntenic relationships within the S. caninervis and Physcomitrella patens genomes indicate the S. caninervis genome has undergone a single whole genome duplication event (compared to two for P. patens) and evidence suggests chromosomal or segmental losses in the evolutionary history of S. caninervis. The genome contains a large sex chromosome composed primarily of repetitive sequences with a large number of Copia and Gypsy elements. Orthogroup analyses revealed an expansion of ELIP genes encoding proteins important in photoprotection. The transcriptomic response to desiccation identified four structural clusters of novel genes. The genomic resources established for this extremophile offer a new perspectives for understanding the evolution of desiccation tolerance in plants.'
+abstract: 'With global climate change, water scarcity threatens whole agro/ecosystems. The desert moss <i>Syntrichia caninervis</i>, an extremophile, offers novel insights into surviving desiccation and heat. The sequenced <i>Syntrichia caninervis</i> genome consists of 13 chromosomes containing 16,545 protein-coding genes and 2,666 unplaced scaffolds. Syntenic relationships within the <i>S. caninervis</i> and <i>Physcomitrella patens</i> genomes indicate the <i>S. caninervis</i> genome has undergone a single whole genome duplication event (compared to two for <i>P. patens</i>) and evidence suggests chromosomal or segmental losses in the evolutionary history of <i>S. caninervis</i>. The genome contains a large sex chromosome composed primarily of repetitive sequences with a large number of Copia and Gypsy elements. Orthogroup analyses revealed an expansion of ELIP genes encoding proteins important in photoprotection. The transcriptomic response to desiccation identified four structural clusters of novel genes. The genomic resources established for this extremophile offer a new perspective for understanding the evolution of desiccation tolerance in plants.'
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
@@ -68,4 +68,3 @@ projects: []
 #   Otherwise, set `slides: ""`.
 #slides: example
 ---
-
