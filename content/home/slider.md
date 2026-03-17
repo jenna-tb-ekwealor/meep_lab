@@ -25,7 +25,7 @@ content:
         media: lava.jpg
 
     - title: New publication!
-      content: 'The desert moss *Syntrichia caninervis* can revive even after 17 years of desiccation. Exposure to moderate humidity improves survival and speeds regeneration.'
+      content: 'Growth–defence trade-off defines a diffusion limit. A commentary on ‘Boundary-line trade-off in bryophytes between UV photoprotection and photosynthetic capacity, but not desiccation tolerance’'
       align: right
       background:
         position: center
@@ -34,22 +34,8 @@ content:
         media: cani.png
       link:
         text: Read more
-        url: ../publication/2025_bryologist_prehy/
-    - title: Welcome new lab members!
-      content: '5 new graduate students and 1 post-bac researcher joining Fall 2025!'
-      align: left
-      background:
-        position: right
-        color: '#555'
-        brightness: 0.7
-        media: fieldwork_crop.jpg
-      link:
-        text: See lab members
-        url: ../people/        
----
-
-
-<!-- 
+        url: ../publication/2026_aob_growthdefense/
+        
     - title: MEEP Lab
       content: 'Current and past members'
       align: left
@@ -60,5 +46,20 @@ content:
         media: cani.png or canespring.JPG
       link:
         text: Who we are
-        url: ../people/
+        url: ../people/      
+---
+
+
+<!-- 
+    - title: Welcome new lab members!
+      content: '5 new graduate students and 1 post-bac researcher joining Fall 2025!'
+      align: left
+      background:
+        position: right
+        color: '#555'
+        brightness: 0.7
+        media: fieldwork_crop.jpg
+      link:
+        text: See lab members
+        url: ../people/  
  -->
