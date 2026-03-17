@@ -1,5 +1,5 @@
 ---
-title: "Multiple factors influence population sex ratios in the Mojave Desert moss 𝙎𝙮𝙣𝙩𝙧𝙞𝙘𝙝𝙞𝙖 𝙘𝙖𝙣𝙞𝙣𝙚𝙧𝙫𝙞𝙨"
+title: "Multiple factors influence population sex ratios in the Mojave Desert moss Syntrichia caninervis"
 authors:
 - admin
 - Adam Payton
@@ -22,7 +22,7 @@ publication_types: ["2"]
 publication: "*American Journal of Botany, 104*(5)"
 publication_short: ""
 
-abstract: 'PREMISE OF RESEARCH: Natural populations of many mosses appear highly female-biased based on the presence of reproductive structures. This bias could be caused by increased male mortality, lower male growth rate, or a higher threshold for achieving sexual maturity in males. Here we test these hypotheses using samples from two populations of the Mojave Desert moss Syntrichia caninervis. METHODS: We used double-digest restriction-site associated DNA (RAD) sequencing to identify candidate sex-associated loci in a panel of sex-expressing plants. Next, we used putative sex-associated markers to identify the sex of individuals without sex structures. KEY RESULTS: We found a 17:1 patch-level phenotypic female to male sex ratio in the higher elevation site (Wrightwood) and no sex expression at the low elevation site (Phelan). In contrast, on the basis of genetic data, we found a 2:1 female bias at the Wrightwood site and only females at the Phelan site. The relative area occupied by male and female genets was indistinguishable, but males were less genetically diverse. CONCLUSIONS: Our data suggest that both male-biased mortality and sexual dimorphism in thresholds for sex expression could explain genetic and phenotypic sex ratio biases and that phenotypic sex expression alone over-estimates the extent of actual sex ratio bias present in these two populations of S. caninervis.'
+abstract: '<i>Premise of research:</i> Natural populations of many mosses appear highly female-biased based on the presence of reproductive structures. This bias could be caused by increased male mortality, lower male growth rate, or a higher threshold for achieving sexual maturity in males. Here we test these hypotheses using samples from two populations of the Mojave Desert moss <i>Syntrichia caninervis</i>.<br><br><i>Methods:</i> We used double-digest restriction-site associated DNA (RAD) sequencing to identify candidate sex-associated loci in a panel of sex-expressing plants. Next, we used putative sex-associated markers to identify the sex of individuals without sex structures.<br><br><i>Key results:</i> We found a 17:1 patch-level phenotypic female to male sex ratio in the higher elevation site (Wrightwood) and no sex expression at the low elevation site (Phelan). In contrast, on the basis of genetic data, we found a 2:1 female bias at the Wrightwood site and only females at the Phelan site. The relative area occupied by male and female genets was indistinguishable, but males were less genetically diverse.<br><br><i>Conclusions:</i> Our data suggest that both male-biased mortality and sexual dimorphism in thresholds for sex expression could explain genetic and phenotypic sex ratio biases and that phenotypic sex expression alone over-estimates the extent of actual sex ratio bias present in these two populations of <i>S. caninervis</i>.'
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
@@ -61,4 +61,3 @@ projects: []
 #   Otherwise, set `slides: ""`.
 #slides: example
 ---
-
