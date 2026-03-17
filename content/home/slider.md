@@ -43,7 +43,7 @@ content:
         position: left
         color: '#555'
         brightness: 0.7
-        media: cani.png or canespring.JPG
+        media: canespring.JPG
       link:
         text: Who we are
         url: ../people/      
