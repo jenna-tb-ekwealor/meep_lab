@@ -1,10 +1,8 @@
 ---
 title: "Photosynthetic activity in the heterotrophic plant genus Cuscuta (Convolvulaceae) is modulated by phylogeny and ontogeny"
 authors:
-- Rose A. Marks
-- admin
 - Adam C. Schneider
-- Jenna T. B. Ekwealor
+- admin
 - Ariana Besik
 - Nurulain Ibrahim
 - Ingo Ensminger
