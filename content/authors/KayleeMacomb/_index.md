@@ -27,6 +27,11 @@ highlight_name: false
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
   - Undergraduate Researchers
+  
+social:
+  - icon: envelope
+    icon_pack: fas
+    link: 'mailto:kmacomb@sfsu.edu'
 ---
 
 Hi my name is Kaylee and I am a fourth year studying Biology with a concentration in Ecology. 

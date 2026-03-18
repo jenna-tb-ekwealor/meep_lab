@@ -33,6 +33,11 @@ highlight_name: false
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
   - Graduate Students
+  
+social:
+  - icon: envelope
+    icon_pack: fas
+    link: 'mailto:kanikakolpe@gmail.com'
 ---
 
 Hey y’all, I’m Kanika K. and I’m a masters student majoring in Biology with a concentration in Molecular and Cellular Biology. 
