@@ -27,7 +27,7 @@ Grad students Paris Hendershot and Kanika Kolpe both enjoyed surveying an impres
 <a href="kmoss.JPG/"><img
 src="kmoss.JPG" alt="" style="width: 400px; "></a>
   <img src="" width="600">
-  <figcaption> Kanika K - 'This is a photo of moss on a boulder. This type of moss which could be *Syntrichia*, does not grow on rocks; they grow on soil. While it is not apparent on this picture, there is a very thin patch of soil on this rock in which the moss is growing on. A *Syntrichia* spore could have landed on this small patch of soil and started growing. I find it fascinating that moss can thrive under such unusual circumstances that most plants would not be able to. My research is about how moss adapts to its environment and thrives. The ability to thrive on a thin patch of soil on a boulder in the middle of a desert is simply remarkable. I cannot wait to do more research on these moss and figure out exactly how they are able to survive in the deserts of California.'
+  <figcaption> Kanika K - 'This is a photo of moss on a boulder. This type of moss which could be <i>Syntrichia</i>, does not grow on rocks; they grow on soil. While it is not apparent on this picture, there is a very thin patch of soil on this rock in which the moss is growing on. A <i>Syntrichia</i> spore could have landed on this small patch of soil and started growing. I find it fascinating that moss can thrive under such unusual circumstances that most plants would not be able to. My research is about how moss adapts to its environment and thrives. The ability to thrive on a thin patch of soil on a boulder in the middle of a desert is simply remarkable. I cannot wait to do more research on these moss and figure out exactly how they are able to survive in the deserts of California.'
 </figcaption>
 </figure>
 
@@ -55,7 +55,7 @@ Nio had a particular power for finding *Syntrichia* in unassuming places, see on
 <a href="niomoss.jpg/"><img
 src="niomoss.jpg" alt="" style="width: 400px; "></a>
   <img src="" width="600">
-  <figcaption> Nio sampling target species *Syntrichia ruralis* with the team. Nio - "There is something really special about noticing the little things in a place as vast as the desert."
+  <figcaption> Nio sampling target species <i>Syntrichia ruralis</i> with the team. Nio - "There is something really special about noticing the little things in a place as vast as the desert."
 </figcaption>
 </figure>
 <figure>
