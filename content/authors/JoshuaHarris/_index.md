@@ -29,6 +29,11 @@ highlight_name: false
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
   - Graduate Students
+
+social:
+  - icon: envelope
+    icon_pack: fas
+    link: 'mailto:jjharris19@yahoo.com'
 ---
 
 Salutations from the biocrust biome! My name is Joshua and I'm a first-year graduate student in the MEEP Lab. I was born and raised in the Bay Area where I earned my B.S. in Physiology at San Francisco State University. My interests wander widely across biology, with a particular love for the physiologies of animals, plants, and fungi, and the conservation of the environments they shape. My current research focuses on the ecological dynamics of Coccidioides within biocrust microhabitats, integrating perspectives from animal, plant, and fungal biology to better understand the environmental conditions that support these Valley Fever-causing spores. When I'm not in the lab, you'll probably find me digging through long boxes at a local comic book store, exploring new restaurants, or out chasing fresh air and good views!
