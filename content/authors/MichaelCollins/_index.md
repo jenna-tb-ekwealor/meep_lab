@@ -24,6 +24,11 @@ highlight_name: false
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
   - Graduate Students
+
+social:
+  - icon: envelope
+    icon_pack: fas
+    link: 'mailto:mcollins12@sfsu.edu'
 ---
 
 Hey! I’m a Cell and Molecular Biology master’s student. I did my undergrad at UC Santa Cruz, receiving a B.S. in  Bioinformatics with a minor in Applied Math. I’m interested in how statistical analysis can be applied to genomic data to better understand biological functions. In my free time I enjoy hiking, swimming and playing guitar.
