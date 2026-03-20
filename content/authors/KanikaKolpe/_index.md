@@ -22,7 +22,7 @@ interests:
 
 education:
   courses:
-    - course: BS in Forensic Science, Concentration in Biology, Minor in Chemistry
+  -  course: BS in Forensic Science, Concentration in Biology, Minor in Chemistry
       institution: San Jose State University
       year: 2025
   
@@ -34,7 +34,7 @@ highlight_name: false
 user_groups:
   - Graduate Students
 
-  social:
+social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:kanikakolpe@gmail.com'
