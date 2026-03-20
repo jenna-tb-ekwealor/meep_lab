@@ -22,7 +22,7 @@ interests:
   
 education:
   courses:
-    - course: BS in Biology
+  -  course: BS in Biology
       institution: University of California, Santa Cruz
       year: 2025
   
@@ -34,7 +34,7 @@ highlight_name: false
 user_groups:
   - Graduate Students
   
-  social:
+social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:phendershot@sfsu.edu'
