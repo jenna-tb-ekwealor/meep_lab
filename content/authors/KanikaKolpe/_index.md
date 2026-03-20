@@ -34,7 +34,7 @@ highlight_name: false
 user_groups:
   - Graduate Students
   
-social:
+  social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:kanikakolpe@gmail.com'
