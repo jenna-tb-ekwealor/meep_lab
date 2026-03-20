@@ -22,7 +22,7 @@ interests:
 
 education:
   courses:
-  -  course: BS in Forensic Science, Concentration in Biology, Minor in Chemistry
+    - course: BS in Forensic Science, Concentration in Biology, Minor in Chemistry
       institution: San Jose State University
       year: 2025
   

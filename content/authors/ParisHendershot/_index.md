@@ -22,7 +22,7 @@ interests:
   
 education:
   courses:
-  -  course: BS in Biology
+    - course: BS in Biology
       institution: University of California, Santa Cruz
       year: 2025
   
