@@ -11,10 +11,10 @@ MEEP Lab alumnus, [**Katrina McCollough**](https://meep-lab.com/author/katrina-m
 [**Read about Kat on the CSU East Bay announcement page;**](https://www.csueastbay.edu/news-center/2025/09/from-illustrator-to-ecologist-katrina-mccollough-named-2025-csu-trustee-scholar.html) this fantastic write-up details Kat's journey as an ecologist and mycology icon.
 
 <figure>
-<a href="featured.jpg/"><img
-src="featured.jpg" alt="" style="width: 400px; "></a>
+<a href="Kat.jpg/"><img
+src="Kat.jpg" alt="" style="width: 400px; "></a>
   <img src="" width="600">
-  <figcaption>
+  <figcaption> Kat on San Bruno Mountain; fieldwork for her project on epiphytic lichens, Summer 2025.
 </figcaption>
 </figure>
 
