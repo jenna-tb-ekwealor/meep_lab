@@ -25,7 +25,7 @@ We hiked in Mission Trails Regional Park to look for mosses, hornworts and liver
 <a href="liverwort.jpg/"><img
 src="liverwort.jpg" alt="" style="width: 400px; "></a>
   <img src="" width="600">
-  <figcaption> This is a liverwort, possibly<a href="https://www.inaturalist.org/taxa/1612368-Calasterella-
+  <figcaption> This is a liverwort, possibly <a href="https://www.inaturalist.org/taxa/1612368-Calasterella-
   californica"><i>Calasterella californica</i></a>, captured by Michael C. 
 </figcaption>
 </figure>
@@ -34,7 +34,7 @@ src="liverwort.jpg" alt="" style="width: 400px; "></a>
 <a href="IMG_7212.JPG/"><img
 src="IMG_7212.JPG" alt="" style="width: 400px; "></a>
   <img src="" width="600">
-  <figcaption> When stopped by a stream along the trail, this glowing beacon of hydrated [Bryaceae](https://www.inaturalist.org/taxa/67866-Bryaceae) moss caught our eye! Photo: Abbey S.
+  <figcaption> When stopped by a stream along the trail, this glowing beacon of hydrated  <a href="https://www.inaturalist.org/taxa/67866-Bryaceae">Bryaceae</a> moss caught our eye! Photo: Abbey S.
 </figcaption>
 </figure>
 
