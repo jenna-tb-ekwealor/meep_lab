@@ -25,7 +25,7 @@ We hiked in Mission Trails Regional Park to look for mosses, hornworts and liver
 <a href="liverwort.jpg/"><img
 src="liverwort.jpg" alt="" style="width: 400px; "></a>
   <img src="" width="600">
-  <figcaption> This is a liverwort, possibly [<i>Calasterella californica<i>](https://www.inaturalist.org/taxa/1612368-Calasterella-californica). Photo: Michael C. 
+  <figcaption> This is a liverwort, possibly [*Calasterella californica*](https://www.inaturalist.org/taxa/1612368-Calasterella-californica), captured by Michael C. 
 </figcaption>
 </figure>
 
