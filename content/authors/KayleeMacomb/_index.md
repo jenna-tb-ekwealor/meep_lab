@@ -34,7 +34,4 @@ social:
     link: 'mailto:kmacomb@sfsu.edu'
 ---
 
-Hi my name is Kaylee and I am a fourth year studying Biology with a concentration in Ecology. 
-I am from San Mateo here in the Bay Area. 
-I am a current URISE scholar and participated in the PINC summer program in the MEEP lab as well! 
-My project/research interests include public, environmental, and community health, data analysis, and bioinformatics.
+Hi my name is Kaylee and I am a graduate student in the MEEP lab! I am pursuing my master of science in biology with a concentration in integrative biology. I am a Bay Area native and completed my undergrad at SFSU as well, with a degree in ecology, evolution, and conservation biology. I am interested in plant genetics and genomes and am more broadly interested in evolutionary biology, bioinformatics, agriculture, public health, and plant diseases. My current research focuses on the evolution of cosexuality in the moss, Syntrichia princeps. Outside of the lab I enjoy thrifting, weightlifting, hiking, and baking!
