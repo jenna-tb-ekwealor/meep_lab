@@ -1,6 +1,4 @@
 ---
-date: "2019-01-01T00:00:00Z"
-summary: Values
-title: "Lab Values"
+# Files in this folder represent a Widget Page
 type: widget_page
 ---
