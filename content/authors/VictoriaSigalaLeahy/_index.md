@@ -2,7 +2,7 @@
 # Files in this folder represent a Widget Page
 
 # Display name
-title: Victora Leahy
+title: Victora Sigala Leahy
 
 # Username (this should match the folder name)
 authors:
