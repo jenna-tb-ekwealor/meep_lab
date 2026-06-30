@@ -6,7 +6,7 @@ title: Victora Leahy
 
 # Username (this should match the folder name)
 authors:
-  - VictoriaLeahy
+  - VictoriaSigalaLeahy
 
 # Is this the primary user of the site?
 superuser: false
