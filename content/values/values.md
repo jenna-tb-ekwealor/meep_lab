@@ -21,10 +21,10 @@ advanced:
   css_class: fullscreen
 ---
 
-
 ##  Our Core Values: Community, Collaboration, and Curiosity
 <br>
 *Community*
+<br>
 The MEEP Lab places a high value on community, where diverse voices are
 supported, heard, and valued. We aim to foster an environment where everyone feels a sense
 of belonging and support, and we are committed to creating a safe space where all lab
@@ -33,6 +33,7 @@ inclusive atmosphere, we not only strengthen our scientific endeavors but also b
 supportive network that extends beyond your time in this lab.
 
 *Collaboration*
+<br>
 Collaboration is at the heart of our scientific efforts. We believe that working
 together, sharing diverse perspectives, and pooling our expertise leads to greater innovation
 and discovery. Our lab culture believes in teamwork, open communication, and mutual respect,
@@ -40,6 +41,7 @@ and we strive to ensure that all contributions are valued and recognized. Throug
 efforts, we aim to tackle challenges and achieve our research goals more effectively.
 
 *Curiosity*
+<br>
 Wisdom begins with wonder.” Curiosity drives our passion for science and fuels our
 intellectual engagement. We embrace a growth mindset, encouraging continuous learning, self-
 reflection, and the pursuit of excellence. In our lab, curiosity is not just about seeking answers
