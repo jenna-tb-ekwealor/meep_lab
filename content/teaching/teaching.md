@@ -29,27 +29,27 @@ date_format = "2006"
   organization = "San Francisco State University, Department of Biology"
   date_start = 2024-08-26
   date_end = '2025-12-19'
-  description = "Fundamentals of ecology through the study of plants, particularly in the Bay Area."
+  description = "Principles of ecology through plants and plant associations, with emphasis on biotic–environmental relationships, ecological organization, California plant communities, and writing-intensive work in biology."
 
 [[item]]
   title = "BIOL 716 Skills for Scientific Proposal Writing"
   organization = "San Francisco State University, Department of Biology"
   date_start = 2024-01-27
   date_end = ''
-  description = "Development of technical writing skills through the process of writing and editing research proposals based on the students' own research projects."
+  description = "Development of scientific writing skills through drafting, revising, and editing research proposals based on students' own research projects."  
   
 [[item]]
   title = "BIOL 710 Advanced Biometry"
   organization = "San Francisco State University, Department of Biology"
   date_start = 2024-01-27
   date_end = '2025-05-27'
-  description = "A survey of biological statistical data analysis in R. [Link to syllabus](https://docs.google.com/document/d/1zW0qRF2vLT8w3NySu4IhFjDORPfYNfKl/edit?usp=sharing&ouid=108780207838976627617&rtpof=true&sd=truew)"
+  description = "Biological data analysis in R, emphasizing statistical reasoning, data visualization, reproducible workflows, and independent research applications. [Link to syllabus](https://docs.google.com/document/d/1zW0qRF2vLT8w3NySu4IhFjDORPfYNfKl/edit?usp=sharing&ouid=108780207838976627617&rtpof=true&sd=truew)"
 
 [[item]]
   title = "Natural History of the Bay Area: Bryophytes"
   organization = "Merritt College, Peralta Community College District"
   date_start = 2020-10-27
   date_end = ''
-  description = "[Link to syllabus](https://drive.google.com/file/d/1A7dGYxRTLuyIe_QOVuEY-WOFt1iH87-N/view)"
+  description = "Natural history of Bay Area bryophytes, with emphasis on mosses, liverworts, and hornworts, including their evolution, biology, ecology, field observation, and identification. [Link to syllabus](https://drive.google.com/file/d/1A7dGYxRTLuyIe_QOVuEY-WOFt1iH87-N/view)"
 
 +++
