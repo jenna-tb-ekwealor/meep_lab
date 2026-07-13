@@ -18,6 +18,13 @@ date_format = "2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
+  title = "BIOL 529 Plants, People, & Planet"
+  organization = "San Francisco State University, Department of Biology"
+  date_start = 2026-08-26
+  date_end = '2026-12-19'
+  description = "A hands-on plant ecology course focused on Bay Area plant communities, human–environment relationships, Indigenous land stewardship, climate change, agriculture, and environmental justice."
+
+[[item]]
   title = "BIOL 529 GWAR Plant Ecology"
   organization = "San Francisco State University, Department of Biology"
   date_start = 2024-08-26
