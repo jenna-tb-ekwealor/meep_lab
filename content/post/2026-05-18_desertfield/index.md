@@ -5,7 +5,7 @@ authors:
   - "AbbeySchedler"
 date: 2026-06-13T18:15:21-07:00
 ---
-The deserts team (Abbey, Nio and Paris), visited the Great Basin desert to collect more samples for the ongoing project investigating *Syntrichia*  moss. It was a quick yet effective trip jam-packed with findings, see the bottom of this post for our iNaturalist project!
+The deserts team (Abbey, Nio and Paris), visited the Great Basin desert to collect more samples for the ongoing project investigating *Syntrichia*  moss. It was a quick yet effective trip jam-packed with findings!
 
 **See the bottom of this post for our iNaturalist project; help us out with identifying!**
   
@@ -48,15 +48,6 @@ src="horsey.jpg" alt="" style="width: 400px; "></a>
 src="abbeydrive.jpeg" alt="" style="width: 400px; "></a>
   <img src="" width="600">
   <figcaption> The team taking in the beautiful view driving to Death Valley, CA.
-</figcaption>
-</figure>
-<figure>
-
-<figure>
-<a href="josh.JPG/"><img
-src="josh.JPG alt="" style="width: 400px; "></a>
-  <img src="" width="600">
-  <figcaption> Our collection site in Death Valley, CA. Greeted by an abundance of Joshua trees, we collected moss and biocrust samples and made a quick escape as it was reaching 105F that day!
 </figcaption>
 </figure>
 <figure>
