@@ -21,8 +21,8 @@ src="desert.JPG" alt="" style="width: 400px; "></a>
 
 Our first stop was Deep Springs College, where we were once again hosted by the wonderful students and president Andrew Zink. Bright and early we found an abundance of our target genus Syntrichia and we were surrounded by beautiful soil crusts. Read below to hear from Paris about her favorite sights and experiences from the trip!
 
-**Paris:**
-In June, we had the privilege of spending a weekend in the Great Basin Desert. We stayed at a cute Airbnb in the town of Bishop, about an hour drive away from our collection site. Early Saturday morning, we started looking for moss at Deep Springs College. We hit the jackpot this trip! It was astonishing how much moss was around in this biocrust soil compared to other sites we had previously visited. Additionally, the lichen was stunning with extremely vibrant colors. Before we knew it, we had collected all the samples we needed from this site and were about to leave when we got to see the horses! We got out of our car just to stop and see them before heading back to Bishop. It was a great trip overall!
+From Paris - 
+"In June, we had the privilege of spending a weekend in the Great Basin Desert. We stayed at a cute Airbnb in the town of Bishop, about an hour drive away from our collection site. Early Saturday morning, we started looking for moss at Deep Springs College. We hit the jackpot this trip! It was astonishing how much moss was around in this biocrust soil compared to other sites we had previously visited. Additionally, the lichen was stunning with extremely vibrant colors. Before we knew it, we had collected all the samples we needed from this site and were about to leave when we got to see the horses! We got out of our car just to stop and see them before heading back to Bishop. It was a great trip overall!"
 
 
 <figure>
