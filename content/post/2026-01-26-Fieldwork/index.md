@@ -1,5 +1,5 @@
 ---
-title: "Great Basin Desert Fieldwork"
+title: "Great Basin Desert Field Work"
 summary: "First desert trip of the season!"
 authors:
   - "AbbeySchedler"
