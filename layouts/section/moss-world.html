@@ -2,11 +2,13 @@
 
 {{ $paper := resources.Get "media/theme/paper_scraps_website_brown.png" }}
 {{ $icon := resources.Get (printf "media/%s" .Params.world_icon) }}
+{{ with $paper }}{{ $paper = .Resize "1400x webp q84" }}{{ end }}
+{{ with $icon }}{{ $icon = .Resize "360x webp q88" }}{{ end }}
 <div class="universal-wrapper pt-3">
   <div class="moss-world-paper-header">
-    {{ with $paper }}<img class="moss-world-paper" src="{{ .RelPermalink }}" alt="">{{ end }}
+    {{ with $paper }}<img class="moss-world-paper" src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" alt="" fetchpriority="high">{{ end }}
     <div class="moss-world-paper-content">
-      {{ with $icon }}<img class="moss-world-stamp" src="{{ .RelPermalink }}" alt="">{{ end }}
+      {{ with $icon }}<img class="moss-world-stamp" src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" alt="">{{ end }}
       <h1>{{ .Title }}</h1>
     </div>
   </div>

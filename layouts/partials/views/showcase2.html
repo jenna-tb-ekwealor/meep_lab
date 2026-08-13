@@ -56,12 +56,15 @@
       {{ $paper := resources.Get "media/theme/paper_tape.png" }}
       {{ $stamp := resources.Get (printf "media/theme/moss-worlds_%s.png" $stamp_name) }}
       {{ $polaroid := resources.Get (printf "media/theme/%s" (index $polaroids $world_key)) }}
+      {{ with $paper }}{{ $paper = .Resize "1200x webp q84" }}{{ end }}
+      {{ with $stamp }}{{ $stamp = .Resize "320x webp q88" }}{{ end }}
+      {{ with $polaroid }}{{ $polaroid = .Resize "1400x webp q84" }}{{ end }}
 
       {{if $do_link}}<a class="moss-world-collage moss-world-collage-{{$world_key}}" href="{{ $link }}" {{ $target | safeHTMLAttr }}>{{end}}
-        {{ with $paper }}<img class="moss-world-collage-paper" src="{{ .RelPermalink }}" alt="">{{ end }}
-        {{ with $stamp }}<img class="moss-world-collage-stamp" src="{{ .RelPermalink }}" alt="{{ $item.Title }} stamp">{{ end }}
+        {{ with $paper }}<img class="moss-world-collage-paper" src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" alt="" loading="{{ if eq $index 0 }}eager{{ else }}lazy{{ end }}"{{ if eq $index 0 }} fetchpriority="high"{{ end }}>{{ end }}
+        {{ with $stamp }}<img class="moss-world-collage-stamp" src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" alt="{{ $item.Title }} stamp" loading="{{ if eq $index 0 }}eager{{ else }}lazy{{ end }}">{{ end }}
         <div class="moss-world-polaroid-wrap">
-          {{ with $polaroid }}<img class="moss-world-collage-polaroid" src="{{ .RelPermalink }}" alt="">{{ end }}
+          {{ with $polaroid }}<img class="moss-world-collage-polaroid" src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" alt="" loading="{{ if eq $index 0 }}eager{{ else }}lazy{{ end }}"{{ if eq $index 0 }} fetchpriority="high"{{ end }}>{{ end }}
           <span>{{ $item.Title }}</span>
         </div>
       {{if $do_link}}</a>{{end}}

@@ -1,8 +1,21 @@
-<link rel="preload" as="image" href="/media/theme/moss-worlds-origins.png">
-<link rel="preload" as="image" href="/media/theme/moss-worlds-survival.png">
-<link rel="preload" as="image" href="/media/theme/moss-worlds-alliances.png">
-<link rel="preload" as="image" href="/media/theme/moss-worlds-impact.png">
+{{/* Warm optimized Research-page assets without blocking current-page rendering. */}}
+{{ $project_assets := slice
+  (dict "path" "media/theme/paper_tape.png" "resize" "1200x webp q84")
+  (dict "path" "media/theme/moss-worlds_origins.png" "resize" "320x webp q88")
+  (dict "path" "media/theme/moss-worlds_survival.png" "resize" "320x webp q88")
+  (dict "path" "media/theme/moss-worlds_alliances.png" "resize" "320x webp q88")
+  (dict "path" "media/theme/moss-worlds_impact.png" "resize" "320x webp q88")
+  (dict "path" "media/theme/polaroid_2shoots.png" "resize" "1400x webp q84")
+  (dict "path" "media/theme/polaroid_male.png" "resize" "1400x webp q84")
+  (dict "path" "media/theme/polaroid_dudleya.png" "resize" "1400x webp q84")
+  (dict "path" "media/theme/polaroid_dust.png" "resize" "1400x webp q84")
+}}
+{{ range $project_assets }}
+  {{ $resize := .resize }}
+  {{ with resources.Get .path }}
+    {{ $optimized := .Resize $resize }}
+    <link rel="prefetch" as="image" href="{{ $optimized.RelPermalink }}" type="image/webp">
+  {{ end }}
+{{ end }}
 
 <link rel="preload" as="image" href="/values/polaroid_group.png">
-<link rel="preload" as="image" href="/media/theme/moss-world-paper.png">
-<link rel="preload" as="image" href="/media/theme/moss-world-polaroid.png">
