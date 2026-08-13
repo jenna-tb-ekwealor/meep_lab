@@ -1,6 +1,9 @@
 ---
 title: "Field work in SW Utah"
 date: 2023-05-29T18:15:21-07:00
+toc: true
+share: true
+tags: [Field work]
 
 gallery_item:
 - album: utahalbum

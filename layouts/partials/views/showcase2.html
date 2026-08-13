@@ -23,27 +23,19 @@
 {{ end }}
 
 {{ $order := "" }}
-{{ if isset $widget "Params" }}
-  {{ if and ($widget.Params.design.flip_alt_rows | default true) (not (modBool $index 2)) }}
-    {{ $order = "order-md-2" }}
-  {{ end }}
-{{ else if and ($widget.design.flip_alt_rows | default true) (not (modBool $index 2)) }}
+{{ if not (modBool $index 2) }}
   {{ $order = "order-md-2" }}
 {{ end }}
 
 
-<div class="col-lg-12 mb-5 view-showcase">
+<div class="col-lg-12 mb-2 view-showcase moss-world-list-row">
   <div class="row align-items-center">
     <div class="col-12 col-md-6">
-      <div class="section-subheading article-title mb-0 mt-0">
-        {{- if $do_link}}<a href="{{ $link }}" {{ $target | safeHTMLAttr }}>{{end -}}
-        {{ $item.Title | markdownify | emojify }}
-        {{- if $do_link}}</a>{{end -}}
-      </div>
-
       {{ with $summary }}
       <div class="article-style">
+        {{- if $do_link}}<a class="moss-world-description-link" href="{{ $link }}" {{ $target | safeHTMLAttr }}>{{end -}}
         {{ . }}
+        {{- if $do_link}}</a>{{end -}}
       </div>
       {{ end }}
 
@@ -53,18 +45,26 @@
 
     </div>
     <div class="col-12 col-md-6 order-first {{$order}}">
-      {{ $resource := partial "blox-core/functions/get_featured_image.html" $item }}
+      {{ $world_key := lower $item.Title }}
+      {{ $stamp_name := cond (eq $world_key "impacts") "impact" $world_key }}
+      {{ $polaroids := dict
+        "origins" "polaroid_2shoots.png"
+        "survival" "polaroid_male.png"
+        "alliances" "polaroid_dudleya.png"
+        "impacts" "polaroid_dust.png"
+      }}
+      {{ $paper := resources.Get "media/theme/paper_tape.png" }}
+      {{ $stamp := resources.Get (printf "media/theme/moss-worlds_%s.png" $stamp_name) }}
+      {{ $polaroid := resources.Get (printf "media/theme/%s" (index $polaroids $world_key)) }}
 
-      {{ with $resource }}
-        {{/* Use CSS to expand images to consistent widths rather than just Hugo as Hugo can significantly increase the
-        filesize of GIFs when processing them, e.g. 400kB --> 1.5MB */}}
-        {{ $image := . }}
-        {{ if ne $image.MediaType.SubType "gif" }}{{ $image = $image.Process "resize 240x webp" }}{{ end }}
-        {{if $do_link}}<a href="{{ $link }}" {{ $target | safeHTMLAttr }}>{{end}}
-          <img src="{{ $image.RelPermalink }}" style="width: 240px; height: auto; object-fit: cover;">
-              alt="{{ $item.Title }}" loading="lazy" style="width: 540px; height: auto; object-fit: cover;">
-        {{if $do_link}}</a>{{end}}
-      {{end}}
+      {{if $do_link}}<a class="moss-world-collage moss-world-collage-{{$world_key}}" href="{{ $link }}" {{ $target | safeHTMLAttr }}>{{end}}
+        {{ with $paper }}<img class="moss-world-collage-paper" src="{{ .RelPermalink }}" alt="">{{ end }}
+        {{ with $stamp }}<img class="moss-world-collage-stamp" src="{{ .RelPermalink }}" alt="{{ $item.Title }} stamp">{{ end }}
+        <div class="moss-world-polaroid-wrap">
+          {{ with $polaroid }}<img class="moss-world-collage-polaroid" src="{{ .RelPermalink }}" alt="">{{ end }}
+          <span>{{ $item.Title }}</span>
+        </div>
+      {{if $do_link}}</a>{{end}}
     </div>
   </div>
 </div>

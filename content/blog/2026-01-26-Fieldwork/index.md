@@ -4,6 +4,9 @@ summary: "First desert trip of the season!"
 authors:
   - "AbbeySchedler"
 date: 2026-01-27T18:15:21-07:00
+toc: true
+share: true
+tags: [Field work]
 ---
 <figure>
 <a href="syntrichia.jpg/"><img

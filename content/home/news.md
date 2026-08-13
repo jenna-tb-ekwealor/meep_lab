@@ -8,7 +8,7 @@ title: Latest News
 subtitle:
 
 content:
-  count: 1
+  count: 3
   filters:
     author: ''
     category: ''
@@ -19,7 +19,7 @@ content:
   order: desc
   page_type: blog
 design:
-  view: Showcase
+  view: Compact
   columns: '1'
   spacing:
     # Customize the section spacing. Order is top, right, bottom, left.

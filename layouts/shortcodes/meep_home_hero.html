@@ -1,0 +1,24 @@
+{{ $line := resources.Get "media/theme/green_line.png" }}
+{{ $moss := resources.Get "media/theme/Syntrichia_caninervis_logo_art_v2.png" }}
+
+<div class="meep-hero-wrap">
+  <div class="meep-hero-copy">
+    <h1>MEEP Lab</h1>
+    <p class="meep-hero-tagline">
+      Tiny plants. Extreme lives.<br>
+      Big ecological stories.
+    </p>
+    {{ with $line }}<img class="meep-hero-line" src="{{ .RelPermalink }}" alt="" aria-hidden="true">{{ end }}
+    <p class="meep-hero-description">
+      We study how mosses survive, evolve, live with microbes, and shape dryland ecosystems.
+    </p>
+    <div class="meep-hero-buttons">
+      <a class="meep-button meep-button-filled" href="/people/">Who we are</a>
+      <a class="meep-button meep-button-outline" href="/contact/">Join the Lab</a>
+    </div>
+    <a class="meep-hero-link" href="/media/">Explore media coverage <span>→</span></a>
+  </div>
+  <div class="meep-hero-art">
+    {{ with $moss }}<img src="{{ .RelPermalink }}" alt="Illustrated Syntrichia caninervis moss shoot">{{ end }}
+  </div>
+</div>

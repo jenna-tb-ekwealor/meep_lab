@@ -1,0 +1,14 @@
+{{ $world := .Get "world" }}
+{{ $projects := where site.RegularPages "Section" "ongoing" }}
+{{ $projects = where $projects "Params.worlds" "intersect" (slice $world) }}
+
+{{ if $projects }}
+<div class="moss-world-projects">
+  {{ range $projects.ByWeight }}
+  <a class="moss-world-project-card" href="{{ .RelPermalink }}">
+    <h3>{{ .Title }}</h3>
+    {{ with .Params.summary }}<p>{{ . }}</p>{{ end }}
+  </a>
+  {{ end }}
+</div>
+{{ end }}

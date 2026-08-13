@@ -15,8 +15,38 @@ design:
 
 content:
   slides:
-    - title: 
-      content: The SFSU MEEP Lab investigates moss adaptations to the desiccating and irradiating conditions of life on land
+    - style: new-pub
+      background:
+        position: center
+        color: '#403d36'
+        brightness: 0.82
+        media: crustchunk.JPG
+      new_pub:
+        title: New Publication
+        content: Growth–defence trade-off defines a diffusion limit. A commentary on UV photoprotection, photosynthetic capacity, and desiccation tolerance in bryophytes.
+        link:
+          text: Read more
+          url: /publication/2026_ajb_evol/
+        location: American Journal of Botany
+        date: March, 2026
+
+    - style: field-notes
+      background:
+        position: center
+        color: '#403d36'
+        brightness: 0.82
+        media: theme/plumcanyon.jpeg
+      field_notes:
+        title: Field Notes
+        content: From alpine summits to desert floors, we study how mosses survive and shape the places they live.
+        link:
+          text: See where we work
+          url: /tag/field-work/
+        location: Anza-Borrego Desert, CA
+        date: February, 2026
+
+    - style: paper-message
+      content: The MEEP Lab studies how mosses survive, evolve, and shape life across extreme landscapes.
       align: center
       background:
         position: right
@@ -24,29 +54,32 @@ content:
         brightness: 0.7
         media: lava.jpg
 
-    - title: New publication!
-      content: 'Growth–defence trade-off defines a diffusion limit. A commentary on ‘Boundary-line trade-off in bryophytes between UV photoprotection and photosynthetic capacity, but not desiccation tolerance’'
-      align: right
+    - style: field-notes
       background:
         position: center
-        color: '#555'
-        brightness: 0.7
-        media: cani.png
-      link:
-        text: Read more
-        url: ../publication/2026_aob_growthdefense/
+        color: '#403d36'
+        brightness: 0.82
+        media: theme/joshuatree.jpeg
+      field_notes:
+        title: Field Notes
+        content: From alpine summits to desert floors, we study how mosses survive and shape the places they live.
+        link:
+          text: See where we work
+          url: /tag/field-work/
+        location: Death Valley, CA
+        date: May, 2026
         
-    - title: MEEP Lab
-      content: 'Current and past members'
-      align: left
-      background:
-        position: left
-        color: '#555'
-        brightness: 0.7
-        media: canespring.JPG
-      link:
-        text: Who we are
-        url: ../people/      
+    # - title: MEEP Lab
+    #   content: 'Current and past members'
+    #   align: left
+    #   background:
+    #     position: left
+    #     color: '#555'
+    #     brightness: 0.7
+    #     media: canespring.JPG
+    #   link:
+    #     text: Who we are
+    #     url: ../people/      
 ---
 
 
@@ -62,4 +95,23 @@ content:
       link:
         text: See lab members
         url: ../people/  
+ -->
+
+
+
+  <!-- 
+  - style: new-pub
+      background:
+        position: center
+        color: '#403d36'
+        brightness: 0.82
+        media: theme/cani.png
+      field_notes:
+        title: New Publication
+        content: 'Growth–defence trade-off defines a diffusion limit. A commentary on ‘Boundary-line trade-off in bryophytes between UV photoprotection and photosynthetic capacity, but not desiccation tolerance’'
+        link:
+          text: Read more
+          url: ../publication/2026_aob_growthdefense/
+        location: Anza-Borrego Desert, CA
+        date: February, 2026
  -->

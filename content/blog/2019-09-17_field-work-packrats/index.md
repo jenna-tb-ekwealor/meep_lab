@@ -2,6 +2,9 @@
 title: "Fieldwork-wildlife conflicts"
 summary: "Or, how desert woodrats tried to sabotage my dissertation."
 date: 2019-09-17T18:15:21-07:00
+toc: true
+share: true
+tags: [Field work]
 
 gallery_item:
 - album: field-work-packratsalbum

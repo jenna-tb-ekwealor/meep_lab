@@ -1,6 +1,6 @@
 +++
 # Accomplishments widget.
-widget = "accomplishments"  # See https://sourcethemes.com/academic/docs/page-builder/
+widget = "teaching_workshops"
 headless = true  # This file represents a page section.
 weight = 50  # Order that this section will appear.
 
@@ -17,8 +17,23 @@ date_format = "2006"
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
+
 [[item]]
-  title = " Collaborating and sharing using GitHub without command line"
+  title = "Science Communication"
+  organization = "Bay Area RaMP Program in Microbiome Sciences & Science Through Story, LLC"
+  date_start = "2026-02-19"
+  date_end = ''
+  description = "A science communication workshop in the Science Through Story framework, featuring guest Dr. Sara ElShafie."
+
+[[item]]
+  title = "Microbial Genomics"
+  organization = "Bay Area RaMP Program in Microbiome Sciences"
+  date_start = "2025-12-04"
+  date_end = ''
+  description = "A 2-day workshop on going from sequence data to annotated microbial genome for the Bay Area RaMP Program in Microbiome Sciences, 2025–2026 cohort."
+
+[[item]]
+  title = "Collaborating and sharing using GitHub without command line"
   organization = "National Museum of Natural History"
   date_start = "2023-05-10"
   date_end = ''
@@ -83,4 +98,3 @@ date_format = "2006"
   description = "The Carpentries: Data Carpentry Workshop"
 
 +++
-

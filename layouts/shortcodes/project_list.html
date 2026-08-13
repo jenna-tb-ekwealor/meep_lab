@@ -1,20 +1,10 @@
-{{ $cat := .Get "categories" }} <!-- Get category passed to shortcode -->
+{{ $project := .Get "categories" }}
+{{ $publications := where .Site.RegularPages "Section" "publication" }}
 
-<!-- Define a mapping of shorthand categories to full category names -->
-{{ $category_names := dict 
-  "physio" "Plant Physiology & Climate Adaptation" 
-  "molecbio" "Molecular Biology, Genomics & Gene Regulation" 
-  "ecoevo" "Reproductive Ecology & Evolution" 
-  "microbio" "Microbial Ecology & Symbiosis" 
-  "environhealth" "Environmental Health, Climate Justice & Public Science"
-}}
-
-<h3>Projects in this research area:</h3>
-
-<ul class="project-list">
-  {{ range where .Site.Pages "Section" "allprojects" }}
-    {{ if in .Params.categories $cat }}
-      <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+<div class="moss-world-publications">
+  {{ range $publications.ByDate.Reverse }}
+    {{ if in (.Params.projects | default (slice)) $project }}
+      {{ partial "views/citation" (dict "page" $.Page "item" .) }}
     {{ end }}
   {{ end }}
-</ul>
+</div>

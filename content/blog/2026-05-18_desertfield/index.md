@@ -4,6 +4,9 @@ summary: "The deserts project team visits Deep Springs for summer field work"
 authors:
   - "AbbeySchedler"
 date: 2026-06-13T18:15:21-07:00
+toc: true
+share: true
+tags: [Field work]
 ---
 The deserts team (Abbey, Nio and Paris), visited the Great Basin desert to collect more samples for the ongoing project investigating *Syntrichia*  moss. It was a quick yet effective trip jam-packed with findings!
 

@@ -21,13 +21,14 @@ organizations:
 bio: Lab PI and moss evangelist. 
 
 interests:
-  - Ecology
-  - Evolution
+  - Moss Ecology and Evolution
   - Plant Physiology
-  - Botany
   - Bryology
-  - Desert Ecosystems
-  - Environmental Justice  
+  - Dryland Ecosystems
+  - Biological Soil Crusts
+  - Microbial Ecology
+  - Genomics and Data Science
+  - Environmental Health and Justice
 
 education:
   courses:
@@ -80,4 +81,13 @@ user_groups:
   - Principal Investigator
 ---
 
-Jenna Ekwealor is an Assistant Professor of biology at San Francisco State University.
+Dr. Jenna T. B. Ekwealor is an Assistant Professor of Biology at San Francisco State University.
+Her research asks how life persists under environmental stress, from rapid physiological responses to long-term evolutionary and ecosystem change.
+She studies these questions primarily through mosses and biological soil crusts in dryland ecosystems, with growing work on how environmental degradation may affect air quality and human health. 
+Her interdisciplinary approach draws on ecology, evolutionary biology, physiology, genomics, field research, and data science.
+
+Dr. Ekwealor earned her Ph.D. in Integrative Biology from the University of California, Berkeley, where she was a Chancellor’s Fellow and an NSF NRT Data Science for the 21st Century Trainee. 
+A first-generation college student and graduate of California State University, Los Angeles, where she earned an M.S. in Environmental Science, she is a product of the CSU system and has experienced its transformative impact firsthand. 
+She later held the Biodiversity Genomics Postdoctoral Fellowship at the Smithsonian Institution and a Department of Biology Postdoctoral Fellowship at Utah State University.
+
+Her research has appeared in journals including *Nature Communications*, *New Phytologist*, and the *Journal of Experimental Botany*, and has reached broader audiences through NPR, *Science Friday*, *The New York Times*, *Scientific American*, and the book *Atlas Obscura: Wild Life*.

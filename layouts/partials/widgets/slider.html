@@ -1,0 +1,127 @@
+{{ $ := .root }}
+{{ $page := .page }}
+{{ $hash_id := .hash_id }}
+
+<ol class="carousel-indicators">
+  {{ range $index, $item := $page.Params.content.slides }}
+  <li data-target="#{{$hash_id}}" data-slide-to="{{$index}}" {{if eq $index 0}}class="active"{{end}}></li>
+  {{ end }}
+</ol>
+
+<div class="carousel-inner">
+  {{ range $index, $item := $page.Params.content.slides }}
+
+    {{ $style_bg := "" }}
+    {{ $style_filter := "" }}
+
+    {{ with $page.Params.design.slide_height }}
+      {{ $style_bg = printf "%s height: %s;" $style_bg . }}
+    {{ end }}
+
+    {{ with $item.background.color }}
+      {{ $style_bg = printf "%s background-color: %s;" $style_bg (. | default "transparent") }}
+    {{ end }}
+
+    {{ if $item.background.media }}
+      {{ $bg_img := resources.Get (printf "media/%s" $item.background.media) }}
+      {{ if $bg_img }}
+        {{ $style_bg = printf "%sbackground-image: url('%s'); background-repeat: no-repeat; background-position: %s; background-size: %s; " $style_bg $bg_img.Permalink ($item.background.position | default "center") ($item.background.fit | default "cover") }}
+      {{ else }}
+        {{ errorf "Couldn't find `%s` in the `assets/media/` folder - please add it." $item.background.media }}
+      {{ end }}
+      {{ with $item.background.brightness }}
+        {{ $style_filter = printf "%s-webkit-backdrop-filter: brightness(%s); backdrop-filter: brightness(%s);" $style_filter (string .) (string .) }}
+      {{ end }}
+    {{ end }}
+
+    {{ $is_field_notes := eq $item.style "field-notes" }}
+    {{ $is_new_pub := eq $item.style "new-pub" }}
+    {{ $is_paper_message := eq $item.style "paper-message" }}
+    <div class="carousel-item{{if eq $index 0}} active{{end}}{{if $is_field_notes}} field-notes-slide{{end}}{{if $is_new_pub}} new-pub-slide{{end}}{{if $is_paper_message}} paper-message-slide{{end}} {{with $page.Params.design.is_fullscreen}}fullscreen{{end}}" style="{{$style_bg | safeCSS}}">
+      <div class="position-absolute d-flex w-100 h-100 justify-content-center align-items-center" style="{{$style_filter | safeCSS}}">
+        {{ if $is_field_notes }}
+          {{ $paper_img := resources.Get "media/theme/paperclip_stack_line.png" }}
+          {{ $tape_img := resources.Get "media/theme/tape1.png" }}
+          <div class="field-notes-stage">
+            <div class="field-notes-paper">
+              {{ with $paper_img }}<img class="field-notes-paper-image" src="{{ .Permalink }}" alt="">{{ end }}
+              <div class="field-notes-paper-title">{{ $item.field_notes.title }}</div>
+              <div class="field-notes-paper-body">
+                <p>{{ $item.field_notes.content }}</p>
+                <a href="{{ $item.field_notes.link.url }}">{{ $item.field_notes.link.text }}</a>
+              </div>
+            </div>
+            <div class="field-notes-tape">
+              {{ with $tape_img }}<img class="field-notes-tape-image" src="{{ .Permalink }}" alt="">{{ end }}
+              <div class="field-notes-tape-copy">
+                <span>{{ $item.field_notes.location }}</span>
+                <span>{{ $item.field_notes.date }}</span>
+              </div>
+            </div>
+          </div>
+        {{ else if $is_new_pub }}
+          {{ $paper_img := resources.Get "media/theme/paper_grid_line.png" }}
+          {{ $tape_img := resources.Get "media/theme/tape_long.png" }}
+          <div class="new-pub-stage">
+            <div class="new-pub-paper">
+              {{ with $paper_img }}<img class="new-pub-paper-image" src="{{ .Permalink }}" alt="">{{ end }}
+              <div class="new-pub-paper-title">{{ $item.new_pub.title }}</div>
+              <div class="new-pub-paper-body">
+                <p>{{ $item.new_pub.content }}</p>
+                <a href="{{ $item.new_pub.link.url }}">{{ $item.new_pub.link.text }}</a>
+              </div>
+            </div>
+            <div class="new-pub-tape">
+              {{ with $tape_img }}<img class="new-pub-tape-image" src="{{ .Permalink }}" alt="">{{ end }}
+              <div class="new-pub-tape-copy">
+                <span>{{ $item.new_pub.location }}</span>
+                <span>{{ $item.new_pub.date }}</span>
+              </div>
+            </div>
+          </div>
+        {{ else if $is_paper_message }}
+          {{ $message_paper := resources.Get "media/theme/paper_scraps_website_long white.png" }}
+          <div class="paper-message-card">
+            {{ with $message_paper }}<img class="paper-message-image" src="{{ .RelPermalink }}" alt="">{{ end }}
+            <p>{{ $item.content }}</p>
+          </div>
+        {{ else }}
+          <div class="wg-hero dark container" style="margin-left: 6rem; margin-right: 6rem; text-align: {{$item.align | default "left"}};">
+            <h1 class="hero-title">
+              {{ with $item.title }}{{ . | markdownify | emojify }}{{ end }}
+            </h1>
+
+            {{ with $item.content }}
+            <p class="hero-lead" style="{{if eq $item.align "center"}}margin: 0 auto 0 auto;{{else if eq $item.align "right"}}margin-left: auto; margin-right: 0{{end}}">
+              {{ . | markdownify | emojify }}
+            </p>
+            {{ end }}
+
+            {{ if $item.link.url }}
+              {{ $pack := $item.link.icon_pack | default "fas" }}
+              {{ $pack_prefix := $pack }}
+              {{ if in (slice "fab" "fas" "far" "fal") $pack }}
+                {{ $pack_prefix = "fa" }}
+              {{ end }}
+              <p>
+                <a href="{{ $item.link.url }}" class="btn btn-light btn-lg mt-3">
+                  {{- with $item.link.icon -}}<i class="{{ $pack }} {{ $pack_prefix }}-{{ . }}" style="padding-right: 10px;"></i>{{- end -}}
+                  {{- $item.link.text | emojify | markdownify | safeHTML -}}
+                </a>
+              </p>
+            {{ end }}
+          </div>
+        {{ end }}
+      </div>
+    </div>
+  {{ end }}
+</div>
+
+<a class="carousel-control-prev" href="#{{$hash_id}}" data-slide="prev">
+  <span class="carousel-control-prev-icon"></span>
+  <span class="sr-only">Previous</span>
+</a>
+<a class="carousel-control-next" href="#{{$hash_id}}" data-slide="next">
+  <span class="carousel-control-next-icon"></span>
+  <span class="sr-only">Next</span>
+</a>

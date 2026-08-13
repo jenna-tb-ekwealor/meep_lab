@@ -1,6 +1,7 @@
 +++
+
 # Experience widget.
-widget = "accomplishments"  # See https://sourcethemes.com/academic/docs/page-builder/
+widget = "teaching_courses"
 headless = true  # This file represents a page section.
 weight = 10  # Order that this section will appear.
 

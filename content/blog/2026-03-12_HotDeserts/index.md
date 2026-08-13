@@ -4,6 +4,9 @@ summary: "The deserts project team takes on the Mojave and Sonoran Deserts!"
 authors:
   - "AbbeySchedler"
 date: 2026-03-13T18:15:21-07:00
+toc: true
+share: true
+tags: [Field work]
 ---
 Five members of the MEEP lab took a trip to the Mojave and Colorado (Sonoran) Deserts to collect moss samples for the deserts project. This project spans field sites across the Great Basin, Mojave and Sonoran Deserts; stay tuned for updates on the research!
 
