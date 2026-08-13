@@ -1,0 +1,35 @@
+{{ $page := . }}
+{{ $featured := partial "functions/get_featured_image.html" $page }}
+{{ $anchor := $page.Params.image.focal_point | default "Smart" }}
+{{ $title := .Title }}
+{{ if and (not $title) .IsNode }}
+  {{ if eq .Type "post" }}{{ $title = i18n "posts" }}{{ else if eq .Type "event" }}{{ $title = i18n "talks" }}{{ else if eq .Type "publication" }}{{ $title = i18n "publications" }}{{ end }}
+{{ end }}
+
+{{ if and .Params.banner.image (not (and $featured (not .Params.image.preview_only))) }}
+  <div class="article-header">
+    {{ $alt := (.Params.banner.caption | default "") | plainify }}
+    {{ $destination := .Params.banner.image }}
+    {{ $img := (.Page.Resources.ByType "image").GetMatch $destination }}
+    {{ if not $img }}{{ $img = resources.Get (path.Join "media" $destination) }}{{ end }}
+    {{ if $img }}
+      {{ $banner := $img.Resize "1800x webp q82" }}
+      <img src="{{ $banner.RelPermalink }}" width="{{ $banner.Width }}" height="{{ $banner.Height }}" class="article-banner" alt="{{ $alt }}" fetchpriority="high" decoding="async">
+    {{ else }}
+      <img src="{{ .Params.banner.image }}" class="article-banner" alt="{{ $alt }}">
+    {{ end }}
+    {{ with .Params.banner.caption }}<span class="article-header-caption">{{ . | markdownify | emojify }}</span>{{ end }}
+  </div>
+{{ end }}
+
+{{ if and $featured (not .Params.image.preview_only) }}
+  {{ $placement := .Params.image.placement | default 1 }}
+  {{ $image_container := "article-container" }}
+  {{ $image := $featured.Fit "720x2500 webp q84" }}
+  {{ if eq $placement 2 }}{{ $image_container = "container" }}{{ $image = $featured.Fit "1200x2500 webp q84" }}{{ else if eq $placement 3 }}{{ $image_container = "container-fluid" }}{{ $image = $featured.Fit "2560x2560 webp q84" }}{{ end }}
+  <div class="article-container pt-3"><h1>{{ $title }}</h1>{{ with $page.Params.subtitle }}<p class="page-subtitle">{{ . | markdownify | emojify }}</p>{{ end }}{{ partial "page_metadata" (dict "page" $page "is_list" 0 "share" true) }}{{ partial "page_links_div.html" $page }}</div>
+  <div class="article-header {{ $image_container }} featured-image-wrapper mt-4 mb-4" style="max-width: {{ $image.Width }}px; max-height: {{ $image.Height }}px;"><div style="position: relative"><img src="{{ $image.RelPermalink }}" width="{{ $image.Width }}" height="{{ $image.Height }}" alt="{{ with $.Params.image.alt_text }}{{.}}{{ end }}" class="featured-image" decoding="async">{{ with $.Params.image.caption }}<span class="article-header-caption">{{ . | markdownify | emojify }}</span>{{ end }}</div></div>
+{{ else }}
+  {{ $ctnr := "article-container" }}{{ if $page.IsNode }}{{ $ctnr = "universal-wrapper" }}{{ end }}
+  <div class="{{ $ctnr }} pt-3"><h1>{{ $title }}</h1>{{ with $page.Params.subtitle }}<p class="page-subtitle">{{ . | markdownify | emojify }}</p>{{ end }}{{ if not .IsNode }}{{ partial "page_metadata" (dict "page" $page "is_list" 0 "share" true) }}{{ partial "page_links_div.html" $page }}{{ end }}</div>
+{{ end }}

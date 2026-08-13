@@ -1,0 +1,10 @@
+{{ $src := .Get "src" }}
+{{ $alt := .Get "alt" | default "" }}
+{{ $class := .Get "class" | default "" }}
+{{ $width := .Get "width" | default "900" }}
+{{ $resource := .Page.Resources.GetMatch $src }}
+{{ if and (not $resource) .Page.Parent }}{{ $resource = .Page.Parent.Resources.GetMatch $src }}{{ end }}
+{{ with $resource }}
+  {{ $image := .Resize (printf "%sx webp q84" $width) }}
+  <img class="{{ $class }}" src="{{ $image.RelPermalink }}" width="{{ $image.Width }}" height="{{ $image.Height }}" alt="{{ $alt }}" loading="lazy" decoding="async">
+{{ end }}

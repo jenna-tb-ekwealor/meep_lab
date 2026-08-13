@@ -52,8 +52,8 @@ Prospective graduate students are also encouraged to look for SFSU Grad Preview 
 </div>
 
 <div class="join-lab-images">
- <img class="join-lab-image" src="joshua_with_paperclip.png" alt="Lab member pipetting in the field">
- <img class="join-lab-image" src="abbey_with_paperclip.png" alt="Lab member in the field">
+ {{< optimized_image src="joshua_with_paperclip.png" class="join-lab-image" width="900" alt="Lab member pipetting in the field" >}}
+ {{< optimized_image src="abbey_with_paperclip.png" class="join-lab-image" width="900" alt="Lab member in the field" >}}
 </div>
 
 </div>

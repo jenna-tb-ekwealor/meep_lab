@@ -5,8 +5,9 @@
   <div class="section-heading col-12 col-lg-4 mb-3 mb-lg-0">
     <h1 class="mb-0">{{ $page.Title | markdownify | emojify }}</h1>
     {{ with $photo }}
+      {{ $display := .Resize "700x webp q82" }}
       <figure class="teaching-course-photo">
-        <img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" alt="" loading="lazy">
+        <img src="{{ $display.RelPermalink }}" width="{{ $display.Width }}" height="{{ $display.Height }}" alt="" loading="lazy" decoding="async">
         <figcaption>Students working on an experiment in the greenhouse for BIOL 529 GW Plant Ecology.</figcaption>
       </figure>
     {{ end }}
