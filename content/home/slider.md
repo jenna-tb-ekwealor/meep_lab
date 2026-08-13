@@ -23,7 +23,7 @@ content:
         media: crustchunk.JPG
       new_pub:
         title: New Publication
-        content: Growth–defence trade-off defines a diffusion limit. A commentary on UV photoprotection, photosynthetic capacity, and desiccation tolerance in bryophytes.
+        content: Shaped by context: Evolutionary trajectories of desiccation tolerance in land plants. How an ancient trait was lost, retained, and repeatedly reassembled across land plants.
         link:
           text: Read more
           url: /publication/2026_ajb_evol/
