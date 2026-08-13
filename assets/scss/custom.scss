@@ -902,6 +902,20 @@ footer a:hover {
 }
 
 @media (max-width: 640px) {
+  .moss-world-list-row,
+  .moss-world-list-row + .moss-world-list-row {
+    margin-bottom: 2.5rem !important;
+    margin-top: 2rem;
+  }
+
+  .moss-world-list-row:first-child {
+    margin-top: 2rem;
+  }
+
+  .moss-world-list-row > .row {
+    row-gap: 1.5rem;
+  }
+
   .moss-world-paper-content {
     gap: 0.75rem;
     padding: 0.75rem 2rem;
