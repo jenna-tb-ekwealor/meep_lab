@@ -23,6 +23,7 @@ subtitle = ""
 </div>
 
 <div class="meep-media-featured">
+<img class="meep-card-pushpin" src="/media/theme/pushpin.png" alt="">
 <div class="meep-media-featured-label">Featured</div>
 <h2><a href="https://www.npr.org/2025/02/14/nx-s1-5297194/moss-appreciation-week-mosses-plants-celebration-bryophyta-pacific-northwest-portland" target="_blank" rel="noopener">“Moss Appreciation Week”: a lot of celebration for a very little plant</a></h2>
 <p class="meep-media-source">NPR Morning Edition · Deena Prichep · 14 February 2025</p>
@@ -35,6 +36,7 @@ subtitle = ""
 <div class="meep-media-grid">
 
 <article class="meep-media-card">
+<img class="meep-card-pushpin" src="/media/theme/pushpin.png" alt="">
 <div class="meep-media-kicker">Scientific American</div>
 <h3><a href="https://www.scientificamerican.com/article/the-moss-that-lives-under-a-rock/" target="_blank" rel="noopener">The Moss That Lives under a Rock</a></h3>
 <p class="meep-media-source">Jennifer Frazer · 2 October 2020</p>
@@ -42,6 +44,7 @@ subtitle = ""
 </article>
 
 <article class="meep-media-card">
+<img class="meep-card-pushpin" src="/media/theme/pushpin.png" alt="">
 <div class="meep-media-kicker">Smithsonian Magazine</div>
 <h3><a href="https://www.smithsonianmag.com/smart-news/desert-moss-beats-heat-growing-under-quartz-crystals-180975624/" target="_blank" rel="noopener">Desert Moss Beats Heat by Growing Under Quartz Crystals</a></h3>
 <p class="meep-media-source">Alex Fox · 21 August 2020</p>
@@ -49,6 +52,7 @@ subtitle = ""
 </article>
 
 <article class="meep-media-card">
+<img class="meep-card-pushpin" src="/media/theme/pushpin.png" alt="">
 <div class="meep-media-kicker">The Guardian</div>
 <h3><a href="https://www.theguardian.com/science/2020/aug/18/plantwatch-how-a-miraculous-moss-keeps-cool-in-the-mojave-desert" target="_blank" rel="noopener">Plantwatch: how a miraculous moss keeps cool in the Mojave desert</a></h3>
 <p class="meep-media-source">Paul Simons · 18 August 2020</p>
@@ -56,6 +60,7 @@ subtitle = ""
 </article>
 
 <article class="meep-media-card">
+<img class="meep-card-pushpin" src="/media/theme/pushpin.png" alt="">
 <div class="meep-media-kicker">The New York Times</div>
 <h3><a href="https://www.nytimes.com/2020/07/29/science/moss-quartz-biology-syntrichia.html" target="_blank" rel="noopener">This Moss Uses Quartz as a Parasol</a></h3>
 <p class="meep-media-source">Sabrina Imbler · 29 July 2020</p>
@@ -63,6 +68,7 @@ subtitle = ""
 </article>
 
 <article class="meep-media-card">
+<img class="meep-card-pushpin" src="/media/theme/pushpin.png" alt="">
 <div class="meep-media-kicker">Berkeley News</div>
 <h3><a href="https://news.berkeley.edu/2020/07/23/desert-mosses-use-quartz-rocks-as-sun-shades/" target="_blank" rel="noopener">Desert mosses use quartz rocks as sun shades</a></h3>
 <p class="meep-media-source">Robert Sanders · 23 July 2020</p>
@@ -76,6 +82,7 @@ subtitle = ""
 <div class="meep-media-audio-list">
 
 <article class="meep-media-audio-card">
+<img class="meep-card-pushpin" src="/media/theme/pushpin.png" alt="">
 <div>
 <div class="meep-media-kicker">NPR Morning Edition</div>
 <h3><a href="https://www.npr.org/2025/02/14/nx-s1-5297194/moss-appreciation-week-mosses-plants-celebration-bryophyta-pacific-northwest-portland" target="_blank" rel="noopener">“Moss Appreciation Week”: a lot of celebration for a very little plant</a></h3>
@@ -85,6 +92,7 @@ subtitle = ""
 </article>
 
 <article class="meep-media-audio-card">
+<img class="meep-card-pushpin" src="/media/theme/pushpin.png" alt="">
 <div>
 <div class="meep-media-kicker">WTF, Biology?</div>
 <h3><a href="https://open.spotify.com/embed/episode/1hR1q0fe4E8jn32YajKoGP?utm_source=generator" target="_blank" rel="noopener">Living under a rock has its merits with Dr. Jenna Ekwealor</a></h3>
@@ -94,6 +102,7 @@ subtitle = ""
 </article>
 
 <article class="meep-media-audio-card">
+<img class="meep-card-pushpin" src="/media/theme/pushpin.png" alt="">
 <div>
 <div class="meep-media-kicker">Science Friday</div>
 <h3><a href="https://www.sciencefriday.com/segments/moss/" target="_blank" rel="noopener">These Moss Are Living Their Best Life—Under Rocks</a></h3>
@@ -107,6 +116,7 @@ subtitle = ""
 <h2 class="meep-media-section-title">Other</h2>
 
 <div class="meep-media-note-card">
+<img class="meep-card-pushpin" src="/media/theme/pushpin.png" alt="">
 <div class="meep-media-kicker">Original Music</div>
 <h3><a href="https://ben-goldberg--bag-production-records.bandcamp.com/track/august-1-2020-hypolithic-dedication-to-dr-kirsten-fisher-jenna-ekwealor" target="_blank" rel="noopener">Hypolithic</a></h3>
 <p class="meep-media-source">Ben Goldberg · PLAGUE DIARY · 1 August 2020</p>

@@ -1490,6 +1490,7 @@ footer a:hover {
   box-shadow: 0 10px 24px rgba(43, 42, 38, 0.08);
   padding: 30px 32px 22px;
   margin: 0 0 44px;
+  position: relative;
 }
 
 .meep-media-featured iframe {
@@ -1561,7 +1562,22 @@ footer a:hover {
   border-radius: 6px;
   box-shadow: 0 10px 24px rgba(43, 42, 38, 0.08);
   padding: 26px 24px 28px;
+  position: relative;
   transition: transform 0.18s ease, opacity 0.18s ease;
+}
+
+.meep-media-featured .meep-card-pushpin,
+.meep-media-card .meep-card-pushpin,
+.meep-media-audio-card .meep-card-pushpin,
+.meep-media-note-card .meep-card-pushpin {
+  right: 12px;
+  top: 7px;
+}
+
+.meep-media-card:nth-child(even) .meep-card-pushpin,
+.meep-media-audio-card:nth-child(even) .meep-card-pushpin {
+  right: 4px;
+  top: 14px;
 }
 
 .meep-media-card:hover,
