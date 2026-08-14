@@ -12,7 +12,7 @@ design:
     padding: ['50px', '0', '60px', '0px']
 
 advanced:
-  css_class: meep-values-section
+  css_class: meep-values-section meep-values-standalone
 ---
 <div class="meep-values-wrap">
 

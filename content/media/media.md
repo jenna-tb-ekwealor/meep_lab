@@ -23,7 +23,6 @@ subtitle = ""
 </div>
 
 <div class="meep-media-featured">
-<img class="meep-card-pushpin" src="/media/theme/pushpin.png" alt="">
 <div class="meep-media-featured-label">Featured</div>
 <h2><a href="https://www.npr.org/2025/02/14/nx-s1-5297194/moss-appreciation-week-mosses-plants-celebration-bryophyta-pacific-northwest-portland" target="_blank" rel="noopener">“Moss Appreciation Week”: a lot of celebration for a very little plant</a></h2>
 <p class="meep-media-source">NPR Morning Edition · Deena Prichep · 14 February 2025</p>

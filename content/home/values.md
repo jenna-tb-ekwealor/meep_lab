@@ -12,7 +12,7 @@ design:
     padding: ['50px', '0', '60px', '0px']
 
 advanced:
-  css_class: meep-values-section
+  css_class: meep-values-section meep-values-home
 ---
 <div class="meep-values-wrap">
 <div class="meep-values-intro">
@@ -25,4 +25,3 @@ advanced:
 <a class="meep-hero-link" href="/media/">Read more <span>→</span></a>
 
 </div>
-

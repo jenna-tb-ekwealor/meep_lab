@@ -81,6 +81,29 @@ a:focus {
   width: 210px;
 }
 
+.publication-cover-features {
+  width: 100%;
+}
+
+.publication-cover-label {
+  margin: 0 0 1rem;
+}
+
+.publication-cover-grid {
+  display: grid;
+  gap: clamp(0.5rem, 2vw, 1.5rem);
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  width: 100%;
+}
+
+.publication-cover-grid a,
+.publication-cover-grid .publication-cover {
+  display: block;
+  height: auto;
+  margin: 0;
+  width: 100%;
+}
+
 .btn,
 .badge,
 .navbar-brand,
@@ -321,7 +344,7 @@ footer a:hover {
     line-height: 1.2;
     padding-left: 1rem;
     top: 50%;
-    width: 66%;
+    width: 56%;
   }
 
   .field-notes-tape {
@@ -904,16 +927,16 @@ footer a:hover {
 @media (max-width: 640px) {
   .moss-world-list-row,
   .moss-world-list-row + .moss-world-list-row {
-    margin-bottom: 2.5rem !important;
-    margin-top: 2rem;
+    margin-bottom: 2rem !important;
+    margin-top: 1.5rem;
   }
 
   .moss-world-list-row:first-child {
-    margin-top: 2rem;
+    margin-top: 1.5rem;
   }
 
   .moss-world-list-row > .row {
-    row-gap: 1.5rem;
+    row-gap: 0.25rem;
   }
 
   .moss-world-paper-content {
@@ -930,7 +953,8 @@ footer a:hover {
   }
 
   .moss-world-collage {
-    height: 250px;
+    height: 205px;
+    margin-top: 0;
     max-width: 430px;
   }
 
@@ -975,7 +999,7 @@ footer a:hover {
   }
 
   .research-world-card {
-    padding: 24px 0;
+    padding: 32px 26px;
     border-left: none;
     border-top: 1px solid var(--meep-divider);
   }
@@ -1229,8 +1253,18 @@ footer a:hover {
 
 /* Mobile */
 @media (max-width: 640px) {
+  .meep-home-hero .meep-hero-wrap {
+    min-height: 540px;
+    padding: 48px 24px 0;
+  }
+
+  .meep-home-hero .meep-hero-copy {
+    max-width: 68%;
+  }
+
   .meep-home-hero .meep-hero-copy h1 {
     font-size: 2.35rem;
+    white-space: normal;
   }
 
   .meep-home-hero .meep-hero-tagline {
@@ -1240,20 +1274,21 @@ footer a:hover {
   .meep-home-hero .meep-hero-description {
     font-size: 0.7rem;
     line-height: 1.45;
-    max-width: 100%;
+    max-width: 90%;
   }
 
   .meep-home-hero .meep-hero-buttons {
     display: flex;
-    flex-direction: row;
+    align-items: flex-start;
+    flex-direction: column;
     flex-wrap: nowrap;
     gap: 10px;
     margin-bottom: 18px;
   }
 
   .meep-home-hero .meep-button {
-    width: auto;
-    min-width: 100px;
+    min-width: 132px;
+    width: 132px;
     padding: 7px 8px;
     font-size: 0.56rem;
     line-height: 1.1;
@@ -1266,13 +1301,15 @@ footer a:hover {
   }
 
   .meep-home-hero .meep-hero-art {
-    min-height: 390px;
+    min-height: 0;
   }
 
   .meep-home-hero .meep-hero-art img {
-    width: 460px;
+    bottom: -8px;
+    right: -42px;
+    width: 245px;
     max-width: none;
-    transform: translate(0, 34px);
+    transform: none;
   }
 }
 
@@ -1425,7 +1462,8 @@ footer a:hover {
   }
 
   .meep-values-polaroid {
-    width: 300px;
+    max-width: 460px;
+    width: 82vw;
     justify-self: start;
     transform: rotate(1.5deg);
   }
@@ -1440,8 +1478,46 @@ footer a:hover {
 }
 
 @media (max-width: 600px) {
+  .meep-values-section {
+    padding-bottom: 28px !important;
+    padding-top: 28px !important;
+  }
+
   .meep-values-wrap {
     padding: 0 22px;
+  }
+
+  .meep-values-intro {
+    gap: 16px;
+    margin-bottom: 22px;
+  }
+
+  .meep-values-home .meep-values-polaroid {
+    justify-self: center;
+    max-width: 430px;
+    width: 86vw;
+  }
+
+  .meep-values-standalone .meep-values-polaroid {
+    justify-self: center;
+    max-width: 520px;
+    width: 94vw;
+  }
+
+  .meep-values-home .meep-hero-link {
+    color: #959a3f;
+    font-family: "Fraunces", serif;
+    font-size: 1.07rem;
+    font-weight: 600;
+    text-decoration: none;
+  }
+
+  .meep-values-grid {
+    margin: 22px 0 28px;
+  }
+
+  .meep-values-note {
+    margin-top: 28px;
   }
 
   .meep-value-card {
@@ -1674,10 +1750,10 @@ footer a:hover {
 }
 
 .join-lab-wrap {
-  display: grid;
-  grid-template-columns: minmax(0, 1fr) minmax(280px, 420px);
-  gap: 54px;
   align-items: start;
+  display: grid;
+  gap: 54px;
+  grid-template-columns: minmax(0, 1fr) minmax(280px, 420px);
   max-width: 1280px;
   margin: 0 auto;
   padding: 0 36px;
@@ -1687,14 +1763,21 @@ footer a:hover {
   min-width: 0;
 }
 
+.join-lab-inline-image {
+  display: none;
+  margin: 1.5rem auto 2rem;
+  max-width: 520px;
+  width: 100%;
+}
+
 .join-lab-images {
   display: flex;
   flex-direction: column;
   gap: 182px;
   justify-self: end;
   margin-top: 3.2rem;
-  width: 100%;
   max-width: 420px;
+  width: 100%;
 }
 
 .join-lab-image {
@@ -1706,11 +1789,19 @@ footer a:hover {
   border-radius: 0;
 }
 
-.join-lab-image:nth-child(1) {
+.join-lab-inline-image-joshua .join-lab-image {
   transform: rotate(2deg);
 }
 
-.join-lab-image:nth-child(2) {
+.join-lab-inline-image-abbey .join-lab-image {
+  transform: rotate(-2deg);
+}
+
+.join-lab-images .join-lab-image:nth-child(1) {
+  transform: rotate(2deg);
+}
+
+.join-lab-images .join-lab-image:nth-child(2) {
   transform: rotate(-2deg);
 }
 
@@ -1720,15 +1811,19 @@ footer a:hover {
 
 @media (max-width: 900px) {
   .join-lab-wrap {
-    grid-template-columns: 1fr;
     gap: 28px;
+    grid-template-columns: 1fr;
     padding: 0 24px;
   }
 
+  .join-lab-inline-image {
+    display: block;
+    margin: 0.75rem auto 1.25rem;
+    max-width: 100%;
+  }
+
   .join-lab-images {
-    justify-self: start;
-    width: 100%;
-    max-width: 360px;
+    display: none;
   }
 }
 

@@ -29,6 +29,9 @@ advanced:
 I am happy to speak with students interested in Master’s research in the MEEP Lab. 
 Please review one or two of my [**publications**](../publication/) before getting in touch so that we can better discuss your research interests and possible projects.
 
+<div class="join-lab-inline-image join-lab-inline-image-joshua">
+{{< optimized_image src="joshua_with_paperclip.png" class="join-lab-image" width="900" alt="Lab member pipetting in the field" >}}
+</div>
 
 ## Undergraduate Students
 
@@ -37,6 +40,9 @@ SFSU students interested in moss ecology, physiology, evolution, genomics, micro
 
 BURP is the best pathway for undergraduates interested in joining the lab for research experience.
 
+<div class="join-lab-inline-image join-lab-inline-image-abbey">
+{{< optimized_image src="abbey_with_paperclip.png" class="join-lab-image" width="900" alt="Lab member in the field" >}}
+</div>
 
 ## Graduate Students
 
