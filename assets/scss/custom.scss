@@ -953,7 +953,7 @@ footer a:hover {
   }
 
   .moss-world-collage {
-    height: 205px;
+    height: 160px;
     margin-top: 0;
     max-width: 430px;
   }
@@ -1479,6 +1479,10 @@ footer a:hover {
 }
 
 @media (max-width: 600px) {
+  .publication-cover-features {
+    margin-bottom: 2.25rem;
+  }
+
   .meep-values-section {
     padding-bottom: 28px !important;
     padding-top: 28px !important;
