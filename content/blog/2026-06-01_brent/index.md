@@ -6,7 +6,7 @@ authors:
   - "NioGonzalez"
 date: 2026-07-21T18:15:21-07:00
 ---
-Graduate student [**Michael Collins**](https://meep-lab.com/author/michael-collins/) is studying survival strategies of high-elevation moss. Not that we need an excuse to go on an all-day moss hike, but the project demanded a trip to Stanislaus National Forest to look for a particular <i>Syntrichia<i> moss that thrives in high elevation.
+Graduate student [**Michael Collins**](https://meep-lab.com/author/michael-collins/) is studying survival strategies of high-elevation moss. Not that we need an excuse to go on an all-day moss hike, but the project demanded a trip to Stanislaus National Forest to look for a particular <i> Syntrichia <i> moss that thrives in high elevation.
 
 Jenna, Michael, Nio and [Brent Mishler](https://ucjeps.berkeley.edu/people/mishler.html) took a day trip to the Sierra Nevada Mountains to scope out potential research sites for Michael's project; “cold tolerance in high-elevation mosses”. The target species of the day was <i>Syntrichia norvegica,<i> though the crew had fun running into all kinds of moss, lichen, and fungi!
 
@@ -24,7 +24,7 @@ The first stop was a potential location for [SO BE FREE](https://chapters.cnps.o
 <a href="MOSS.jpg/"><img
 src="MOSS.jpg" alt="" style="width: 400px; "></a>
   <img src="" width="600">
-  <figcaption> <i>Syntrichia</i>
+  <figcaption> <i>Syntrichia Norvegica</i>
 </figcaption>
 </figure>
 <figure>
