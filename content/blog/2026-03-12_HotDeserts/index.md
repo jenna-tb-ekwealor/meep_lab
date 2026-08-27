@@ -30,15 +30,15 @@ Grad students Paris Hendershot and Kanika Kolpe both enjoyed surveying an impres
 <a href="kmoss.JPG/"><img
 src="kmoss.JPG" alt="" style="width: 400px; "></a>
   <img src="" width="600">
-  <figcaption> Kanika K - 'This is a photo of moss on a boulder. This type of moss which could be <i>Syntrichia</i>, does not grow on rocks; they grow on soil. While it is not apparent on this picture, there is a very thin patch of soil on this rock in which the moss is growing on. A <i>Syntrichia</i> spore could have landed on this small patch of soil and started growing. I find it fascinating that moss can thrive under such unusual circumstances that most plants would not be able to. My research is about how moss adapts to its environment and thrives. The ability to thrive on a thin patch of soil on a boulder in the middle of a desert is simply remarkable. I cannot wait to do more research on these moss and figure out exactly how they are able to survive in the deserts of California.'
-</figcaption>
+  <figcaption> from Kanika - a boulder covered in what appears to be Grimmia, but sometimes there are <i>Syntrichia</i> lookalikes that makes ID tricky!
+  </figcaption>
 </figure>
 
 <figure>
 <a href="pmoss.jpg/"><img
 src="pmoss.jpg" alt="" style="width: 400px; "></a>
   <img src="" width="600">
-  <figcaption> Paris H - "This is a photo I took of some rock moss and lichen in the field at Burns Pinon Ridge Reserve. I found the location super interesting since this rock was in direct sunlight and moss tend to prefer shady areas. I also was amazed with how much moss was seen on this rock area! It really looks like a moss carpet…a very dried moss carpet that is. I will definitely be coming back to collect seasonally and observe these desert mosses in all their glory!"
+  <figcaption> from Paris - "This is a photo I took of some rock moss and lichen in the field at Burns Pinon Ridge Reserve. I found the location super interesting since this rock was in direct sunlight and moss tend to prefer shady areas. I also was amazed with how much moss was seen on this rock area! It really looks like a moss carpet…a very dried moss carpet that is. I will definitely be coming back to collect seasonally and observe these desert mosses in all their glory!"
 </figcaption>
 </figure>
 
