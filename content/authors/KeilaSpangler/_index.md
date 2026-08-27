@@ -12,7 +12,7 @@ authors:
 superuser: false
 
 # Short bio (displayed in user profile at end of posts)
-bio: Graduate Student 
+bio: MEEP Lab graduate student 
 
 interests:
   - Ecology
@@ -26,5 +26,5 @@ highlight_name: false
 user_groups:
   - Graduate Students
 ---
+
 Hi. My name is Keila and I am a first-year M.S. student in Integrative Biology. I am originally from Oregon and received my B.S. in Biology from Portland State University. As an undergraduate, I worked in the Eppley Lab at the Center for Life in Extreme Environments at PSU. I am interested in ecology, evolution, conservation, and bryology. Outside of the lab, I enjoy baking, reading, taking care of my houseplants, and spending time with my two cats.
-# 
