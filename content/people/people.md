@@ -4,11 +4,11 @@ type: landing
 
 sections:
   - block: team-showcase
-   content:
-     title: Meet the Lab
-     subtitle: ''
+    content:
+      title: Meet the Lab
+      subtitle: ''
       text: ''
-     user_groups:
+      user_groups:
         - Principal Investigator
         - Graduate Students
         - Post-Baccalaureate Researchers
@@ -32,5 +32,5 @@ sections:
       show_social: true
       align: left
       max_columns: 3
-     show_empty_groups: false
+      show_empty_groups: false
 ---
