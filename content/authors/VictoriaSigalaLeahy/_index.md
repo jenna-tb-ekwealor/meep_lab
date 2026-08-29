@@ -14,6 +14,9 @@ superuser: false
 # Short bio (displayed in user profile at end of posts)
 bio: MEEP Lab graduate student.
 
+# Role/position or year in school
+role: 1st Year, M.S. Integrative Biology
+
 interests:
 - Systematics
 - Conservation

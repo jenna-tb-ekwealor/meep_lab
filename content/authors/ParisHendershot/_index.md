@@ -12,7 +12,10 @@ authors:
 superuser: false
 
 # Short bio (displayed in user profile at end of posts)
-bio: MEEP Lab Graduate Student.
+bio: MEEP Lab graduate student.
+
+# Role/position or year in school
+role: 2nd Year, M.S. Cell and Molecular Biology
 
 interests:
   -  Genetics
