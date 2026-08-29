@@ -26,6 +26,7 @@ highlight_name: false
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
   - Lab Alumni
+graduation_year: 2025
 ---
 
 # 

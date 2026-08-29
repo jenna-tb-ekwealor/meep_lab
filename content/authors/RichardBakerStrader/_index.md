@@ -38,6 +38,7 @@ highlight_name: false
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
   - Affiliated Researchers
+graduation_year: 2025
 ---
 
 Richard is a graduate student in the [Cantley Lab](https://cantleylab.wixsite.com/jasoncantley) whose project focuses on genomics and population genetics in Hawaiian plants. His primary roles in the MEEP lab include mentorship and logistics, helping students develop their research skills, and chasing down bugs (usually, but not always, in code).  When he's not in the lab, he can often be found exploring nature by hiking, camping, or scuba diving.

@@ -2060,3 +2060,59 @@ footer a:hover {
   font-size: 0.76rem !important;
   line-height: 1.35 !important;
 }
+
+
+
+/* =========================================================
+   People page
+   ========================================================= */
+
+/* Larger portraits */
+.people-widget .avatar {
+  width: 100%;
+  max-width: 220px;
+  height: auto;
+}
+
+
+/* Give each person a little breathing room */
+.people-widget .people-person {
+  margin-bottom: 2.5rem;
+}
+
+
+/* Principal Investigator feature row */
+.people-widget .pi-feature {
+  margin-bottom: 3rem;
+}
+
+
+/* PI portrait can be a little larger */
+.people-widget .pi-profile .avatar {
+  max-width: 240px;
+}
+
+
+/* Lab image beside PI */
+.people-widget .pi-lab-photo {
+  display: block;
+  width: 100%;
+  height: 360px;
+  object-fit: cover;
+  object-position: center;
+  border-radius: 6px;
+}
+
+
+/* Stack PI and lab photo nicely on phones */
+@media (max-width: 767.98px) {
+
+  .people-widget .pi-lab-photo-column {
+    margin-top: 2rem;
+  }
+
+  .people-widget .pi-lab-photo {
+    height: auto;
+  }
+
+}

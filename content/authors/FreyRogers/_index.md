@@ -29,6 +29,7 @@ highlight_name: false
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
   - Affiliated Researchers
+graduation_year: 2025
 ---
 
 
