@@ -131,11 +131,19 @@
           </div>
 
 
-          <div class="col-12 col-md-8 pi-lab-photo-column">
+<div class="col-12 col-md-8 pi-lab-photo-column">
 
-            {{ $lab_photo := resources.Get "media/lab-photo
+  {{ $lab_photo := resources.Get "media/lab-photo.jpg" }}
 
-          </div>
+  {{ with $lab_photo }}
+    <img
+      class="pi-lab-photo"
+      src="{{ .RelPermalink }}"
+      alt="MEEP Lab"
+    >
+  {{ end }}
+
+</div>
 
         </div>
       </div>
