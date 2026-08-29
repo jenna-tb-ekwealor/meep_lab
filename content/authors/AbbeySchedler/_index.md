@@ -12,6 +12,9 @@ superuser: false
 # Short bio (displayed in user profile at end of posts)
 bio: MEEP Lab NSF RaMP Scholar.
 
+# Role/position or year in school
+role: MEEP Lab NSF RaMP Scholar
+
 interests:
   - Ecology and evolution
   - Botanical science

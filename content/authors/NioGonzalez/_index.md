@@ -12,7 +12,10 @@ authors:
 superuser: false
 
 # Short bio (displayed in user profile at end of posts)
-bio: Undergraduate researcher. 
+bio: Former undergraduate researcher. 
+
+# Role/position or year in school
+role: Post-Baccalaureate Researcher
 
 interests:
   - plant ecology
