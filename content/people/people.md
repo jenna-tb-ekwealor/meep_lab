@@ -11,7 +11,7 @@
       - Undergraduate Researchers
       - Summer Interns
       - Affiliated Researchers
-      - Lab Alumni
+      - name: Alumni
         sort_by: graduation_year
         sort_ascending: false
     sort_by: name_family
