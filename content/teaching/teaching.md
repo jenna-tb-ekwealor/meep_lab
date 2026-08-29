@@ -22,7 +22,7 @@ date_format = "2006"
   title = "BIOL 529 Plants, People, & Planet"
   organization = "San Francisco State University, Department of Biology"
   date_start = 2026-08-26
-  date_end = '2026-12-19'
+  date_end = ''
   description = "A hands-on plant ecology course focused on Bay Area plant communities, human–environment relationships, Indigenous land stewardship, climate change, agriculture, and environmental justice."
 
 [[item]]
