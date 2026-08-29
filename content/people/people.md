@@ -1,37 +1,30 @@
 ---
-title: People
-type: landing
+# An instance of the People widget.
+# Documentation: https://wowchemy.com/docs/page-builder/
+widget: people
+
+# This file represents a page section.
+headless: true
+
+# Order that this section appears on the page.
 weight: 10
 
-sections:
-  - block: team-showcase
-    content:
-      title: Meet the Lab
-      subtitle: ''
-      text: ''
-      user_groups:
-        - Principal Investigator
-        - Graduate Students
-        - Post-Baccalaureate Researchers
-        - Undergraduate Researchers
-        - Summer Interns
-        - Affiliated Researchers
-        - name: Alumni
-          sort_by: graduation_year
-          sort_ascending: false
-      sort_by: name_family
-      sort_ascending: true
-      cta:
-        text: Join us
-        url: /apply
-        icon: hero/user-plus
-    design:
-      show_role: true
-      show_organizations: true
-      show_interests: true
-      max_interests: 3
-      show_social: true
-      align: left
-      max_columns: 3
-      show_empty_groups: false
+title: Meet the Lab
+subtitle:
+
+content:
+  # Choose which groups/teams of users to display.
+  #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
+  user_groups:
+    - Principal Investigator
+    - Graduate Students
+    - Post-Baccalaureate Researchers
+    - Undergraduate Researchers
+    - Summer Interns
+    - Affiliated Researchers
+    - Lab Alumni
+design:
+  show_interests: false
+  show_role: true
+  show_social: true
 ---
