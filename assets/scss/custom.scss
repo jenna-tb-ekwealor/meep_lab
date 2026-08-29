@@ -2083,7 +2083,7 @@ footer a:hover {
 
 /* Principal Investigator feature row */
 .people-widget .pi-feature {
-  margin-bottom: 3rem;
+  margin-bottom: 0.5rem;
 }
 
 
@@ -2096,10 +2096,11 @@ footer a:hover {
 /* Lab image beside PI */
 .people-widget .pi-lab-photo {
   display: block;
-  width: auto;
-  max-width: 100%;
+  width: 90%;
+  max-width: 90%;
   height: auto;
-  margin: 0 auto;
+  margin-left: -1rem;
+  margin-right: auto;
 }
 
 /* Stack PI and lab photo nicely on phones */
