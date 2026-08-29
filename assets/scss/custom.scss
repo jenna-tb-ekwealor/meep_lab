@@ -228,6 +228,7 @@ footer a:hover {
 
 .field-notes-paper {
   aspect-ratio: 1733 / 1444;
+  container-type: inline-size;
   flex: 0 1 500px;
   max-height: 88%;
   max-width: 500px;
@@ -250,18 +251,27 @@ footer a:hover {
   // font-family: 'Caveat', 'Bradley Hand', 'Segoe Print', cursive;
   font-family: 'Reenie Beanie', 'Bradley Hand', 'Segoe Print', cursive;
   font-size: 2.3vw;
+  font-size: 6cqw;
   font-weight: 400;
   line-height: 1;
+  max-width: 70%;
+  overflow: hidden;
+  white-space: nowrap;
   top: 43%;
 }
 
 .field-notes-paper-body {
+  bottom: 8%;
+  box-sizing: border-box;
   font-family: 'Courier Prime', 'Courier New', monospace;
   font-size: 1.05vw;
+  font-size: 2.5cqw;
   font-weight: 400;
   left: 5.5%;
   line-height: 1.22;
-  padding-left: 2rem;
+  padding-left: 6.4cqw;
+  overflow: hidden;
+  overflow-wrap: anywhere;
   top: 64%;
   width: 64%;
 }
@@ -286,6 +296,7 @@ footer a:hover {
 
 .field-notes-tape {
   aspect-ratio: 1100 / 342;
+  container-type: inline-size;
   flex: 0 0 auto;
   margin-left: 2rem;
   max-width: 410px;
@@ -295,13 +306,16 @@ footer a:hover {
 }
 
 .field-notes-tape-copy {
+  box-sizing: border-box;
   color: #36302a;
   // font-family: 'Caveat', 'Bradley Hand', 'Segoe Print', cursive;
   font-family: 'Reenie Beanie', 'Bradley Hand', 'Segoe Print', cursive;
   font-size: 2.2vw;
+  font-size: 6cqw;
   font-weight: 500;
-  inset: 22% 9% auto 12%;
+  inset: 22% 9% 15% 12%;
   line-height: 1.13;
+  overflow: hidden;
   position: absolute;
   text-align: center;
   transform: rotate(0.5deg);
@@ -335,14 +349,16 @@ footer a:hover {
 
   .field-notes-paper-title {
     font-size: 8vw;
+    font-size: 7.3cqw;
     top: 30%;
   }
 
   .field-notes-paper-body {
     font-size: 3.4vw;
+    font-size: 3cqw;
     left: 10%;
     line-height: 1.2;
-    padding-left: 1rem;
+    padding-left: 4.4cqw;
     top: 44%;
     width: 56%;
   }
@@ -359,21 +375,22 @@ footer a:hover {
 
   .field-notes-tape-copy {
     font-size: 5vw;
+    font-size: 6.7cqw;
     inset: 22% 9% auto 12%;
   }
 }
 
 @media (min-width: 576px) and (max-width: 767px) {
   .field-notes-paper-title {
-    font-size: 2.35rem;
+    font-size: 7.3cqw;
   }
 
   .field-notes-paper-body {
-    font-size: 1rem;
+    font-size: 3cqw;
   }
 
   .field-notes-tape-copy {
-    font-size: 1.35rem;
+    font-size: 6.7cqw;
   }
 }
 
@@ -383,15 +400,15 @@ footer a:hover {
   }
 
   .field-notes-paper-title {
-    font-size: 2.35rem;
+    font-size: 6cqw;
   }
 
   .field-notes-paper-body {
-    font-size: 1rem;
+    font-size: 2.5cqw;
   }
 
   .field-notes-tape-copy {
-    font-size: 1.65rem;
+    font-size: 6cqw;
   }
 }
 
@@ -413,6 +430,7 @@ footer a:hover {
 
 .new-pub-paper {
   aspect-ratio: 1733 / 1444;
+  container-type: inline-size;
   flex: 0 1 500px;
   max-height: 98%;
   max-width: 500px;
@@ -432,7 +450,7 @@ footer a:hover {
   color: #302c27;
   left: 11%;
   position: absolute;
-  transform: translate(-3vw, -5.3rem) rotate(-0.3deg);
+  transform: translate(-8.3cqw, -20cqw) rotate(-0.3deg);
   transform-origin: left center;
   z-index: 1;
 }
@@ -441,19 +459,28 @@ footer a:hover {
   // font-family: 'Caveat', 'Bradley Hand', 'Segoe Print', cursive;
   font-family: 'Reenie Beanie', 'Bradley Hand', 'Segoe Print', cursive;
   font-size: 2.3vw;
+  font-size: 6cqw;
   font-weight: 400;
   line-height: 1;
   left: 13.5%;
+  max-width: 48%;
+  overflow: hidden;
+  white-space: nowrap;
   top: 37.5%;
 }
 
 .new-pub-paper-body {
+  bottom: 8%;
+  box-sizing: border-box;
   font-family: 'Courier Prime', 'Courier New', monospace;
   font-size: 1.05vw;
+  font-size: 2.5cqw;
   font-weight: 400;
   left: 5.5%;
   line-height: 1.22;
-  padding-left: 2rem;
+  padding-left: 6.4cqw;
+  overflow: hidden;
+  overflow-wrap: anywhere;
   top: 56%;
   width: 64%;
 }
@@ -478,6 +505,7 @@ footer a:hover {
 
 .new-pub-tape {
   aspect-ratio: 1100 / 342;
+  container-type: inline-size;
   flex: 0 0 auto;
   margin-left: 2rem;
   max-width: 410px;
@@ -488,16 +516,19 @@ footer a:hover {
 }
 
 .new-pub-tape-copy {
+  box-sizing: border-box;
   color: #36302a;
   // font-family: 'Caveat', 'Bradley Hand', 'Segoe Print', cursive;
   font-family: 'Reenie Beanie', 'Bradley Hand', 'Segoe Print', cursive;
   font-size: 2vw;
+  font-size: 6cqw;
   font-weight: 500;
-  inset: 22% 9% auto 12%;
+  inset: 22% 9% 15% 12%;
   line-height: 1.13;
+  overflow: hidden;
   position: absolute;
   text-align: center;
-  transform: translate(0vw, -0.6rem) rotate(0.5deg);
+  transform: translate(0, -3cqw) rotate(0.5deg);
   z-index: 1;
 }
 
@@ -506,6 +537,7 @@ footer a:hover {
 }
 
 .paper-message-card {
+  container-type: inline-size;
   max-width: 920px;
   position: relative;
   transform: rotate(-1.2deg);
@@ -522,10 +554,14 @@ footer a:hover {
   color: #302c27;
   font-family: 'Reenie Beanie', 'Bradley Hand', 'Segoe Print', cursive;
   font-size: clamp(1.65rem, 2.65vw, 2.65rem);
+  font-size: 3.7cqw;
   font-weight: 400;
   left: 6%;
   line-height: 0.88;
   margin: 0;
+  max-height: 70%;
+  overflow: hidden;
+  overflow-wrap: anywhere;
   position: absolute;
   right: 6%;
   text-align: center;
@@ -540,6 +576,7 @@ footer a:hover {
 
   .paper-message-card p {
     font-size: clamp(1rem, 4.5vw, 1.7rem);
+    font-size: 4.2cqw;
     left: 5%;
     right: 5%;
   }
@@ -568,16 +605,18 @@ footer a:hover {
 
   .new-pub-paper-title {
     font-size: 6.5vw;
+    font-size: 5.2cqw;
     top: 30%;
   }
 
   .new-pub-paper-body {
     font-size: 2.7vw;
+    font-size: 2.2cqw;
     left: 10%;
     line-height: 1.16;
-    padding-left: 1rem;
+    padding-left: 4.4cqw;
     top: 50%;
-    width: 66%;
+    width: 60%;
   }
 
   .new-pub-tape {
@@ -592,21 +631,23 @@ footer a:hover {
 
   .new-pub-tape-copy {
     font-size: 5vw;
+    font-size: 6.7cqw;
     inset: 22% 9% auto 12%;
+    transform: translate(0, -1cqw) rotate(0.5deg);
   }
 }
 
 @media (min-width: 576px) and (max-width: 767px) {
   .new-pub-paper-title {
-    font-size: 2.35rem;
+    font-size: 5.2cqw;
   }
 
   .new-pub-paper-body {
-    font-size: 1rem;
+    font-size: 2.2cqw;
   }
 
   .new-pub-tape-copy {
-    font-size: 1.35rem;
+    font-size: 6.7cqw;
   }
 }
 
@@ -616,15 +657,15 @@ footer a:hover {
   }
 
   .new-pub-paper-title {
-    font-size: 2.35rem;
+    font-size: 6cqw;
   }
 
   .new-pub-paper-body {
-    font-size: 1rem;
+    font-size: 2.5cqw;
   }
 
   .new-pub-tape-copy {
-    font-size: 1.65rem;
+    font-size: 6cqw;
   }
 }
 
@@ -1306,7 +1347,7 @@ footer a:hover {
 
   .meep-home-hero .meep-hero-art img {
     bottom: auto;
-    right: -95px;
+    right: -115px;
     top: 145px;
     width: 275px;
     max-width: none;
