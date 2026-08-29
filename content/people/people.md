@@ -1,6 +1,7 @@
 ---
 title: People
 type: landing
+weight: 10
 
 sections:
   - block: team-showcase
