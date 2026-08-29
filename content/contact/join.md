@@ -26,7 +26,7 @@ advanced:
 
 <div class="join-lab-copy">
 
-I am happy to speak with students interested in Master’s research in the MEEP Lab. 
+I am happy to speak with students interested in conducting research in the MEEP Lab. 
 Please review one or two of my [**publications**](../publication/) before getting in touch so that we can better discuss your research interests and possible projects.
 
 <div class="join-lab-inline-image join-lab-inline-image-joshua">
