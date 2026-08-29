@@ -909,7 +909,7 @@ footer a:hover {
   .moss-world-collage:hover,
   .moss-world-collage:focus-visible {
     filter: drop-shadow(0 12px 18px rgba(43, 42, 38, 0.22));
-    transform: translateY(-12px) scale(1.025);
+    transform: translateY(-4px) scale(1.008);
   }
 }
 
@@ -1473,7 +1473,7 @@ footer a:hover {
   border-radius: 6px;
   padding: 28px 26px 30px;
   box-shadow: 0 10px 24px rgba(43, 42, 38, 0.08);
-  transition: transform 0.18s ease, opacity 0.18s ease;
+  transition: box-shadow 0.18s ease, transform 0.18s ease, opacity 0.18s ease;
 }
 
 
@@ -1492,7 +1492,9 @@ footer a:hover {
   right: 6px;
 }
 
-.meep-value-card:hover {
+.meep-value-card:hover,
+.meep-value-card:focus-within {
+  box-shadow: 0 14px 30px rgba(43, 42, 38, 0.2);
   transform: translateY(-3px);
   opacity: 0.9;
 }
@@ -1669,6 +1671,13 @@ footer a:hover {
   padding: 30px 32px 22px;
   margin: 0 0 44px;
   position: relative;
+  transition: box-shadow 0.18s ease, transform 0.18s ease;
+}
+
+.meep-media-featured:hover,
+.meep-media-featured:focus-within {
+  box-shadow: 0 14px 30px rgba(43, 42, 38, 0.2);
+  transform: translateY(-3px);
 }
 
 .meep-media-featured iframe {
@@ -1741,7 +1750,7 @@ footer a:hover {
   box-shadow: 0 10px 24px rgba(43, 42, 38, 0.08);
   padding: 26px 24px 28px;
   position: relative;
-  transition: transform 0.18s ease, opacity 0.18s ease;
+  transition: box-shadow 0.18s ease, transform 0.18s ease, opacity 0.18s ease;
 }
 
 .meep-media-featured .meep-card-pushpin,
@@ -1759,8 +1768,12 @@ footer a:hover {
 }
 
 .meep-media-card:hover,
+.meep-media-card:focus-within,
 .meep-media-audio-card:hover,
-.meep-media-note-card:hover {
+.meep-media-audio-card:focus-within,
+.meep-media-note-card:hover,
+.meep-media-note-card:focus-within {
+  box-shadow: 0 14px 30px rgba(43, 42, 38, 0.2);
   transform: translateY(-3px);
   opacity: 0.94;
 }
@@ -1916,7 +1929,7 @@ footer a:hover {
   border-radius: 6px;
   padding: 34px 26px 30px;
   box-shadow: 0 10px 24px rgba(43, 42, 38, 0.08);
-  transition: transform 0.18s ease, opacity 0.18s ease;
+  transition: box-shadow 0.18s ease, transform 0.18s ease, opacity 0.18s ease;
 }
 
 .meep-card-pushpin {
@@ -2101,6 +2114,7 @@ footer a:hover {
   height: auto;
   margin-left: -1rem;
   margin-right: auto;
+  margin-top: -1rem;
 }
 
 /* Stack PI and lab photo nicely on phones */
