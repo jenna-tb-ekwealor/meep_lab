@@ -2,8 +2,8 @@
 - block: team-showcase
   content:
     title: Meet the Lab
-    subtitle: 
-    text: 
+    subtitle: ''
+    text: ''
     user_groups:
       - Principal Investigator
       - Graduate Students
