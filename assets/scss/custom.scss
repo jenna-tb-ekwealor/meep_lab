@@ -2096,13 +2096,11 @@ footer a:hover {
 /* Lab image beside PI */
 .people-widget .pi-lab-photo {
   display: block;
-  width: 100%;
-  height: 360px;
-  object-fit: cover;
-  object-position: center;
-  border-radius: 6px;
+  width: auto;
+  max-width: 100%;
+  height: auto;
+  margin: 0 auto;
 }
-
 
 /* Stack PI and lab photo nicely on phones */
 @media (max-width: 767.98px) {
