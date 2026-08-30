@@ -918,8 +918,8 @@ footer a:hover {
 }
 
 .moss-world-header-decoration-ruralis {
-  filter: drop-shadow(0 5px 7px rgba(43, 42, 38, 0.18));
-  left: 120%;
+  filter: drop-shadow(0 10px 7px rgba(43, 42, 38, 0.18));
+  left: 160%;
   top: -72%;
   transform: rotate(-75deg);
   transform-origin: center;
@@ -1119,7 +1119,7 @@ footer a:hover {
   }
 
   .moss-world-header-decoration-ruralis {
-    left: 120%;
+    left: 160%;
     top: -45%;
     width: 42%;
     transform: rotate(-75deg);
@@ -2196,7 +2196,7 @@ footer a:hover {
 .moss-world-paper-header:has(.moss-world-header-decoration-dust) .moss-world-paper-content,
 .moss-world-paper-header:has(.moss-world-header-decoration-ruralis) .moss-world-paper,
 .moss-world-paper-header:has(.moss-world-header-decoration-ruralis) .moss-world-paper-content {
-  transform: translateX(110px);
+  transform: translateX(140px);
 }
 
 
