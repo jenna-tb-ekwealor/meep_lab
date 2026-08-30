@@ -3,6 +3,7 @@ title: "Summer in the Great Basin"
 summary: "The deserts project team visits Deep Springs for summer field work"
 authors:
   - "AbbeySchedler"
+  - "NioGonzalez"
 date: 2026-06-13T18:15:21-07:00
 toc: true
 share: true
