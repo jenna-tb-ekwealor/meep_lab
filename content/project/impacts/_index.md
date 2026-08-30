@@ -25,10 +25,12 @@ Some of our questions include:
 
 This world connects ecology, environmental health, climate justice, public science, and the human dimensions of moss research.
 
+<!-- 
 <h2 class="moss-world-section-title">Papers in this research area:</h2>
 <div class="moss-world-papers">
 {{< project_list categories="impacts" >}}
 </div>
+ -->
 
 <h2 class="moss-world-section-title">Ongoing projects in this research area:</h2>
 <div class="moss-world-ongoing">
