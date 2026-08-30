@@ -1,12 +1,18 @@
 {{- define "main" -}}
 
+<div class="moss-world-page">
+
 {{ $paper := resources.Get "media/theme/paper_scraps_website_brown.png" }}
 {{ $icon := resources.Get (printf "media/%s" .Params.world_icon) }}
+{{ $decoration := false }}
+{{ with .Params.header_decoration }}{{ $decoration = resources.Get (printf "media/%s" .) }}{{ end }}
 {{ with $paper }}{{ $paper = .Resize "1400x webp q84" }}{{ end }}
 {{ with $icon }}{{ $icon = .Resize "360x webp q88" }}{{ end }}
+{{ with $decoration }}{{ $decoration = .Resize "1800x webp q88" }}{{ end }}
 <div class="universal-wrapper pt-3">
   <div class="moss-world-paper-header">
     {{ with $paper }}<img class="moss-world-paper" src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" alt="" fetchpriority="high">{{ end }}
+    {{ with $decoration }}<img class="moss-world-header-decoration" src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" alt="" fetchpriority="high">{{ end }}
     <div class="moss-world-paper-content">
       {{ with $icon }}<img class="moss-world-stamp" src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" alt="">{{ end }}
       <h1>{{ .Title }}</h1>
@@ -25,6 +31,8 @@
   {{ end }}
 
   {{ partial "pagination" . }}
+</div>
+
 </div>
 
 {{- end -}}

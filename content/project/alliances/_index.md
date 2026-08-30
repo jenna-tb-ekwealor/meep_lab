@@ -7,6 +7,7 @@ view: compact
 weight: 3
 show_date: false
 world_icon: theme/moss-worlds_alliances.png
+header_decoration: theme/branch12_crop_removebackground.png
 ---
 
 Mosses do not live alone. They grow in close contact with bacteria, fungi, cyanobacteria, and other microorganisms that may influence how they survive, reproduce, and shape ecosystems.

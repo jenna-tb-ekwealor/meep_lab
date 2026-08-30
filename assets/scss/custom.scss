@@ -74,6 +74,19 @@ a:focus {
   font-family: 'IBM Plex Sans', sans-serif;
 }
 
+.media.stream-item.blog-stream-item .blog-stream-thumbnail img {
+  height: auto;
+  max-width: 260px;
+  width: 260px;
+}
+
+@media screen and (max-width: 768px) {
+  .media.stream-item.blog-stream-item .blog-stream-thumbnail img {
+    max-width: 110px;
+    width: 110px;
+  }
+}
+
 .publication-cover {
   display: inline-block;
   height: auto;
@@ -844,12 +857,27 @@ footer a:hover {
   width: 100%;
 }
 
+.moss-world-page {
+  overflow-x: clip;
+}
+
 .moss-world-paper {
   height: 100%;
   inset: 0;
   object-fit: fill;
   position: absolute;
   width: 100%;
+}
+
+.moss-world-header-decoration {
+  height: auto;
+  left: 72%;
+  max-width: none;
+  pointer-events: none;
+  position: absolute;
+  top: -22%;
+  width: 210%;
+  z-index: 2;
 }
 
 .moss-world-paper-content {
@@ -859,7 +887,7 @@ footer a:hover {
   height: 100%;
   padding: 1rem 3.4rem;
   position: relative;
-  z-index: 1;
+  z-index: 3;
 }
 
 .moss-world-stamp {
@@ -909,7 +937,7 @@ footer a:hover {
   .moss-world-collage:hover,
   .moss-world-collage:focus-visible {
     filter: drop-shadow(0 12px 18px rgba(43, 42, 38, 0.22));
-    transform: translateY(-4px) scale(1.008);
+    transform: translateY(-2px) scale(1.002);
   }
 }
 
@@ -1026,6 +1054,12 @@ footer a:hover {
 
   .moss-world-paper-content h1 {
     font-size: 2.6rem;
+  }
+
+  .moss-world-header-decoration {
+    left: 74%;
+    top: -12%;
+    width: 190%;
   }
 
   .moss-world-collage {
