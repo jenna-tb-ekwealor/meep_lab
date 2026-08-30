@@ -974,7 +974,7 @@ footer a:hover {
   max-width: 540px;
   position: relative;
   width: 100%;
-  transform: scale(1.2);
+  transform: scale(1.12);
   transform-origin: center center;
 }
 
@@ -1000,7 +1000,7 @@ footer a:hover {
   .moss-world-collage:hover,
 .moss-world-collage:focus-visible {
   filter: drop-shadow(0 12px 18px rgba(43, 42, 38, 0.22));
-  transform: scale(1.2) translateY(-1px);
+  transform: scale(1.12) translateY(-1px);
 }
 }
 
