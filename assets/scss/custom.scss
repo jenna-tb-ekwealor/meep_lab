@@ -826,22 +826,11 @@ footer a:hover {
 }
 
 .research-world-card:nth-child(3) .meep-card-lichen {
-  right: -20px;
-  top: -25px;
-  transform: rotate(5deg);
-  width: 156px;
+  display: none;
 }
 
 .research-world-card:nth-child(1) .meep-card-amber {
-  position: absolute;
-  top: 7px;
-  right: -6px;
-  width: 120px;
-  height: auto;
-  margin: 0;
-  z-index: 2;
-  pointer-events: none;
-  transform: rotate(-5deg);
+  display: none;
 }
 
 .research-world-card:nth-child(1) .meep-card-pushpin {
