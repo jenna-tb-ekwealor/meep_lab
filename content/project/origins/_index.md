@@ -7,6 +7,8 @@ view: compact
 weight: 1
 show_date: false
 world_icon: theme/moss-worlds_origins.png
+header_decoration: theme/amber.png
+header_decoration_class: amber
 ---
 
 Mosses carry long evolutionary histories in small bodies. In this world, we ask where moss lineages come from, how they are related, and how their traits have changed over time.

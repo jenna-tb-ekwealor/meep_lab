@@ -925,6 +925,15 @@ footer a:hover {
   width: 135%;
 }
 
+.moss-world-header-decoration-amber {
+  filter: drop-shadow(0 5px 7px rgba(43, 42, 38, 0.18));
+  left: 78%;
+  top: -55%;
+  transform: none;
+  transform-origin: center;
+  width: 65%;
+}
+
 .moss-world-paper-content {
   align-items: center;
   display: flex;
@@ -1120,6 +1129,13 @@ footer a:hover {
   top: -44%;
   width: 125%;
   transform: rotate(0deg);
+}
+
+.moss-world-header-decoration-amber {
+  left: 76%;
+  top: -40%;
+  width: 60%;
+  transform: none;
 }
 
   .moss-world-collage {
