@@ -7,6 +7,8 @@ view: compact
 weight: 4
 show_date: false
 world_icon: theme/moss-worlds_impact.png
+header_decoration: theme/dust.png
+header_decoration_class: dust
 ---
 
 Mosses are small, but their effects can scale up. In drylands, mosses can help stabilize soil, shape biological soil crusts, influence dust, affect microbial communities, and contribute to ecosystem resilience.
