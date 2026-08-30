@@ -3,6 +3,8 @@
 {{ $alliances := resources.Get "media/theme/moss-worlds_alliances.png" }}
 {{ $impacts := resources.Get "media/theme/moss-worlds_impact.png" }}
 {{ $pushpin := resources.Get "media/theme/pushpin.png" }}
+{{ $lichen := resources.Get "media/theme/lichen2.png" }}
+{{ with $lichen }}{{ $lichen = .Resize "140x webp q88" }}{{ end }}
 
 <div class="research-worlds-wrap">
   <div class="research-worlds-intro">
@@ -27,6 +29,7 @@
     </a>
 
     <a class="research-world-card" href="/project/alliances/">
+      {{ with $lichen }}<img class="meep-card-lichen" src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" alt="">{{ end }}
       {{ with $pushpin }}<img class="meep-card-pushpin" src="{{ .RelPermalink }}" alt="">{{ end }}
       {{ with $alliances }}<img src="{{ .RelPermalink }}" alt="Alliances icon">{{ end }}
       <h3>Alliances</h3>

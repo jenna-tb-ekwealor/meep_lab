@@ -20,10 +20,6 @@ main:
     identifier: research
     url: project
     weight: 50
-  - name: Research Areas
-    parent: research
-    url: project
-    weight: 51
   - name: Origins
     parent: research
     url: project/origins

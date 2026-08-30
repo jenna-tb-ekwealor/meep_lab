@@ -813,6 +813,24 @@ footer a:hover {
   pointer-events: none;
 }
 
+.research-world-card .meep-card-lichen {
+  height: auto;
+  margin: 0;
+  pointer-events: none;
+  position: absolute;
+  right: 0;
+  top: 22px;
+  transform: rotate(8deg);
+  width: 52px;
+  z-index: 1;
+}
+
+.research-world-card:nth-child(3) .meep-card-lichen {
+  right: 9px;
+  top: 19px;
+  transform: rotate(5deg);
+}
+
 .research-world-card:nth-child(1) .meep-card-pushpin {
   top: 7px;
   right: -6px;
@@ -878,18 +896,19 @@ footer a:hover {
 }
 
 .moss-world-header-decoration-branch {
-  filter: drop-shadow(0 2px 3px rgba(43, 42, 38, 0.08));
-  left: 74%;
+  filter: drop-shadow(0 5px 7px rgba(43, 42, 38, 0.18));
+  left: 70%;
   top: -38%;
-  transform: rotate(6deg);
+  transform: rotate(15deg);
   transform-origin: left center;
   width: 210%;
 }
 
 .moss-world-header-decoration-ruralis {
+  filter: drop-shadow(0 5px 7px rgba(43, 42, 38, 0.18));
   left: 83%;
   top: -72%;
-  transform: rotate(58deg);
+  transform: rotate(90deg);
   transform-origin: center;
   width: 43%;
 }
@@ -1071,7 +1090,7 @@ footer a:hover {
   }
 
   .moss-world-header-decoration-branch {
-    left: 72%;
+    left: 68%;
     top: -25%;
     width: 190%;
   }
@@ -1167,6 +1186,11 @@ footer a:hover {
 #teaching,
 #workshops {
   scroll-margin-top: 7rem;
+}
+
+#navbar-main .dropdown-toggle::after,
+#navbar-main .dropdown-toggle .caret {
+  display: none;
 }
 
 .wg-teaching-courses .teaching-course-photo img,
