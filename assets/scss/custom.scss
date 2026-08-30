@@ -1230,6 +1230,38 @@ footer a:hover {
   width: 100%;
 }
 
+
+/* Reposition research-world descriptions on desktop */
+@media (min-width: 641px) {
+
+  /* Origins: up + left */
+  .moss-world-list-row:has(.moss-world-collage-origins)
+  .moss-world-description-link {
+    transform: translate(-40px, -45px);
+  }
+
+  /* Survival: up + right */
+  .moss-world-list-row:has(.moss-world-collage-survival)
+  .moss-world-description-link {
+    transform: translate(40px, -45px);
+  }
+
+  /* Alliances: up + left */
+  .moss-world-list-row:has(.moss-world-collage-alliances)
+  .moss-world-description-link {
+    transform: translate(-40px, -45px);
+  }
+
+  /* Impacts: up + right */
+  .moss-world-list-row:has(.moss-world-collage-impacts)
+  .moss-world-description-link {
+    transform: translate(40px, -45px);
+  }
+
+}
+
+
+
 #teaching,
 #workshops {
   scroll-margin-top: 7rem;
