@@ -17,17 +17,64 @@ main:
     url: people
     weight: 40
   - name: Research
+    identifier: research
     url: project
     weight: 50
+  - name: Research Areas
+    parent: research
+    url: project
+    weight: 51
+  - name: Origins
+    parent: research
+    url: project/origins
+    weight: 52
+  - name: Survival
+    parent: research
+    url: project/survival
+    weight: 53
+  - name: Alliances
+    parent: research
+    url: project/alliances
+    weight: 54
+  - name: Impacts
+    parent: research
+    url: project/impacts
+    weight: 55
   - name: Publications
     url: publication
     weight: 60
   - name: Teaching
+    identifier: teaching
     url: teaching
     weight: 70
+  - name: Courses
+    parent: teaching
+    url: teaching/#teaching
+    weight: 71
+  - name: Workshops
+    parent: teaching
+    url: teaching/#workshops
+    weight: 72
   - name: Media
+    identifier: media
     url: media
     weight: 80
+  - name: Featured
+    parent: media
+    url: media/#featured
+    weight: 81
+  - name: Print & Online
+    parent: media
+    url: media/#print-online
+    weight: 82
+  - name: Radio & Podcasts
+    parent: media
+    url: media/#radio-podcasts
+    weight: 83
+  - name: Other
+    parent: media
+    url: media/#other
+    weight: 84
   - name: Contact
     url: contact
     weight: 90

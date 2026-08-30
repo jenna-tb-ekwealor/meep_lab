@@ -7,6 +7,8 @@ view: compact
 weight: 2
 show_date: false
 world_icon: theme/moss-worlds_survival.png
+header_decoration: theme/ruralis_no_background.png
+header_decoration_class: ruralis
 ---
 
 Mosses live where water is unpredictable, light can be intense, temperatures shift quickly, and survival often depends on small-scale physiological strategies.

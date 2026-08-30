@@ -22,7 +22,7 @@ subtitle = ""
 <p>Stories, interviews, podcasts, and creative works featuring MEEP Lab research on desert mosses, quartz shelters, dryland survival, and plant life in extreme environments.</p>
 </div>
 
-<div class="meep-media-featured">
+<div id="featured" class="meep-media-featured">
 <div class="meep-media-featured-label">Featured</div>
 <h2><a href="https://www.npr.org/2025/02/14/nx-s1-5297194/moss-appreciation-week-mosses-plants-celebration-bryophyta-pacific-northwest-portland" target="_blank" rel="noopener">“Moss Appreciation Week”: a lot of celebration for a very little plant</a></h2>
 <p class="meep-media-source">NPR Morning Edition · Deena Prichep · 14 February 2025</p>
@@ -30,7 +30,7 @@ subtitle = ""
 <iframe src="https://www.npr.org/player/embed/nx-s1-5297194/nx-s1-5358802-1" width="100%" height="230" frameborder="0" scrolling="no" title="NPR embedded audio player"></iframe>
 </div>
 
-<h2 class="meep-media-section-title">Print & Online</h2>
+<h2 id="print-online" class="meep-media-section-title">Print & Online</h2>
 
 <div class="meep-media-grid">
 
@@ -76,7 +76,7 @@ subtitle = ""
 
 </div>
 
-<h2 class="meep-media-section-title">Radio & Podcasts</h2>
+<h2 id="radio-podcasts" class="meep-media-section-title">Radio & Podcasts</h2>
 
 <div class="meep-media-audio-list">
 
@@ -112,7 +112,7 @@ subtitle = ""
 
 </div>
 
-<h2 class="meep-media-section-title">Other</h2>
+<h2 id="other" class="meep-media-section-title">Other</h2>
 
 <div class="meep-media-note-card">
 <img class="meep-card-pushpin" src="/media/theme/pushpin.png" alt="">
