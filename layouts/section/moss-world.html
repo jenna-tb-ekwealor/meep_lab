@@ -10,15 +10,58 @@
 {{ with $paper }}{{ $paper = .Resize "1400x webp q84" }}{{ end }}
 {{ with $icon }}{{ $icon = .Resize "360x webp q88" }}{{ end }}
 {{ with $decoration }}{{ $decoration = .Resize "1800x webp q88" }}{{ end }}
-<div class="universal-wrapper pt-3">
-  <div class="moss-world-paper-header">
-    {{ with $paper }}<img class="moss-world-paper" src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" alt="" fetchpriority="high">{{ end }}
-    {{ with $decoration }}<img class="moss-world-header-decoration{{ with $decorationClass }} moss-world-header-decoration-{{ . }}{{ end }}" src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" alt="" fetchpriority="high">{{ end }}
-    <div class="moss-world-paper-content">
-      {{ with $icon }}<img class="moss-world-stamp" src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" alt="">{{ end }}
-      <h1>{{ .Title }}</h1>
+<div class="moss-world-header-stage{{ if eq $decorationClass "dust" }} moss-world-header-stage-dust{{ end }}">
+
+  <div class="universal-wrapper pt-3">
+    <div class="moss-world-paper-header">
+
+      {{ with $paper }}
+        <img class="moss-world-paper"
+             src="{{ .RelPermalink }}"
+             width="{{ .Width }}"
+             height="{{ .Height }}"
+             alt=""
+             fetchpriority="high">
+      {{ end }}
+
+      {{/* All decorations except dust remain positioned relative to the paper. */}}
+      {{ if ne $decorationClass "dust" }}
+        {{ with $decoration }}
+          <img class="moss-world-header-decoration{{ with $decorationClass }} moss-world-header-decoration-{{ . }}{{ end }}"
+               src="{{ .RelPermalink }}"
+               width="{{ .Width }}"
+               height="{{ .Height }}"
+               alt=""
+               fetchpriority="high">
+        {{ end }}
+      {{ end }}
+
+      <div class="moss-world-paper-content">
+        {{ with $icon }}
+          <img class="moss-world-stamp"
+               src="{{ .RelPermalink }}"
+               width="{{ .Width }}"
+               height="{{ .Height }}"
+               alt="">
+        {{ end }}
+        <h1>{{ .Title }}</h1>
+      </div>
+
     </div>
   </div>
+
+  {{/* Dust is viewport-stage decoration so its right edge can truly be pinned. */}}
+  {{ if eq $decorationClass "dust" }}
+    {{ with $decoration }}
+      <img class="moss-world-header-decoration moss-world-header-decoration-dust"
+           src="{{ .RelPermalink }}"
+           width="{{ .Width }}"
+           height="{{ .Height }}"
+           alt=""
+           fetchpriority="high">
+    {{ end }}
+  {{ end }}
+
 </div>
 
 <div class="universal-wrapper">

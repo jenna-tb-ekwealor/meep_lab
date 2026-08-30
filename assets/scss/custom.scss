@@ -888,6 +888,10 @@ footer a:hover {
   overflow-x: clip;
 }
 
+.moss-world-header-stage {
+  position: relative;
+}
+
 .moss-world-paper {
   height: 100%;
   inset: 0;
@@ -922,14 +926,15 @@ footer a:hover {
   width: 43%;
 }
 
-.moss-world-header-decoration-dust {
+.moss-world-header-stage-dust > .moss-world-header-decoration-dust {
   filter: drop-shadow(0 5px 7px rgba(43, 42, 38, 0.14));
   left: auto;
-  right: calc(50% - 50vw);
-  top: -60%;
-  transform: rotate(0deg);
+  right: 0;
+  top: 0;
+  transform: none;
   transform-origin: right center;
-  width: 135%;
+  width: 702px;
+  max-width: 55vw;
 }
 
 .moss-world-header-decoration-amber {
@@ -1132,12 +1137,13 @@ footer a:hover {
     transform: rotate(-75deg);
   }
 
-.moss-world-header-decoration-dust {
+.moss-world-header-stage-dust > .moss-world-header-decoration-dust {
   left: auto;
-  right: calc(50% - 50vw);
-  top: -60%;
-  width: 125%;
-  transform: rotate(0deg);
+  right: 0;
+  top: 0;
+  width: 70vw;
+  max-width: none;
+  transform: none;
 }
 
 .moss-world-header-decoration-amber {
