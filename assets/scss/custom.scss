@@ -196,6 +196,13 @@ hr {
   font-weight: 300;
 }
 
+/* Dropdown menus open on hover on desktop */
+@media (min-width: 992px) {
+  #navbar-main .nav-item.dropdown:hover > .dropdown-menu {
+    display: block;
+  }
+}
+
 footer {
   background: var(--meep-hero-blue);
   color: var(--meep-cream);
