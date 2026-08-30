@@ -11,7 +11,7 @@ view: 4
 # Optional banner image (relative to `assets/media/` folder).
 banner:
   caption: ''
-  image: syntrichia.jpg
+  image: ''
 ---
 <div class="publication-cover-features">
 <p class="publication-cover-label"><em>Cover features:</em></p>
