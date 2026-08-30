@@ -832,6 +832,18 @@ footer a:hover {
   width: 156px;
 }
 
+.research-world-card:nth-child(1) .meep-card-amber {
+  position: absolute;
+  top: 7px;
+  right: -6px;
+  width: 120px;
+  height: auto;
+  margin: 0;
+  z-index: 2;
+  pointer-events: none;
+  transform: rotate(-5deg);
+}
+
 .research-world-card:nth-child(1) .meep-card-pushpin {
   top: 7px;
   right: -6px;
