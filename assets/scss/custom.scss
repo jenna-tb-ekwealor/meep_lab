@@ -958,11 +958,15 @@ footer a:hover {
   width: 43%;
 }
 
+.moss-world-header-stage-dust .moss-world-paper-header {
+  transform: translateX(20%);
+}
+
 .moss-world-header-stage-dust > .moss-world-header-decoration-dust {
   filter: drop-shadow(0 5px 7px rgba(43, 42, 38, 0.14));
   left: auto;
   right: 0;
-  top: 0;
+  top: -50%;
   transform: none;
   transform-origin: right center;
   width: 702px;
