@@ -2191,6 +2191,13 @@ footer a:hover {
   line-height: 1.35 !important;
 }
 
+/* Move paper + title right on Impacts and Survival */
+.moss-world-paper-header:has(.moss-world-header-decoration-dust) .moss-world-paper,
+.moss-world-paper-header:has(.moss-world-header-decoration-dust) .moss-world-paper-content,
+.moss-world-paper-header:has(.moss-world-header-decoration-ruralis) .moss-world-paper,
+.moss-world-paper-header:has(.moss-world-header-decoration-ruralis) .moss-world-paper-content {
+  transform: translateX(60px);
+}
 
 
 /* =========================================================
