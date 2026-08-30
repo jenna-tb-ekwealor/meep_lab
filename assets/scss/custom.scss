@@ -908,7 +908,7 @@ footer a:hover {
   filter: drop-shadow(0 5px 7px rgba(43, 42, 38, 0.18));
   left: 83%;
   top: -72%;
-  transform: rotate(90deg);
+  transform: rotate(180deg);
   transform-origin: center;
   width: 43%;
 }
@@ -917,7 +917,7 @@ footer a:hover {
   filter: drop-shadow(0 5px 7px rgba(43, 42, 38, 0.14));
   left: 78%;
   top: -70%;
-  transform: rotate(15deg);
+  transform: rotate(0deg);
   transform-origin: left center;
   width: 135%;
 }
@@ -1115,7 +1115,7 @@ footer a:hover {
     left: 74%;
     top: -44%;
     width: 125%;
-    transform: rotate(2.4deg);
+    transform: rotate(0deg);
   }
 
   .moss-world-collage {
