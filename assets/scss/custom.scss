@@ -888,6 +888,38 @@ footer a:hover {
   overflow-x: clip;
 }
 
+/* Nudge Research Worlds description text */
+@media (min-width: 768px) {
+
+  /* Origins: up + left */
+  .moss-world-list-row-origins .article-style {
+    position: relative;
+    top: -40px;
+    left: -40px;
+  }
+
+  /* Survival: up + right */
+  .moss-world-list-row-survival .article-style {
+    position: relative;
+    top: -40px;
+    left: 40px;
+  }
+
+  /* Alliances: up + left */
+  .moss-world-list-row-alliances .article-style {
+    position: relative;
+    top: -40px;
+    left: -40px;
+  }
+
+  /* Impacts: up + right */
+  .moss-world-list-row-impacts .article-style {
+    position: relative;
+    top: -40px;
+    left: 40px;
+  }
+}
+
 .moss-world-header-stage {
   position: relative;
 }

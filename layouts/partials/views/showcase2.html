@@ -27,6 +27,10 @@
   {{ $order = "order-md-2" }}
 {{ end }}
 
+{{ $world_key := lower $item.Title }}
+
+<div class="col-lg-12 mb-2 view-showcase moss-world-list-row moss-world-list-row-{{ $world_key }}">
+
 
 <div class="col-lg-12 mb-2 view-showcase moss-world-list-row">
   <div class="row align-items-center">
@@ -45,7 +49,6 @@
 
     </div>
     <div class="col-12 col-md-6 order-first {{$order}}">
-      {{ $world_key := lower $item.Title }}
       {{ $stamp_name := cond (eq $world_key "impacts") "impact" $world_key }}
       {{ $polaroids := dict
         "origins" "polaroid_2shoots.png"
