@@ -196,8 +196,52 @@ hr {
   font-weight: 300;
 }
 
+#navbar-main .nav-dropdown-heading {
+  align-items: stretch;
+  display: flex;
+}
+
+#navbar-main .nav-dropdown-link {
+  flex: 1 1 auto;
+}
+
+#navbar-main .nav-dropdown-toggle {
+  align-items: center;
+  background: transparent;
+  border: 0;
+  color: inherit;
+  display: flex;
+  flex: 0 0 3rem;
+  justify-content: center;
+  padding-left: 0.75rem;
+  padding-right: 0.75rem;
+}
+
+#navbar-main .nav-item.dropdown.mobile-open .nav-dropdown-toggle i {
+  transform: rotate(180deg);
+}
+
+#navbar-main .nav-dropdown-toggle i {
+  font-size: 0.8rem;
+  transition: transform 0.2s ease;
+}
+
+@media (max-width: 991.98px) {
+  #navbar-main .nav-item.dropdown:not(.mobile-open) > .dropdown-menu.show {
+    display: none;
+  }
+
+  #navbar-main .nav-item.dropdown.mobile-open > .dropdown-menu {
+    display: block;
+  }
+}
+
 /* Dropdown menus open on hover on desktop */
 @media (min-width: 992px) {
+  #navbar-main .nav-dropdown-heading {
+    display: block;
+  }
+
   #navbar-main .nav-item.dropdown:hover > .dropdown-menu {
     display: block;
   }
@@ -1133,6 +1177,10 @@ footer a:hover {
 }
 
 @media (max-width: 640px) {
+  .moss-world-header-stage-dust .moss-world-paper-header {
+    transform: none;
+  }
+
   .moss-world-list-row,
   .moss-world-list-row + .moss-world-list-row {
     margin-bottom: 2rem !important;
@@ -1161,13 +1209,13 @@ footer a:hover {
   }
 
   .moss-world-header-decoration-branch {
-    left: 68%;
+    left: 25%;
     top: -75%;
     width: 190%;
   }
 
   .moss-world-header-decoration-ruralis {
-    left: 140%;
+    left: 60%;
     top: -65%;
     width: 42%;
     transform: rotate(-70deg);
@@ -1183,7 +1231,7 @@ footer a:hover {
 }
 
 .moss-world-header-decoration-amber {
-  left: 92%;
+  left: 62%;
   top: -10%;
   width: 60%;
   transform: rotate(25deg);
@@ -1558,7 +1606,7 @@ footer a:hover {
 
   .meep-home-hero .meep-hero-art img {
     bottom: auto;
-    right: -115px;
+    right: -127px;
     top: 145px;
     width: 275px;
     max-width: none;
@@ -1574,6 +1622,7 @@ footer a:hover {
   background: var(--meep-cream);
   background-image: radial-gradient(var(--meep-paper-speckle) 1px, transparent 1px);
   background-size: 5px 5px;
+  overflow-x: clip;
 }
 
 .meep-values-wrap {
@@ -1712,8 +1761,13 @@ footer a:hover {
 
 @media (max-width: 900px) {
   .meep-values-intro {
-    grid-template-columns: 1fr;
+    grid-template-columns: minmax(0, 1fr);
     gap: 28px;
+  }
+
+  .meep-values-intro-copy {
+    min-width: 0;
+    overflow-wrap: anywhere;
   }
 
   .meep-values-polaroid {
@@ -1782,6 +1836,14 @@ footer a:hover {
   .meep-value-card {
     padding: 24px 22px 26px;
   }
+}
+
+iframe[src*="youtube.com/embed"] {
+  aspect-ratio: 16 / 9;
+  display: block;
+  height: auto;
+  max-width: 100%;
+  width: 100%;
 }
 
 
@@ -2258,6 +2320,13 @@ footer a:hover {
 .moss-world-paper-header:has(.moss-world-header-decoration-ruralis) .moss-world-paper,
 .moss-world-paper-header:has(.moss-world-header-decoration-ruralis) .moss-world-paper-content {
   transform: translateX(180px);
+}
+
+@media (max-width: 640px) {
+  .moss-world-paper-header:has(.moss-world-header-decoration-ruralis) .moss-world-paper,
+  .moss-world-paper-header:has(.moss-world-header-decoration-ruralis) .moss-world-paper-content {
+    transform: none;
+  }
 }
 
 

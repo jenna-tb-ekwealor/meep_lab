@@ -25,3 +25,4 @@ advanced:
 <a class="meep-hero-link" href="/media/">Read more <span>→</span></a>
 
 </div>
+</div>

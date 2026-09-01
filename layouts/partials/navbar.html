@@ -69,15 +69,25 @@
   {{ $is_dropdown_active = in $current_page.RelPermalink .URL }}
 {{ end }}
 
-<li class="nav-item dropdown">
-  <a
-    href="{{ .URL | relLangURL }}"
-    class="nav-link dropdown-toggle{{ if and $highlight_active_link $is_dropdown_active }} active{{ end }}"
-    data-toggle="dropdown"
-    aria-haspopup="true">
-    {{- .Pre -}}<span>{{ .Name | safeHTML }}</span>{{- .Post -}}
-    <span class="caret"></span>
-  </a>
+{{ $dropdown_id := printf "nav-%s-dropdown" (.Name | urlize) }}
+
+<li class="nav-item dropdown" id="{{ $dropdown_id }}">
+  <div class="nav-dropdown-heading">
+    <a
+      href="{{ .URL | relLangURL }}"
+      class="nav-link nav-dropdown-link{{ if and $highlight_active_link $is_dropdown_active }} active{{ end }}">
+      {{- .Pre -}}<span>{{ .Name | safeHTML }}</span>{{- .Post -}}
+    </a>
+
+    <button
+      type="button"
+      class="nav-link nav-dropdown-toggle d-lg-none"
+      aria-haspopup="true"
+      aria-expanded="false"
+      aria-label="Open {{ .Name }} submenu">
+      <i class="fas fa-chevron-down" aria-hidden="true"></i>
+    </button>
+  </div>
 
   <div class="dropdown-menu">
     {{ range .Children }}
