@@ -1183,7 +1183,7 @@ footer a:hover {
 
   .moss-world-list-row,
   .moss-world-list-row + .moss-world-list-row {
-    margin-bottom: 2rem !important;
+    margin-bottom: 4rem !important;
     margin-top: 1.5rem;
   }
 
@@ -1211,14 +1211,15 @@ footer a:hover {
   .moss-world-header-decoration-branch {
     left: 25%;
     top: -75%;
+    transform: rotate(20deg);
     width: 190%;
   }
 
   .moss-world-header-decoration-ruralis {
-    left: 60%;
+    left: 65%;
     top: -65%;
-    width: 42%;
-    transform: rotate(-70deg);
+    width: 37.8%;
+    transform: rotate(-5deg);
   }
 
 .moss-world-header-stage-dust > .moss-world-header-decoration-dust {
@@ -1231,10 +1232,10 @@ footer a:hover {
 }
 
 .moss-world-header-decoration-amber {
-  left: 62%;
+  left: 57%;
   top: -10%;
   width: 60%;
-  transform: rotate(25deg);
+  transform: rotate(30deg);
 }
 
   .moss-world-collage {
@@ -1244,6 +1245,7 @@ footer a:hover {
   }
 
   .moss-world-collage-stamp {
+    top: 22%;
     width: 82px;
   }
 }
@@ -1605,9 +1607,9 @@ footer a:hover {
   }
 
   .meep-home-hero .meep-hero-art img {
-    bottom: auto;
+    bottom: -6px;
     right: -127px;
-    top: 145px;
+    top: auto;
     width: 275px;
     max-width: none;
     transform: none;
@@ -1647,7 +1649,7 @@ footer a:hover {
 
 .meep-values-polaroid {
   display: block;
-  width: 720px;
+  width: 780px;
   max-width: none;
   height: auto;
   justify-self: end;
@@ -1771,8 +1773,8 @@ footer a:hover {
   }
 
   .meep-values-polaroid {
-    max-width: 460px;
-    width: 82vw;
+    max-width: 500px;
+    width: 88vw;
     justify-self: start;
     transform: rotate(1.5deg);
   }
@@ -1807,14 +1809,14 @@ footer a:hover {
 
   .meep-values-home .meep-values-polaroid {
     justify-self: center;
-    max-width: 560px;
-    width: 112vw;
+    max-width: 620px;
+    width: 128vw;
   }
 
   .meep-values-standalone .meep-values-polaroid {
     justify-self: center;
-    max-width: 620px;
-    width: 124vw;
+    max-width: 680px;
+    width: 140vw;
   }
 
   .meep-values-home .meep-hero-link {
