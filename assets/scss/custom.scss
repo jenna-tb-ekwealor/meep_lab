@@ -1030,6 +1030,7 @@ footer a:hover {
     position: relative;
     top: -40px;
     left: 40px;
+    text-align: right;
   }
 
   /* Alliances: up + left */
@@ -1044,6 +1045,7 @@ footer a:hover {
     position: relative;
     top: -40px;
     left: 40px;
+    text-align: right;
   }
 }
 
@@ -1244,6 +1246,10 @@ footer a:hover {
   transform: rotate(-3.5deg);
 }
 
+.moss-world-collage-survival .moss-world-polaroid-wrap span {
+  transform: translate(-7px, 5px);
+}
+
 .moss-world-collage-alliances .moss-world-collage-paper {
   transform: rotate(2deg);
 }
@@ -1252,12 +1258,20 @@ footer a:hover {
   transform: rotate(2.2deg);
 }
 
+.moss-world-collage-alliances .moss-world-polaroid-wrap span {
+  transform: translateY(5px);
+}
+
 .moss-world-collage-impacts .moss-world-collage-paper {
   transform: scaleX(-1) rotate(3deg);
 }
 
 .moss-world-collage-impacts .moss-world-polaroid-wrap {
   transform: rotate(-2.4deg);
+}
+
+.moss-world-collage-impacts .moss-world-polaroid-wrap span {
+  transform: translateY(5px);
 }
 
 @media (max-width: 640px) {
