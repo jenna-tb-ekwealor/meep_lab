@@ -760,6 +760,79 @@ footer a:hover {
   background-size: 5px 5px;
 }
 
+.moss-worlds-action-section {
+  background: var(--meep-cream) !important;
+}
+
+.moss-worlds-action-section .container {
+  max-width: 1480px;
+}
+
+.moss-worlds-action-wrap {
+  margin: 0 auto;
+  max-width: 1431px;
+  padding: 0 24px;
+}
+
+.moss-worlds-action-link {
+  color: var(--meep-charcoal);
+  display: block;
+  position: relative;
+  text-decoration: none;
+  transition: filter 0.2s ease, transform 0.2s ease;
+}
+
+.moss-worlds-action-link:hover,
+.moss-worlds-action-link:focus-visible {
+  color: var(--meep-charcoal);
+  filter: drop-shadow(0 10px 12px rgba(43, 42, 38, 0.16));
+  text-decoration: none;
+  transform: translateY(-2px);
+}
+
+.moss-worlds-action-link:focus-visible {
+  outline: 3px solid var(--meep-olive);
+  outline-offset: 5px;
+}
+
+.moss-worlds-action-art {
+  display: block;
+  height: auto;
+  width: 100%;
+}
+
+.moss-worlds-action-note {
+  align-items: center;
+  display: flex;
+  font-family: 'Reenie Beanie', 'Bradley Hand', 'Segoe Print', cursive;
+  font-size: clamp(1.15rem, 2.25vw, 2.15rem);
+  height: 43%;
+  justify-content: center;
+  left: 6.6%;
+  line-height: 0.95;
+  padding: 0 1.5%;
+  position: absolute;
+  text-align: center;
+  top: 28.5%;
+  transform: rotate(-1.2deg);
+  width: 17.5%;
+}
+
+@media (max-width: 767px) {
+  .moss-worlds-action-section.home-section {
+    padding-bottom: 22px !important;
+    padding-top: 22px !important;
+  }
+
+  .moss-worlds-action-wrap {
+    padding: 0 10px;
+  }
+
+  .moss-worlds-action-note {
+    font-size: clamp(0.62rem, 2.7vw, 1rem);
+  }
+}
+
 .research-worlds-wrap {
   max-width: 1320px;
   margin: 0 auto;
@@ -1650,6 +1723,13 @@ footer a:hover {
   margin-bottom: 42px;
   width: 100%;
   max-width: none;
+}
+
+@media (min-width: 901px) {
+  .meep-values-home .meep-values-intro {
+    column-gap: 60px;
+    row-gap: 32px;
+  }
 }
 
 .meep-values-intro-copy {

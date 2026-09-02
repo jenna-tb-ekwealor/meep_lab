@@ -1,0 +1,17 @@
+{{- $art := resources.Get "media/theme/moss-worlds-home-decor.png" -}}
+{{- if $art -}}
+  {{- $displayArt := $art.Fit "1800x700 webp q88" -}}
+  <div class="moss-worlds-action-wrap">
+    <a class="moss-worlds-action-link" href="{{ "/blog/" | relURL }}" aria-label="See MEEP Lab in action">
+      <img
+        class="moss-worlds-action-art"
+        src="{{ $displayArt.RelPermalink }}"
+        width="{{ $displayArt.Width }}"
+        height="{{ $displayArt.Height }}"
+        alt="MEEP Lab fieldwork, lab work, and research presentations"
+        loading="lazy"
+      >
+      <span class="moss-worlds-action-note" aria-hidden="true">see MEEP Lab<br>in action</span>
+    </a>
+  </div>
+{{- end -}}
