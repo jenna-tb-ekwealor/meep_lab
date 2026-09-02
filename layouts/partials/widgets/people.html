@@ -136,10 +136,20 @@
   {{ $lab_photo := resources.Get "media/lab-photo.png" }}
 
   {{ with $lab_photo }}
+    {{ $lab_photo_720 := .Resize "720x webp q82" }}
+    {{ $lab_photo_1200 := .Resize "1200x webp q82" }}
+    {{ $lab_photo_1600 := .Resize "1600x webp q82" }}
     <img
       class="pi-lab-photo"
-      src="{{ .RelPermalink }}"
+      src="{{ $lab_photo_1200.RelPermalink }}"
+      srcset="{{ $lab_photo_720.RelPermalink }} 720w, {{ $lab_photo_1200.RelPermalink }} 1200w, {{ $lab_photo_1600.RelPermalink }} 1600w"
+      sizes="(max-width: 767px) 90vw, 60vw"
+      width="{{ $lab_photo_1200.Width }}"
+      height="{{ $lab_photo_1200.Height }}"
       alt="MEEP Lab"
+      loading="eager"
+      fetchpriority="high"
+      decoding="async"
     >
   {{ end }}
 

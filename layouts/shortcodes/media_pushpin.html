@@ -1,0 +1,4 @@
+{{- with resources.Get "media/theme/pushpin.png" -}}
+  {{- $pin := .Resize "96x webp q90" -}}
+  <img class="meep-card-pushpin" src="{{ $pin.RelPermalink }}" width="{{ $pin.Width }}" height="{{ $pin.Height }}" alt="" loading="lazy">
+{{- end -}}
