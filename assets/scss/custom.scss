@@ -826,6 +826,7 @@ footer a:hover {
   transition: transform 0.2s ease;
 }
 
+.moss-worlds-action-stage:hover .moss-worlds-action-arrow,
 .moss-worlds-action-note:hover .moss-worlds-action-arrow,
 .moss-worlds-action-note:focus-visible .moss-worlds-action-arrow {
   transform: translateX(0.12em);
