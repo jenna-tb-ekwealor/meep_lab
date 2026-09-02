@@ -2,7 +2,10 @@
 {{ $survival := resources.Get "media/theme/moss-worlds_survival.png" }}
 {{ $alliances := resources.Get "media/theme/moss-worlds_alliances.png" }}
 {{ $impacts := resources.Get "media/theme/moss-worlds_impact.png" }}
-{{ $pushpin := resources.Get "media/theme/pushpin.png" }}
+{{ $pushpin_origins := resources.Get "media/theme/pushpin_green.png" }}
+{{ $pushpin_survival := resources.Get "media/theme/pushpin_rust.png" }}
+{{ $pushpin_alliances := resources.Get "media/theme/pushpin_blue.png" }}
+{{ $pushpin_impacts := resources.Get "media/theme/pushpin_yellow.png" }}
 {{ $lichen := resources.Get "media/theme/lichen2.png" }}
 {{ with $lichen }}{{ $lichen = .Resize "140x webp q88" }}{{ end }}
 {{ $amber := resources.Get "media/amber.png" }}
@@ -16,14 +19,14 @@
 
   <div class="research-worlds-grid">
     <a class="research-world-card" href="/project/origins/">
-      {{ with $pushpin }}<img class="meep-card-pushpin" src="{{ .RelPermalink }}" alt="">{{ end }}
+      {{ with $pushpin_origins }}<img class="meep-card-pushpin" src="{{ .RelPermalink }}" alt="">{{ end }}
       {{ with $origins }}<img src="{{ .RelPermalink }}" alt="Origins icon">{{ end }}
       <h3>Origins</h3>
       <p>The histories behind moss lineages, species, and traits.</p>
     </a>
 
     <a class="research-world-card" href="/project/survival/">
-      {{ with $pushpin }}<img class="meep-card-pushpin" src="{{ .RelPermalink }}" alt="">{{ end }}
+      {{ with $pushpin_survival }}<img class="meep-card-pushpin" src="{{ .RelPermalink }}" alt="">{{ end }}
       {{ with $survival }}<img src="{{ .RelPermalink }}" alt="Survival icon">{{ end }}
       <h3>Survival</h3>
       <p>How mosses thrive in Earth’s most extreme environments.</p>
@@ -31,14 +34,14 @@
 
     <a class="research-world-card" href="/project/alliances/">
       {{ with $lichen }}<img class="meep-card-lichen" src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" alt="">{{ end }}
-      {{ with $pushpin }}<img class="meep-card-pushpin" src="{{ .RelPermalink }}" alt="">{{ end }}
+      {{ with $pushpin_alliances }}<img class="meep-card-pushpin" src="{{ .RelPermalink }}" alt="">{{ end }}
       {{ with $alliances }}<img src="{{ .RelPermalink }}" alt="Alliances icon">{{ end }}
       <h3>Alliances</h3>
       <p>The unseen partnerships that shape mosses and drylands.</p>
     </a>
 
     <a class="research-world-card" href="/project/impacts/">
-      {{ with $pushpin }}<img class="meep-card-pushpin" src="{{ .RelPermalink }}" alt="">{{ end }}
+      {{ with $pushpin_impacts }}<img class="meep-card-pushpin" src="{{ .RelPermalink }}" alt="">{{ end }}
       {{ with $impacts }}<img src="{{ .RelPermalink }}" alt="Impacts icon">{{ end }}
       <h3>Impacts</h3>
       <p>How mosses matter for ecosystems and people.</p>
