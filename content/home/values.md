@@ -22,7 +22,7 @@ advanced:
 <p>The MEEP Lab is built around community, collaboration, and curiosity. These values guide how we do science, how we support one another, and how we build a lab culture where people can grow as researchers, mentors, educators, scientists, and whole humans.</p>
 </div>
 <img class="meep-values-polaroid" src="/values/polaroid_group.png" alt="">
-<a class="meep-hero-link" href="/media/">Read more <span>→</span></a>
+<a class="meep-hero-link" href="/values/">Read more <span>→</span></a>
 
 </div>
 </div>
