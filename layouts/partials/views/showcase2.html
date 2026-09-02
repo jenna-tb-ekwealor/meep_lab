@@ -48,10 +48,10 @@
     <div class="col-12 col-md-6 order-first {{$order}}">
       {{ $stamp_name := cond (eq $world_key "impacts") "impact" $world_key }}
       {{ $polaroids := dict
-        "origins" "polaroid_2shoots.png"
-        "survival" "polaroid_male.png"
-        "alliances" "polaroid_dudleya.png"
-        "impacts" "polaroid_dust.png"
+        "origins" "polaroid_origins.png"
+        "survival" "polaroid_survival.png"
+        "alliances" "polaroid_alliances.png"
+        "impacts" "polaroid_impacts.png"
       }}
       {{ $paper := resources.Get "media/theme/paper_tape.png" }}
       {{ $stamp := resources.Get (printf "media/theme/moss-worlds_%s.png" $stamp_name) }}
