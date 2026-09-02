@@ -777,25 +777,8 @@ footer a:hover {
   margin-right: -15px;
 }
 
-.moss-worlds-action-link {
-  color: var(--meep-charcoal);
-  display: block;
+.moss-worlds-action-stage {
   position: relative;
-  text-decoration: none;
-  transition: filter 0.2s ease, transform 0.2s ease;
-}
-
-.moss-worlds-action-link:hover,
-.moss-worlds-action-link:focus-visible {
-  color: var(--meep-charcoal);
-  filter: drop-shadow(0 10px 12px rgba(43, 42, 38, 0.16));
-  text-decoration: none;
-  transform: translateY(-2px);
-}
-
-.moss-worlds-action-link:focus-visible {
-  outline: 3px solid var(--meep-olive);
-  outline-offset: 5px;
 }
 
 .moss-worlds-action-art {
@@ -806,6 +789,7 @@ footer a:hover {
 
 .moss-worlds-action-note {
   align-items: center;
+  color: var(--meep-charcoal);
   display: flex;
   font-family: 'Reenie Beanie', 'Bradley Hand', 'Segoe Print', cursive;
   font-size: clamp(1.15rem, 2.25vw, 2.15rem);
@@ -816,9 +800,24 @@ footer a:hover {
   padding: 0 1.5%;
   position: absolute;
   text-align: center;
+  text-decoration: none;
   top: 29.5%;
+  transition: color 0.2s ease, text-shadow 0.2s ease, transform 0.2s ease;
   transform: rotate(-1.2deg);
   width: 17.5%;
+}
+
+.moss-worlds-action-note:hover,
+.moss-worlds-action-note:focus-visible {
+  color: var(--meep-olive);
+  text-decoration: none;
+  text-shadow: 0 3px 6px rgba(43, 42, 38, 0.18);
+  transform: translateY(-2px) rotate(-1.2deg);
+}
+
+.moss-worlds-action-note:focus-visible {
+  outline: 3px solid var(--meep-olive);
+  outline-offset: 3px;
 }
 
 .moss-worlds-action-arrow {
@@ -827,8 +826,8 @@ footer a:hover {
   transition: transform 0.2s ease;
 }
 
-.moss-worlds-action-link:hover .moss-worlds-action-arrow,
-.moss-worlds-action-link:focus-visible .moss-worlds-action-arrow {
+.moss-worlds-action-note:hover .moss-worlds-action-arrow,
+.moss-worlds-action-note:focus-visible .moss-worlds-action-arrow {
   transform: translateX(0.12em);
 }
 
