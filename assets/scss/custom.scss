@@ -771,6 +771,7 @@ footer a:hover {
 .moss-worlds-action-wrap {
   margin: 0 auto;
   max-width: none;
+  scroll-margin-top: 76px;
   width: calc(100% + 30px);
   margin-left: -15px;
   margin-right: -15px;
@@ -833,7 +834,7 @@ footer a:hover {
 
 @media (max-width: 767px) {
   .moss-worlds-action-section.home-section {
-    padding-bottom: 22px !important;
+    padding-bottom: 8px !important;
     padding-top: 22px !important;
   }
 

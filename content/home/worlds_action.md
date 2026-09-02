@@ -6,7 +6,7 @@ title:
 design:
   columns: '1'
   spacing:
-    padding: ["34px", "0", "34px", "0"]
+    padding: ["34px", "0", "8px", "0"]
 advanced:
   css_class: moss-worlds-action-section
 ---
