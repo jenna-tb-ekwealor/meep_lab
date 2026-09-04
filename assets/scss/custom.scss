@@ -826,20 +826,10 @@ footer a:hover {
   transition: transform 0.2s ease;
 }
 
-.moss-worlds-action-line {
-  white-space: nowrap;
-}
-
 .moss-worlds-action-stage:hover .moss-worlds-action-arrow,
 .moss-worlds-action-note:hover .moss-worlds-action-arrow,
 .moss-worlds-action-note:focus-visible .moss-worlds-action-arrow {
   transform: translateX(0.12em);
-}
-
-@media (min-width: 1440px) {
-  .moss-worlds-action-note {
-    font-size: 2rem;
-  }
 }
 
 @media (max-width: 767px) {
