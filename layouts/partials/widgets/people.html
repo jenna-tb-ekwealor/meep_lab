@@ -42,7 +42,7 @@
       {{ $query = $query.Reverse }}
     {{ end }}
 
-    {{ if $query | and (gt (len $page.Params.content.user_groups) 1) }}
+    {{ if and $query (and (gt (len $page.Params.content.user_groups) 1) (ne $group "Principal Investigator")) }}
     <div class="col-md-12">
       <h2 class="mb-4">{{ $group | markdownify }}</h2>
     </div>
