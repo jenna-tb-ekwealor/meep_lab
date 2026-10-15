@@ -23,12 +23,12 @@ content:
         media: crustchunk.JPG
       new_pub:
         title: New Publication
-        content: "Shaped by context: Evolutionary trajectories of desiccation tolerance in land plants. How an ancient trait was lost, retained, and repeatedly reassembled across land plants."
+        content: "Surviving decades of drought: Desert mosses recover after 17 years of desiccation, with humid air restoring photosynthetic function and elevated CO₂ enhancing growth and recovery."
         link:
           text: Read more
-          url: /publication/2026_ajb_evol/
-        location: American Journal of Botany
-        date: March, 2026
+          url: /publication/2026_oecologia_humid/
+        location: Oecologia
+        date: October, 2026
 
     - style: field-notes
       background:
