@@ -18,9 +18,9 @@ bio: MEEP Lab graduate student.
 role: 1st Year, M.S. Integrative Biology
 
 interests:
-  - Public Health
-  - Environmental Health
-  - Community Health
+  - Plant Genetics & Genomics
+  - Plant Biology
+  - Agriculture
   - Bioinformatics
       
 # Highlight the author in author lists? (true/false)
