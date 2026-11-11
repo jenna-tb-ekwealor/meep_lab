@@ -26,14 +26,30 @@
     {{ end }}
 
     {{ $query := where .Pages ".IsNode" false }}
-    {{ if $query }}
+    {{ $publications := where $query "Section" "publication" }}
+    {{ $blogPosts := where $query "Section" "blog" }}
+
+    {{ if or $publications $blogPosts }}
       <div class="article-widget content-widget-hr">
         <h3>{{ i18n "user_profile_latest" | default "Latest" }}</h3>
-        <ul>
-          {{ range $query }}
-            <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
-          {{ end }}
-        </ul>
+
+        {{ if $publications }}
+          <h4><a href="{{ "/publication/" | relURL }}">MEEP Lab publications</a></h4>
+          <ul>
+            {{ range $publications }}
+              <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+            {{ end }}
+          </ul>
+        {{ end }}
+
+        {{ if $blogPosts }}
+          <h4><a href="{{ "/blog/" | relURL }}">Blog posts</a></h4>
+          <ul>
+            {{ range $blogPosts }}
+              <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+            {{ end }}
+          </ul>
+        {{ end }}
       </div>
     {{ end }}
   </div>
