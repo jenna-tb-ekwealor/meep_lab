@@ -84,6 +84,25 @@ a:focus {
   margin-bottom: 2rem;
 }
 
+#profile-page .content-widget-hr > ul {
+  margin-bottom: 0;
+}
+
+#profile-page .content-widget-hr > .see-all {
+  margin-top: 0.5rem;
+  margin-bottom: 2.5rem;
+}
+
+.custom-bluesky {
+  display: inline-block;
+  width: 2rem;
+  height: 2rem;
+  background-color: currentColor;
+  -webkit-mask: url('/media/bluesky.svg') center / contain no-repeat;
+  mask: url('/media/bluesky.svg') center / contain no-repeat;
+  vertical-align: middle;
+}
+
 @media screen and (max-width: 768px) {
   .media.stream-item.blog-stream-item .blog-stream-thumbnail img {
     max-width: 110px;
