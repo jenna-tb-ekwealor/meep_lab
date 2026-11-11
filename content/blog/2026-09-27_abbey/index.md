@@ -7,7 +7,7 @@ authors:
 - admin
 date: 2026-11-11T10:27:24-08:00
 ---
-[**Abbey Schedler**](../../content/authors/AbbeySchedler/)’s post-
+[**Abbey Schedler**](../../../content/author/abbey-schedler/)’s post-
 baccalaureate year in the MEEP Lab has come to an end, and we have a lot to
 celebrate!
 
