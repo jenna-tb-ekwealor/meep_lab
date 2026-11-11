@@ -34,7 +34,7 @@
         <h3>{{ i18n "user_profile_latest" | default "Latest" }}</h3>
 
         {{ if $publications }}
-          <h4><a href="{{ "/publication/" | relURL }}">MEEP Lab publications</a></h4>
+          <h4>MEEP Lab publications</h4>
           <ul>
             {{ range first 3 $publications.ByDate.Reverse }}
               <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
@@ -44,7 +44,7 @@
         {{ end }}
 
         {{ if $blogPosts }}
-          <h4><a href="{{ "/blog/" | relURL }}">Blog posts</a></h4>
+          <h4>Blog posts</h4>
           <ul>
             {{ range first 3 $blogPosts.ByDate.Reverse }}
               <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
