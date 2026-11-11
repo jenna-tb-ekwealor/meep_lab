@@ -57,12 +57,11 @@ Her funded project, [“Tiny worlds in desert
 moss”](https://experiment.com/projects/tiny-worlds-in-desert-moss-microbes-
 and-microfauna-in-biological-soil-crusts), is one example of the new research
 directions she helped develop during her time here.
+
 Abbey presented her work to audiences close to home and around the world,
 presenting at regional and national American Society for Microbiology
 meetings, the Ecological Society of America meeting, Biocrust6 in China, and
-the Bay Area RaMP symposium.
-
-These experiences gave her opportunities to exchange ideas and connect with
+the Bay Area RaMP symposium. These experiences gave her opportunities to exchange ideas and connect with
 researchers across microbiology, ecology, and biocrust science.
 
 <figure>
@@ -95,14 +94,11 @@ reorganize!) the lab to make it more efficient and accessible.
 She also mentored a high school student through a biocrust experiment that
 earned finalist recognition and advanced to a regional competition, and
 participated in several community outreach events such as with the non-profit
-Community Resources for Science.
-
-These are just a few examples of the care and initiative she brought to the
+Community Resources for Science.These are just a few examples of the care and initiative she brought to the
 lab and the wider community.
-Thank you, Abbey, for your hard work, curiosity, friendly demeanor, and
-organizational magic.
 
-It was a joy to have you in the MEEP Lab.
+Thank you, Abbey, for your hard work, curiosity, friendly demeanor, and
+organizational magic. It was a joy to have you in the MEEP Lab!
 
 We’re grateful to NSF RaMP for supporting her time with us, proud of
 everything she accomplished, and looking forward to future MEEP reunion
