@@ -1,0 +1,42 @@
+{{- define "main" -}}
+
+{{/*
+  Wowchemy author links resolve to the `authors` taxonomy. The profile
+  records live in content/authors/, so taxonomy pages need to look up the
+  matching profile before rendering the About widget.
+*/}}
+{{ $profile := false }}
+{{ range where site.Pages "Section" "authors" }}
+  {{ if and .File (eq .Title $.Title) }}
+    {{ $profile = . }}
+  {{ end }}
+{{ end }}
+
+{{ if not $profile }}
+  <div class="universal-wrapper pt-3">
+    <h1>{{ .Title }}</h1>
+  </div>
+{{ end }}
+
+<section id="profile-page" class="pt-5">
+  <div class="container">
+    {{ if $profile }}
+      {{ $username := path.Base $profile.File.Dir }}
+      {{ partial "widgets/about.html" (dict "root" $ "page" $profile "author" $username) }}
+    {{ end }}
+
+    {{ $query := where .Pages ".IsNode" false }}
+    {{ if $query }}
+      <div class="article-widget content-widget-hr">
+        <h3>{{ i18n "user_profile_latest" | default "Latest" }}</h3>
+        <ul>
+          {{ range $query }}
+            <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+          {{ end }}
+        </ul>
+      </div>
+    {{ end }}
+  </div>
+</section>
+
+{{- end -}}
