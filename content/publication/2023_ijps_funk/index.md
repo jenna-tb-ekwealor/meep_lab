@@ -2,7 +2,7 @@
 title: "Let the records show: Attribution of scientific credit in natural history collections"
 authors:
 - Rebecca B. Dikow
-- admin
+- Jenna T. B. Ekwealor
 - William J. B. Mattingly
 - Michael G. Trizna
 - Elizabeth Harmon

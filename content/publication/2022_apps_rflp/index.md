@@ -1,7 +1,7 @@
 ---
 title: "Genotypic confirmation of a biased phenotypic sex ratio in a dryland moss using restriction fragment length polymorphisms"
 authors:
-- admin
+- Jenna T. B. Ekwealor
 - Simone D. Benjamin
 - Jordan Z. Jomsky
 - Matthew A. Bowker

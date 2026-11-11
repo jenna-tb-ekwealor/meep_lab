@@ -2,7 +2,7 @@
 title: "Life on the dry side: a roadmap to understanding desiccation tolerance and accelerating translational applications"
 authors:
 - Rose A. Marks
-- admin
+- Jenna T. B. Ekwealor
 - Mariana A. S. Artur
 - Luis Bondi
 - Thomas C. Boothby

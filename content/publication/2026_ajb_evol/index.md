@@ -3,7 +3,7 @@ title: "Shaped by context: Evolutionary trajectories of desiccation tolerance in
 authors:
 - Rose A. Marks
 - R. Shawn Abrahams
-- admin
+- Jenna T. B. Ekwealor
 
 date: "2026-03-24T00:00:00Z"
 doi: "https://doi.org/10.1002/ajb2.70180"

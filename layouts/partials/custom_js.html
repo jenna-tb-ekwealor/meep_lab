@@ -1,0 +1,70 @@
+<script>
+  (function () {
+    function getAuthorKey() {
+      var author = new URLSearchParams(window.location.search).get("author");
+      return author ? author.toLowerCase() : "";
+    }
+
+    function initBlogFilters() {
+      var container = document.getElementById("container-blog");
+      if (!container) {
+        return;
+      }
+
+      var input = document.querySelector(".blog-filter-search");
+      var emptyMessage = document.querySelector(".blog-filter-empty");
+      var items = Array.prototype.slice.call(container.querySelectorAll(".blog-filter-item"));
+      var authorKey = getAuthorKey();
+
+      function applyFilters() {
+        var search = input ? input.value.trim().toLowerCase() : "";
+        var visibleCount = 0;
+
+        items.forEach(function (item) {
+          var authors = (item.getAttribute("data-authors") || "").split(/\s+/);
+          var matchesAuthor = !authorKey || authors.indexOf(authorKey) !== -1;
+          var matchesSearch = !search || item.textContent.toLowerCase().indexOf(search) !== -1;
+          var isVisible = matchesAuthor && matchesSearch;
+
+          item.hidden = !isVisible;
+          if (isVisible) {
+            visibleCount += 1;
+          }
+        });
+
+        if (emptyMessage) {
+          emptyMessage.hidden = visibleCount !== 0;
+        }
+      }
+
+      if (input) {
+        input.addEventListener("input", applyFilters);
+      }
+      applyFilters();
+    }
+
+    function initPublicationAuthorFilter() {
+      var authorKey = getAuthorKey();
+      var select = document.querySelector(".author-select");
+      if (!authorKey || !select || !window.jQuery) {
+        return;
+      }
+
+      var filterValue = ".author-" + authorKey;
+      var option = Array.prototype.find.call(select.options, function (item) {
+        return item.value === filterValue;
+      });
+
+      if (option) {
+        window.jQuery(select).val(filterValue).trigger("change");
+      }
+    }
+
+    function init() {
+      initBlogFilters();
+      initPublicationAuthorFilter();
+    }
+
+    window.addEventListener("load", init);
+  })();
+</script>

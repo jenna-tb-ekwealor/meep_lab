@@ -1,7 +1,7 @@
 ---
 title: "Sex chromosomes: How to make a hermaphrodite"
 authors:
-- admin
+- Jenna T. B. Ekwealor
 - Scott W. Roy
 date: "2023-11-07T00:00:00Z"
 doi: "https://doi.org/10.1086/724949"

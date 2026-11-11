@@ -1,7 +1,7 @@
 ---
 title: "Water status shapes responses to ultraviolet radiation in two stress-tolerant mosses"
 authors:
-- admin
+- Jenna T. B. Ekwealor
 - Suzanne Kosina
 - Anderson T. Silva
 - Benjamin Bowen

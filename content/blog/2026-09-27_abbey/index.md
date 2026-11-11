@@ -4,7 +4,7 @@ summary: "A year of research, mentoring, and lab leadership with NSF RaMP
 scholar Abbey Schedler"
 authors:
 - KayleeMacomb
-- admin
+- Jenna T. B. Ekwealor
 date: 2026-11-11T10:27:24-08:00
 ---
 [**Abbey Schedler**](../../../author/abbey-schedler/)’s post-baccalaureate year in the MEEP Lab has come to an end, and we have a lot to celebrate!

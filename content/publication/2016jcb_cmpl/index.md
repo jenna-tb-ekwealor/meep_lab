@@ -2,7 +2,7 @@
 title: "C-Mpl is expressed on osteoblasts and osteoclasts and is important in regulating skeletal homeostasis"
 authors:
 - Tomas E. Meijome
-- admin
+- Jenna T. B. Ekwealor
 - R. Adam Hooker
 - Ying-Hua Cheng
 - Wendy A. Ciovacco

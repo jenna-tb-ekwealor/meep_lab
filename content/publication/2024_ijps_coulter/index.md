@@ -1,7 +1,7 @@
 ---
 title: "Reproduction and population dynamics in autonomous gametophytes"
 authors:
-- admin
+- Jenna T. B. Ekwealor
 - Kirsten M. Fisher
 date: "2024-07-01T00:00:00Z"
 doi: "https://doi.org/10.1086/729606"

@@ -5,7 +5,7 @@ authors:
 - Bei Gao
 - Kirsten M. Fisher
 - Brent D. Mishler
-- admin
+- Jenna T. B. Ekwealor
 - Lloyd R. Stark
 - Xiaoshuang Li
 - Daoyuan Zhang

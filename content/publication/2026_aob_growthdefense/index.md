@@ -1,7 +1,7 @@
 ---
 title: "Growth–defence trade-off defines a diffusion limit. A commentary on ‘Boundary-line trade-off in bryophytes between UV photoprotection and photosynthetic capacity, but not desiccation tolerance’"
 authors:
-- admin
+- Jenna T. B. Ekwealor
 - Kevin A. Simonin
 
 date: "2026-01-19T00:00:00Z"

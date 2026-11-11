@@ -9,7 +9,7 @@ authors:
 - Carrie M. Tribble
 - Carl J. Rothfels
 - Pieter Johnson
-- admin
+- Jenna T. B. Ekwealor
 
 date: "2026-10-19T00:00:00Z"
 doi: "https://doi.org/10.64898/2026.10.16.758102"

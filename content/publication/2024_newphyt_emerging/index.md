@@ -2,7 +2,7 @@
 title: "Syntrichia ruralis: emerging model moss genome reveals a conserved and previously unknown regulator of desiccation in flowering plants"
 authors:
 - Xiaodan Zhang
-- admin
+- Jenna T. B. Ekwealor
 - Brent D. Mishler
 - Anderson T. Silva
 - Li'ang Yu

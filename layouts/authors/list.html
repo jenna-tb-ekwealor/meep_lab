@@ -28,6 +28,7 @@
     {{ $query := where .Pages ".IsNode" false }}
     {{ $publications := where $query "Section" "publication" }}
     {{ $blogPosts := where $query "Section" "blog" }}
+    {{ $authorKey := replace (urlize .Title) "." "" }}
 
     {{ if or $publications $blogPosts }}
       <div class="article-widget content-widget-hr">
@@ -36,19 +37,21 @@
         {{ if $publications }}
           <h4><a href="{{ "/publication/" | relURL }}">MEEP Lab publications</a></h4>
           <ul>
-            {{ range $publications }}
+            {{ range first 3 $publications.ByDate.Reverse }}
               <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
             {{ end }}
           </ul>
+          <div class="see-all"><a href="{{ printf "/publication/?author=%s" $authorKey | relURL }}">See all <i class="fas fa-angle-right"></i></a></div>
         {{ end }}
 
         {{ if $blogPosts }}
           <h4><a href="{{ "/blog/" | relURL }}">Blog posts</a></h4>
           <ul>
-            {{ range $blogPosts }}
+            {{ range first 3 $blogPosts.ByDate.Reverse }}
               <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
             {{ end }}
           </ul>
+          <div class="see-all"><a href="{{ printf "/blog/?author=%s" $authorKey | relURL }}">See all <i class="fas fa-angle-right"></i></a></div>
         {{ end }}
       </div>
     {{ end }}

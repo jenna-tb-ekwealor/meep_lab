@@ -1,0 +1,40 @@
+{{- define "main" -}}
+
+{{ partial "page_header.html" . }}
+
+<div class="universal-wrapper">
+  {{ with .Content }}
+    <div class="article-style">{{ . }}</div>
+  {{ end }}
+
+  <div class="form-row mb-4">
+    <div class="col-auto">
+      <input type="search" class="blog-filter-search form-control form-control-sm" placeholder="{{ i18n "search_placeholder" }}" autocapitalize="off"
+      autocomplete="off" autocorrect="off" role="textbox" spellcheck="false" aria-label="Search blog posts">
+    </div>
+  </div>
+
+  <div id="container-blog">
+    {{ range $index, $item := .Data.Pages.ByDate.Reverse }}
+      {{ $authorKeys := slice }}
+      {{ range .Params.authors }}
+        {{ $term := . }}
+        {{ $authorKey := replace (urlize $term) "." "" }}
+        {{ range where site.Pages "Section" "authors" }}
+          {{ if in .Params.authors $term }}
+            {{ $authorKey = replace (urlize .Title) "." "" }}
+          {{ end }}
+        {{ end }}
+        {{ $authorKeys = $authorKeys | append $authorKey }}
+      {{ end }}
+
+      <div class="blog-filter-item" data-authors="{{ delimit $authorKeys " " }}">
+        {{ partial "functions/render_view" (dict "page" $ "item" . "view" ($.Params.view | default "compact") "index" $index) }}
+      </div>
+    {{ end }}
+  </div>
+
+  <p class="blog-filter-empty" hidden>No matching blog posts.</p>
+</div>
+
+{{- end -}}

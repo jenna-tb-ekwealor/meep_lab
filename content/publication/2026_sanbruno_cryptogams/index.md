@@ -6,7 +6,7 @@ authors:
 - FreyRogers
 - KayleeMacomb
 - Michael J. Song
-- admin
+- Jenna T. B. Ekwealor
 
 date: "2026-10-19T00:00:00Z"
 doi: "https://doi.org/10.64898/2026.10.16.759761"

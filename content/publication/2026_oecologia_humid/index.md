@@ -6,7 +6,7 @@ authors:
 - Casey M. Schine
 - Mandy L. Slate
 - John C. Brinda
-- admin
+- Jenna T. B. Ekwealor
 - Kirsten K. Coe
 
 doi: "https://doi.org/10.1007/s00442-026-05982-7"

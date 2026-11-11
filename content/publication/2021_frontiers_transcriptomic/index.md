@@ -1,7 +1,7 @@
 ---
 title: "Transcriptomic effects of acute ultraviolet radiation exposure on two Syntrichia mosses"
 authors:
-- admin
+- Jenna T. B. Ekwealor
 - Brent D. Mishler
 date: "2021-09-17T00:00:00Z"
 doi: "https://doi.org/10.3389/fpls.2021.752913"
