@@ -80,6 +80,10 @@ a:focus {
   width: 260px;
 }
 
+#container-blog .blog-filter-item:not(:last-child) {
+  margin-bottom: 2rem;
+}
+
 @media screen and (max-width: 768px) {
   .media.stream-item.blog-stream-item .blog-stream-thumbnail img {
     max-width: 110px;

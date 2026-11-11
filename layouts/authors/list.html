@@ -28,7 +28,6 @@
     {{ $query := where .Pages ".IsNode" false }}
     {{ $publications := where $query "Section" "publication" }}
     {{ $blogPosts := where $query "Section" "blog" }}
-    {{ $authorKey := replace (urlize .Title) "." "" }}
 
     {{ if or $publications $blogPosts }}
       <div class="article-widget content-widget-hr">
@@ -41,7 +40,7 @@
               <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
             {{ end }}
           </ul>
-          <div class="see-all"><a href="{{ printf "/publication/?author=%s" $authorKey | relURL }}">See all <i class="fas fa-angle-right"></i></a></div>
+          <div class="see-all"><a href="{{ "/publication/" | relURL }}">See all <i class="fas fa-angle-right"></i></a></div>
         {{ end }}
 
         {{ if $blogPosts }}
@@ -51,7 +50,7 @@
               <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
             {{ end }}
           </ul>
-          <div class="see-all"><a href="{{ printf "/blog/?author=%s" $authorKey | relURL }}">See all <i class="fas fa-angle-right"></i></a></div>
+          <div class="see-all"><a href="{{ "/blog/" | relURL }}">See all <i class="fas fa-angle-right"></i></a></div>
         {{ end }}
       </div>
     {{ end }}
