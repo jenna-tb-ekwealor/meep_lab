@@ -77,7 +77,7 @@ src="biocrust.jpg" alt="" style="width: 400px; "></a>
 <a href="asm.jpg/"><img
 src="asm.jpg" alt="" style="width: 400px; "></a>
   <img src="" width="600">
-  <figcaption>Abbey presenting her poster at the American Society for Microbiology conference.
+  <figcaption>Abbey presenting her poster at the American Society for Microbiology conference in Washington D.C.
 </figcaption>
 </figure>
 
@@ -85,7 +85,7 @@ src="asm.jpg" alt="" style="width: 400px; "></a>
 <a href="esa.jpg/"><img
 src="esa.jpg" alt="" style="width: 400px; "></a>
   <img src="" width="600">
-  <figcaption>Abbey presenting her poster at the Ecological Society of America conference.
+  <figcaption>Abbey presenting her poster at the Ecological Society of America conference in Salt Lake City, Utah.
 </figcaption>
 </figure>
 
