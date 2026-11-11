@@ -1,4 +1,6 @@
 ---
+authors:
+  - Jenna T. B. Ekwealor
 title: Willow joined the lab!
 date: 2024-06-15
 ---

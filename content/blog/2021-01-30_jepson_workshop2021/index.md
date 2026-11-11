@@ -1,4 +1,6 @@
 ---
+authors:
+  - Jenna T. B. Ekwealor
 title: "Wonders of a dryland moss"
 summary: "I co-led virtual workshop exploring the dimensions of biodiversity in the dryland moss genus Syntrichia."
 

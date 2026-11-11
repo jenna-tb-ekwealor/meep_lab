@@ -1,4 +1,6 @@
 ---
+authors:
+  - Jenna T. B. Ekwealor
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "BOTANY 2019 in Tucson, Arizona"

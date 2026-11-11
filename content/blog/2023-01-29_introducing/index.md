@@ -1,4 +1,6 @@
 ---
+authors:
+  - Jenna T. B. Ekwealor
 title: Introducing the MEEP Lab at San Francisco State University!
 date: 2023-01-29
 ---

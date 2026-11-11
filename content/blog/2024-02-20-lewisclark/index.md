@@ -1,4 +1,6 @@
 ---
+authors:
+  - Jenna T. B. Ekwealor
 title: Moss Appreciation Week at Lewis & Clark College
 date: 2024-02-20
 summary: I had the pleasure of being the keynote speaker at the 6th Annual Moss Appreciation Week at Lewis & Clark College, where I also led a moss walk and shared insights about mosses that grow under rocks.

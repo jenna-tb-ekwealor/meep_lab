@@ -1,4 +1,6 @@
 ---
+authors:
+  - Jenna T. B. Ekwealor
 title: College of Science and Engineering Student Project Showcase 2024
 date: 2024-05-03
 summary: Ashley won 3rd place in the Environment category of the SFSU College of Science and Engineering 2024 Student Project Showcase!

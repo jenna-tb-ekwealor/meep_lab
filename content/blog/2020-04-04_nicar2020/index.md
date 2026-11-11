@@ -1,4 +1,6 @@
 ---
+authors:
+  - Jenna T. B. Ekwealor
 title: "NICAR 2020 in New Orleans, Louisiana"
 summary: "A scientist attends a data journalism conference to learn science communication from the pros."
 date: 2020-04-04T18:15:21-07:00

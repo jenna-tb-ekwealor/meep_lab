@@ -1,4 +1,6 @@
 ---
+authors:
+  - Jenna T. B. Ekwealor
 title: "Bryology 2019 in Madrid, Spain"
 summary: "Re-cap of a small international conference focused on bryophyte research."
 date: 2019-07-16T18:15:21-07:00

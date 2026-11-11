@@ -1,4 +1,6 @@
 ---
+authors:
+  - Jenna T. B. Ekwealor
 title: "Field work on San Bruno Mountain"
 summary: "A summer of hiking and surveying on San Bruno Mountain, surrounded by moss, lichen, and ever-changing weather."
 date: 2024-07-20T18:15:21-07:00

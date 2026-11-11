@@ -1,4 +1,6 @@
 ---
+authors:
+  - Jenna T. B. Ekwealor
 title: "Fieldwork-wildlife conflicts"
 summary: "Or, how desert woodrats tried to sabotage my dissertation."
 date: 2019-09-17T18:15:21-07:00

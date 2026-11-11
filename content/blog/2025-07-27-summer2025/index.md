@@ -1,4 +1,6 @@
 ---
+authors:
+  - Jenna T. B. Ekwealor
 title: SFSU Summer Research Symposium 2025
 date: 2025-07-27
 summary: Four MEEP Lab undergraduate researchers presented their work at the 2025 SFSU Summer Research Symposium!

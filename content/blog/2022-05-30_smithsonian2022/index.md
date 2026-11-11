@@ -1,4 +1,6 @@
 ---
+authors:
+  - Jenna T. B. Ekwealor
 title: "A trip to Washington, D.C."
 summary: "I traveled to D.C. for the Smithsonian Botanical Symposium and to work in-person with Rebecca and the Data Science Lab."
 date: 2022-05-30T18:15:21-07:00

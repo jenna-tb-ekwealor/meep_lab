@@ -1,4 +1,6 @@
 ---
+authors:
+  - Jenna T. B. Ekwealor
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "BOTANY 2022 in Anchorage, Alaska"

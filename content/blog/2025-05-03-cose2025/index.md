@@ -1,4 +1,6 @@
 ---
+authors:
+  - Jenna T. B. Ekwealor
 title: Katrina McCullough wins 3rd place in the 2025 CoSE Student Showcase!
 date: 2025-05-06
 summary: Katrina won 3rd place in the Environment category of the 2025 CoSE Student Showcase!

@@ -1,4 +1,6 @@
 ---
+authors:
+  - Jenna T. B. Ekwealor
 title: Ashley joined the lab!
 date: 2024-01-29
 ---

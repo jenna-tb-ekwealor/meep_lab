@@ -1,4 +1,6 @@
 ---
+authors:
+  - Jenna T. B. Ekwealor
 title: "Field work in SW Utah"
 date: 2023-05-29T18:15:21-07:00
 toc: true

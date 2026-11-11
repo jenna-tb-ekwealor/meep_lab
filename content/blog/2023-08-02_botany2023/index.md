@@ -1,4 +1,6 @@
 ---
+authors:
+  - Jenna T. B. Ekwealor
 title: Conference rendezvous at BOTANY 2023
 date: 2023-08-01
 ---

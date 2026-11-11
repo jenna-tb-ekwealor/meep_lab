@@ -1,4 +1,6 @@
 ---
+authors:
+  - Jenna T. B. Ekwealor
 title: Kat joined the lab!
 date: 2024-06-12
 ---

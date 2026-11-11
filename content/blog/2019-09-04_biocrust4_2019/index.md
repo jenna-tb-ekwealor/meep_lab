@@ -1,4 +1,6 @@
 ---
+authors:
+  - Jenna T. B. Ekwealor
 title: "Biocrust4 2019 in Minjerribah, Australia"
 subtitle: ""
 summary: "Re-cap of a small international conference centered around the study of biological soil crusts and their organisms."

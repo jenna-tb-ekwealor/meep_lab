@@ -1,3 +1,10 @@
+---
+title: "Reflections from the ASN Conference in Pacific Grove, CA"
+date: 2025-01-10
+authors:
+  - Jenna T. B. Ekwealor
+---
+
 Reflections from the ASN Conference in Pacific Grove, CA
 The American Society of Naturalists (ASN) conference at the Asilomar Conference Grounds in Pacific Grove, California, was an incredible experience. I had the chance to attend with two members from the MEEP Lab, Ashley and Richard, as well as our honorary member, Leo. The location was absolutely perfect—those beautiful coastal views set the stage for a conference full of engaging science and meaningful connections.
 Kat gave an excellent lightning talk, presenting her research in a fast-paced, yet captivating way. It was exciting to see her share her work with such an engaged and dynamic audience.

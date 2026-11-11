@@ -1,4 +1,6 @@
 ---
+authors:
+  - Jenna T. B. Ekwealor
 title: "Growing in Relationship: Plant Ecology, the Three Sisters, and Traditional Ecological Knowledge"
 summary: "Last fall, our Plant Ecology class combined hands-on experimentation with the Three Sisters planting system, soil nutrient treatments, and the teachings of Braiding Sweetgrass to explore plant interactions, traditional ecological knowledge, and the power of growing in relationship."
 date: 2025-03-25T18:15:21-07:00
