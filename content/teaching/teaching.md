@@ -43,8 +43,8 @@ date_format = "2006"
   title = "BIOL 710 Advanced Biometry"
   organization = "San Francisco State University, Department of Biology"
   date_start = 2024-01-27
-  date_end = '2025-05-27'
-  description = "Biological data analysis in R, emphasizing statistical reasoning, data visualization, reproducible workflows, and independent research applications. [Link to syllabus](https://docs.google.com/document/d/1zW0qRF2vLT8w3NySu4IhFjDORPfYNfKl/edit?usp=sharing&ouid=108780207838976627617&rtpof=true&sd=truew)"
+  date_end = '2026-05-27'
+  description = "Biological data analysis in R, emphasizing statistical reasoning, data visualization, reproducible workflows, and independent research applications. [Link to syllabus](https://docs.google.com/document/d/1cm2_UvyhSu6DbovxX3XASZsJu4WbyQVVGGCLraO1Cu0/edit?usp=sharing)"
 
 [[item]]
   title = "Natural History of the Bay Area: Bryophytes"
