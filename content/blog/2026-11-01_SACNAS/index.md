@@ -13,7 +13,7 @@ Her research looks at the genetic basis of cosexuality in *S. princeps*. Using b
 
 <figure>
   <a href="feature.jpg">
-    <img src="feature.jpg" alt="Describe the photo here" style="width: 600px; max-width: 100%; height: auto;">
+    <img src="feature.jpg" style="width: 600px; max-width: 100%; height: auto;">
   </a>
   <figcaption>Kaylee with her poster at SACNAS.</figcaption>
 </figure>
@@ -25,11 +25,11 @@ Her research looks at the genetic basis of cosexuality in *S. princeps*. Using b
   <figcaption>Kaylee with students from Clovis Community College who stopped by to listen to her research!</figcaption>
 </figure>
 
-Kaylee attended SACNAS with support from a SACNAS travel scholarship and funded through the Maxwell/Hanrahan Foundation. 
+Kaylee attended SACNAS with support from a SACNAS travel scholarship, funded through the Maxwell/Hanrahan Foundation. 
 
 <figure>
   <a href="sacnas.jpg">
-    <img src="sacnas.jpg" alt="Describe the photo here" style="width: 600px; max-width: 100%; height: auto;">
+    <img src="sacnas.jpg" style="width: 600px; max-width: 100%; height: auto;">
   </a>
   <figcaption>The SACNAS opening ceremony.</figcaption>
 </figure>
