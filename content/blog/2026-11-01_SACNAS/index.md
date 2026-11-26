@@ -12,8 +12,8 @@ Kaylee presented a poster during the Thursday session titled *"How to make a her
 Her research looks at the genetic basis of cosexuality in *S. princeps*. Using both computational and molecular approaches, she is studying how cosexuality (monoicy) shows up in the *S. princeps* genome and which biological mechanisms could have produced it.
 
 <figure>
-  <a href="feature.jpg">
-    <img src="feature.jpg" style="width: 600px; max-width: 100%; height: auto;">
+  <a href="poster.jpg">
+    <img src="poster.jpg" style="width: 600px; max-width: 100%; height: auto;">
   </a>
   <figcaption>Kaylee with her poster at SACNAS.</figcaption>
 </figure>
