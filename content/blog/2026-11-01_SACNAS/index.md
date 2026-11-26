@@ -1,6 +1,6 @@
 ---
-title: "SACNAS Conference Recap!"
-summary: "Graduate student Kaylee Macomb attended SACNAS National Diversity in STEM conference in Long Beach, CA"
+title: "Grad Student Kaylee presents at SACNAS National Diversity in STEM Conference 2026"
+summary: "A recap on Kaylee's attendance at the SACNAS National Diversity in STEM conference in Long Beach, CA"
 authors:
   - KayleeMacomb
 date: 2026-11-01T11:17:08-08:00
