@@ -173,4 +173,9 @@ Getting to know people over food was part of the fun of spending a week together
 Congratulations to Abbey, Michael, Paris, and Joshua on sharing their research at Biocrust6!
 And thank you to the organizers and our hosts at Northwest A&F University for a week of science, exploration, and hospitality.
 
+
+
+
+
+
 {{< gallery album="biocrust6" >}}
