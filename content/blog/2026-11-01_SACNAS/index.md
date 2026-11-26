@@ -1,6 +1,6 @@
 ---
 title: "SACNAS Conference Recap!"
-summary: "Graduate student Kaylee Macomb attends SACNAS in Long Beach, CA"
+summary: "Graduate student Kaylee Macomb attended SACNAS in Long Beach, CA"
 authors:
   - KayleeMacomb
 date: 2026-11-01T11:17:08-08:00
